@@ -14,5 +14,6 @@ snapchat    --> snapchat,   snapchatToken,   snapchatID
 youtube     --> youtube,    youtubeToken,    youtubeID
 twitch         --> twitch,       twitchToken,        twitchID
 google       --> google,      googleToken,       googleID
+snapchat    --> snapchat,   snapchatToken,   snapchatID
 
 
