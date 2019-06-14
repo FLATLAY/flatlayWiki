@@ -1,5 +1,5 @@
-<!-- TITLE: Portal Creator -->
-<!-- SUBTITLE: A quick summary of Portal Creator -->
+<!-- TITLE: Creator Portal -->
+<!-- SUBTITLE: Creator Social Media -->
 
 # Creator
 Creator Portal refers to flatlay socila media to enables cratives upload their content and interact with brands as well as general public.
