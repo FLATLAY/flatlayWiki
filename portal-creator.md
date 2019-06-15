@@ -7,6 +7,6 @@ Creator Portal refers to flatlay socila media to enables cratives upload their c
 **Social Integration**
 we have instagram, facebook, ....
 for more info check the following link:
-https://wiki.flatlay.io/create/portal-creator/social-integrations
+https://wiki.flatlay.io/portal-creator/social-integrations
 
 
