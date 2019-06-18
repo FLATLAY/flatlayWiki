@@ -58,5 +58,9 @@
 * Run on Browser: https://accounts.google.com/o/oauth2/v2/auth?scope=https://www.googleapis.com/auth/youtube.force-ssl&include_granted_scopes=true&state=97600299124497862398746&redirect_uri=http://www.flat-lay.com&response_type=token&client_id=349707998897-qon7lhgu8l7ape0bc0fvka51ghv9tv4p.apps.googleusercontent.com
 * Callback: flat-lay.com/#state=
 * Save: "access_token"
-								
+
+### Facebook
+
+* Use SDK ;)
+
 								
