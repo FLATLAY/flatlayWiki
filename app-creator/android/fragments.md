@@ -76,11 +76,148 @@
 * This fragment shows the product full view where user can create collection and add products to them
 * Also they can view on website or purchase it
 
-> * Important
-> asafasfasasf 
+> **Important**
+> setData method either gets product from bundle or fetchs info from the product ID which is passed on from any other fragment
 
 
 * **API**
 * ProductBasedOnBrandApi.getProductsBasedOnCollectionList
 * ProductInfoAPI.getProductsInfo
-* 
+* CartApi.getCartList
+* CartApi.addToCart
+* CollectionApi.addProductInCollection
+* CollectionApi.deleteProductFromCollection
+* CollectionApi.addNewCollection
+* GeneralSearchApi.searchProduct
+
+* **Model**
+* Product..1..2..3
+
+### FragmentHotSection & FragmentInspirationSection
+
+* These two fragments show posts from trending section and feed section respectively
+
+* **API**
+* InspirationFeedRes.getFlatlays
+* DeletePostApi.removePost
+* InspirationFeedApi.getTrendingFlatlay
+* InspirationFeedApi.getFlatlay
+
+* **Adapter**
+* HotAdapter
+* InspirationAdapterNew
+
+* **Model**
+* Flatlay
+
+### FragmentInspirationDetail
+
+* This fragment shows the post in details with all comments and products
+
+* **API**
+* DeletePostApi.removePost
+* ProductInfoAPI.getProductsInfo
+* InspirationSectionApi.getComments
+* FollowUserApi.followUser
+* FollowUserApi.unFollowUser
+* MyProfileApi.getUserProfileDetail
+* InspirationSectionApi.postLike
+* InspirationSectionApi.removeLike
+* InspirationSectionApi.postComment
+* InspirationSectionApi.removeComment
+
+* **Adapter**
+* InspirationCommentsUI
+
+* **Model**
+* Comment
+
+### MyFeedCollectionFragment & OtherFeedCollectionFragment
+
+* These fragments show the posts and collection of the current user and other users resp.
+
+* **API**
+* MyProfileApi.getUserProfileDetail
+* InspirationFeedApi.getUserFlatlay
+* CollectionApi.getCollectionList
+
+* **Adapter**
+* ProductDetailGridAdapter
+* InspirationGridAdapter
+* FragmentProfileCollectionAdapter
+
+* **Model**
+* Collection1
+* Product
+* Flatlay
+
+### NotificationListFragment
+
+* This fragment shows notifications to the user
+
+* **API**
+* NotificationSettingsApi.getNotificationStatus
+
+* **Adapter**
+* KikrFollowingAdapter
+
+* **Model**
+* NotificationRes
+
+### ProfileChoiceFragment
+
+* This is the settings section in the user profile where the user gets an option to complete his profile and modify existing details
+
+* **API**
+* EditProfileApi.updateInterest
+* EditProfileApi.addUsername
+* EditProfileApi.checkUsername
+
+### SearchProductFragment...1...2 
+
+* These fragments serves the purpose of searching products with different UI accross the app
+
+* **API**
+* FeaturedTabApi.getFeaturedTabData
+* SearchAllApi.searchPeople
+* SearchApi.searchProduct
+
+* **Adapter**
+* ProductSearchGridAdapter
+* FeaturedTabAdapter
+* CustomizeInterestPeopleListAdapter
+
+* **Model**
+* User
+* AffiliateProduct
+* User1
+* Flatlay
+
+### SocialAccountFragment
+
+* This fragment serves the purpose of syncing the social tokens to the user profile
+* This has a separate doc in creator-portal
+
+### ViewInsProductFragment
+
+* Users can see all products in a collection and have various options like delete collection, delete product, rename a collection
+
+* **Adapter**
+* AllInsProductAdapter
+
+* **Model**
+* Product
+
+### WalletCardFragment
+
+* This fragment shows the stripe cards and gives option to add more cards 
+
+### GenInfoFragment
+
+* This fragment allows users to add/update existing personal information
+
+* * **API**
+* EditProfileApi.updateUser
+
+
+
