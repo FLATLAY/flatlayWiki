@@ -6,7 +6,7 @@
 ### Email and Password
 User needs to insert: **Email**, **Username**, **Password**
 After login, the creative user is lead to the dashboard panel that is the user home page .
-All the posts od the other creatives that the user is followed them appear on this page, these posts are called "Flat Lay".
+All the posts of the other users that the creative user has followed them appear on this page, these posts are called "Flat Lay".
 The navigation bar at the top of the page has displayed.
 
 ![Screenshot 153](/uploads/screenshot-153.png "Screenshot 153")
