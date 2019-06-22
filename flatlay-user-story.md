@@ -9,7 +9,7 @@ After login, the creative user is lead to the dashboard panel that is the user h
 All the posts of the other users that the creative user has followed them appear on this page, these posts are called "**FlatLay**".
 The navigation bar at the top of the page has displayed.
 
-![Screenshot 153](/uploads/screenshot-153.png "Screenshot 153")
+![Screenshot 154](/uploads/screenshot-154.png "Screenshot 154")
 
 With a click on the "Flatlay" logo,  the left panel has appeared.
 ### Facebook
