@@ -5,6 +5,7 @@
 ## Creator Registers for an account
 ### Email and Password
 User needs to insert: **Email**, **Username**, **Password**
+after login, the creative user is lead to the dashboard panel that is the user home page .
 ### Facebook
 
 
