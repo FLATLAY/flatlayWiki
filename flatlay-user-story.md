@@ -3,7 +3,7 @@
 
 # Creator Story (Aliases: User, Influencer)
 ## Creator Registers for an account
-### Email and Password
+## Email and Password
 User needs to insert: **Email**, **Username**, **Password**
 After login, the creative user is lead to the dashboard panel that is the user home page .
 All the posts of the other users that the creative user has followed them appear on this page, these posts are called "**FlatLay**".
@@ -24,7 +24,13 @@ product, people, post are searched in the search bar
 
 ![Screenshot 159](/uploads/screenshot-159.png "Screenshot 159")
 
-### Facebook
+### Create collection
+
+### Create post
+
+### Account menu
+
+## Facebook
 
 
 ## creator applys for an open campaign
