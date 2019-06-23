@@ -28,7 +28,7 @@ product, people, post are searched in the search bar
 ![Screenshot 159](/uploads/screenshot-159.png "Screenshot 159")
 
 ### Create collection
-
+the creative user can create a collection of products for itself
 ### Create post
 
 ### Account menu
