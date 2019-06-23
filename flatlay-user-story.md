@@ -19,7 +19,9 @@ there are these tabs in the left panel
 **Messages**:
 
 ### Search bar
+
 product, people, post are searched in the search bar 
+
 ![Screenshot 159](/uploads/screenshot-159.png "Screenshot 159")
 
 ### Facebook
