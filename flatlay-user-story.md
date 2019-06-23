@@ -52,7 +52,13 @@ Profile, Notifications, Settings, Support, Logout,  are showed in this menu.
 ![Screenshot 160](/uploads/screenshot-160.png "Screenshot 160")
 
 **Profile:** 
-in this part, the posts of user are displaying, and there is some editing of the user profile here.
+there is some deferent stuff in this Portion .
+* editing of the user profile here.
+![Screenshot 165](/uploads/screenshot-165.png "Screenshot 165")
+
+All  posts and all collections of user are displaying here, and the user can switch between two tab [posts/collections] 
+![Screenshot 164](/uploads/screenshot-164.png "Screenshot 164")
+
 
 **Notifications:** 
 All notifications is here
