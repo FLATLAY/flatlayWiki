@@ -29,8 +29,18 @@ product, people, post are searched in the search bar
 ### Create post
 
 ### Account menu
-this 
+Profile, Notifications, Settings, Support, Logout,  are showed in this menu
+
 ![Screenshot 160](/uploads/screenshot-160.png "Screenshot 160")
+
+**Profile:** 
+in this part, the posts of user are displaying, and there is some editing of the user profile here.
+
+**Notifications:** 
+
+**Settings: **
+**Support:**
+**Logout:**
 ## Facebook
 
 
