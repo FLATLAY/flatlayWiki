@@ -36,6 +36,8 @@ product, people, post are searched in the search bar
 
 ### Create collection
 the creative user can create a collection of products for itself
+
+![Screenshot 163](/uploads/screenshot-163.png "Screenshot 163")
 ### Create post
 A Photo with dicription is called Flatlay and other users can like it or write a comment on it.
 ### Account menu
