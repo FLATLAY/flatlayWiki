@@ -3,7 +3,7 @@
 
 # Creator Story (Aliases: User, Influencer)
 ## Creator Registers for an account
-## Email and Password
+### Email and Password
 User needs to insert: **Email**, **Username**, **Password**
 After login, the creative user is lead to the dashboard panel that is the user home page .
 All the posts of the other users that the creative user has followed them appear on this page, these posts are called "**FlatLay**".
@@ -19,8 +19,9 @@ The creative user can *approve* or *reject* that campaign, if  user approves cam
 **Open campaigns**:
 A Merchant can create a public campaign called "Open campaign"  and every creative user can see those campaigns.
 **Discover**:
+Those users and Flatlays  that are..
 **Messages**:
-
+Users can send messages to each other in this part
 ### Search bar
 
 product, people, post are searched in the search bar 
