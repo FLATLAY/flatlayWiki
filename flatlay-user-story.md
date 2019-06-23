@@ -11,12 +11,16 @@ The navigation bar at the top of the page has displayed.
 
 ![Screenshot 154](/uploads/screenshot-154.png "Screenshot 154")
 
-With a click on the "Flatlay" logo,  the left panel has appeared.
+With a click on the "Flatlay" logo, ![11](/uploads/11.png "11") the left panel has appeared.
 there are these tabs in the left panel
 **Invite campaigns**:
 **Open campaigns**:
 **Discover**:
 **Messages**:
+
+### Search bar
+product, people, post are searched in the search bar 
+![Screenshot 159](/uploads/screenshot-159.png "Screenshot 159")
 
 ### Facebook
 
