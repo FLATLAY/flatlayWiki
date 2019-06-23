@@ -17,6 +17,7 @@ there are these tabs in the left panel
 every campaign that Merchant user has invited creative user appears here.
 The creative user can *approve* or *reject* that campaign, if  user approves campaign, it will join the campaign and then it can send a photo to that campaign. when the Merchant creates a campaign, it defines what is the purpose of the campaign, and then invites the creative users to join to the campaign and ask them to send  photos according to the purpose
 **Open campaigns**:
+A Merchant can create a public campaign called "Open campaign"  and every creative user can see those campaigns.
 **Discover**:
 **Messages**:
 
