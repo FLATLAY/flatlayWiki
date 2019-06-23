@@ -39,7 +39,7 @@ the creative user can create a collection of products for itself
 
 ![Screenshot 163](/uploads/screenshot-163.png "Screenshot 163")
 ### Create post
-A Photo with dicription is called Flatlay and other users can like it or write a comment on it.
+Users can create post, a post include a photo with dicription, the post is called Flatlay and other users can like it or write a comment on it.
 ### Account menu
 Profile, Notifications, Settings, Support, Logout,  are showed in this menu
 
