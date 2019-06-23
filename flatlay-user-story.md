@@ -20,8 +20,8 @@ The creative user can *approve* or *reject* that campaign, if  user approves cam
 *Creator applys for an open campaign*
 A Merchant can create a public campaign called "Open campaign"  and every creative user can see those campaigns.
 Merchant sees users who have applied for its campaign (campaigns who has applied relation with users with value pending)
-Merchant can approve or reject application whihc it turns the properties to:
-campaign[approval:pending] or campaign[approval:reject]
+Merchant can approve or reject an application which turns the properties to:
+campaign *[approval:approve]* or campaign *[approval:reject]*
 
 
 **Discover**:
