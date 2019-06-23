@@ -40,6 +40,7 @@ the creative user can create a collection of products for itself
 ![Screenshot 163](/uploads/screenshot-163.png "Screenshot 163")
 ### Create post
 Users can create a post, a post includes a photo with description, the post is called Flatlay and other users can like it or write a comment on it.
+
 ### Account menu
 Profile, Notifications, Settings, Support, Logout,  are showed in this menu
 
@@ -54,7 +55,9 @@ All notifications is here
 **Settings: **
 
 **Support:**
+
 **Logout:**
+
 ## Facebook
 
 
