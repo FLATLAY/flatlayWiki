@@ -12,12 +12,12 @@ The navigation bar at the top of the page has displayed.
 ![Screenshot 154](/uploads/screenshot-154.png "Screenshot 154")
 
 With a click on the "Flatlay" logo, ![11](/uploads/11.png "11") the left panel has appeared.
-there are these tabs in the left panel
+There are these tabs in the left panel
 **Invite campaigns**:
-every campaign that Merchant user has invited creative user appears here.
+Every campaign that Merchant user has invited creative user appears here.
 The creative user can *approve* or *reject* that campaign, if  user approves campaign, it will join the campaign and then it can send a photo to that campaign. when the Merchant creates a campaign, it defines what is the purpose of the campaign, and then invites the creative users to join to the campaign and ask them to send  photos according to the purpose
 **Open campaigns**:
-*creator applys for an open campaign*
+*Creator applys for an open campaign*
 A Merchant can create a public campaign called "Open campaign"  and every creative user can see those campaigns.
 Merchant sees users who have applied for its campaign (campaigns who has applied relation with users with value pending)
 Merchant can approve or reject application whihc it turns the properties to:
