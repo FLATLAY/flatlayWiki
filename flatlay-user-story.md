@@ -13,6 +13,7 @@ The navigation bar at the top of the page has displayed.
 
 With a click on the "Flatlay" logo, ![11](/uploads/11.png "11") the left panel has appeared.
 There are these tabs in the left panel:
+
 **Invite campaigns**:
 Every campaign that Merchant user has invited creative user appears here.
 The creative user can *approve* or *reject* that campaign, if  user approves campaign, it will join the campaign and then it can send a photo to that campaign. when the Merchant creates a campaign, it defines what is the purpose of the campaign, and then invites the creative users to join to the campaign and ask them to send  photos according to the purpose.
@@ -41,6 +42,7 @@ The user can create a new collection or used from the list of the collection tha
 
 ![Screenshot 163](/uploads/screenshot-163.png "Screenshot 163")
 a collection can be edited and deleted.
+
 ### Create post
 Users can create a post, a post includes a photo with description, the post is called Flatlay and other users can like it or write a comment on it.
 
