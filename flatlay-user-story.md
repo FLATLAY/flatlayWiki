@@ -40,6 +40,7 @@ in this part, the posts of user are displaying, and there is some editing of the
 
 **Notifications:** 
 All notifications is here
+
 **Settings: **
 
 **Support:**
