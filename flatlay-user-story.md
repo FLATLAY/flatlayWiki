@@ -12,6 +12,7 @@ The navigation bar at the top of the page has displayed.
 ![Screenshot 154](/uploads/screenshot-154.png "Screenshot 154")
 
 With a click on the "Flatlay" logo,  the left panel has appeared.
+
 ### Facebook
 
 
