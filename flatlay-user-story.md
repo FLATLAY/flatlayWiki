@@ -14,6 +14,8 @@ The navigation bar at the top of the page has displayed.
 With a click on the "Flatlay" logo, ![11](/uploads/11.png "11") the left panel has appeared.
 there are these tabs in the left panel
 **Invite campaigns**:
+every campaign that Merchant user has invited creative user appears here.
+The creative user can *approve* or *reject* that campaign, if approved the campaign, the creative user will join the campaign and then it can send a photo as the campaign content to that campaign.
 **Open campaigns**:
 **Discover**:
 **Messages**:
@@ -37,8 +39,9 @@ Profile, Notifications, Settings, Support, Logout,  are showed in this menu
 in this part, the posts of user are displaying, and there is some editing of the user profile here.
 
 **Notifications:** 
-
+All notifications is here
 **Settings: **
+
 **Support:**
 **Logout:**
 ## Facebook
