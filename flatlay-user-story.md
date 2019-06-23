@@ -30,7 +30,7 @@ product, people, post are searched in the search bar
 ### Create collection
 the creative user can create a collection of products for itself
 ### Create post
-
+A Photo with dicription is called Flatlay and other users can like it or write a comment on it.
 ### Account menu
 Profile, Notifications, Settings, Support, Logout,  are showed in this menu
 
