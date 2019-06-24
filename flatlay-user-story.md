@@ -50,6 +50,8 @@ a collection can be edited and deleted.
 ### Create post
 Users can create a post, a post includes a photo with description, the post is called Flatlay and other users can like it or write a comment on it.
 
+![Screenshot 169](/uploads/screenshot-169.png "Screenshot 169")
+
 ### Account menu
 Profile, Notifications, Settings, Support, Logout,  are showed in this menu.
 
