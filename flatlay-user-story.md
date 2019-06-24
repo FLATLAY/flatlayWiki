@@ -15,8 +15,9 @@ With a click on the "Flatlay" logo, ![11](/uploads/11.png "11") the left panel h
 There are these tabs in the left panel:
 
 **Invite campaigns**:
-Every campaign that Merchant user has invited creative user appears here.
-The creative user can *approve* or *reject* that campaign, if  user approves campaign, it will join the campaign and then it can send a photo to that campaign. when the Merchant creates a campaign, it defines what is the purpose of the campaign, and then invites the creative users to join to the campaign and ask them to send  photos according to the purpose.
+Every campaign that Merchant user has invited creative user, appears here.
+The creative user can *approve* or *reject* that campaign, if  user approves campaign, it will join the campaign and then it can send a photo to that campaign. 
+W hen the Merchant creates a campaign, it defines what is the purpose of the campaign, and then invites the creative users to join to the campaign and ask them to send  photos according to the purpose.
 If creative user *approve* the campaign then it can add contenet to campaign.
 Merchant user invites a creative user to a special campaign the creative user approve and send a photo to the campaign, so the campaign has the photo as the content of the campaign.
 
