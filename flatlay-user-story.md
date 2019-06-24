@@ -28,7 +28,6 @@ A Merchant can create a public campaign called "Open campaign"  and every creati
 Merchant sees users who have applied for its campaign (campaigns who has applied relation with users with value pending)
 Merchant can approve or reject an application which turns the properties to:
 campaign *[approval:approve]* or campaign *[approval:reject]*
-
 ![Screenshot 168](/uploads/screenshot-168.png "Screenshot 168")
 **Discover**:
 Those users and Flatlays  that are..
