@@ -1,4 +1,4 @@
-![Screenshot 173](/uploads/screenshot-173.png "Screenshot 173")<!-- TITLE: Flatlay User Story -->
+<!-- TITLE: Flatlay User Story -->
 <!-- SUBTITLE: A quick summary of Flatlay User Story -->
 
 # Creator Story (Aliases: User, Influencer)
