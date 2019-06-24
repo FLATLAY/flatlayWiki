@@ -21,7 +21,8 @@ If creative user *approve* the campaign then it can add contenet to campaign.
 Merchant user invites a creative user to a special campaign the creative user approve and send a photo to the campaign, so the campaign has the photo as the content of the campaign.
 
 ![Screenshot 166](/uploads/screenshot-166.png "Screenshot 166")
-
+ 
+Immediately after the "creative user" approved or rejected the campaign, rsvp property will be set "true or false". [rsvp: true/fase]
 **Open campaigns**:
 *Creator applys for an open campaign*
 A Merchant can create a public campaign called "Open campaign"  and every creative user can see those campaigns.
