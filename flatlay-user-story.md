@@ -48,7 +48,8 @@ The user can create a new collection or used from the list of the collection tha
 a collection can be edited and deleted.
 
 ### Create post
-Users can create a post, a post includes a photo with description, the post is called Flatlay and other users can like it or write a comment on it.
+Users can create a post, the post includes a photo with description.
+The post is called ***Flatlay*** and other users can like it or write a comment on it.
 
 ![Screenshot 169](/uploads/screenshot-169.png "Screenshot 169")
 
