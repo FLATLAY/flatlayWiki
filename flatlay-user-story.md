@@ -1,4 +1,4 @@
-<!-- TITLE: Flatlay User Story -->
+![Screenshot 173](/uploads/screenshot-173.png "Screenshot 173")<!-- TITLE: Flatlay User Story -->
 <!-- SUBTITLE: A quick summary of Flatlay User Story -->
 
 # Creator Story (Aliases: User, Influencer)
@@ -23,7 +23,10 @@ Merchant user invites a creative user to a special campaign the creative user ap
 ![Screenshot 166](/uploads/screenshot-166.png "Screenshot 166")
  
 Immediately after the "creative user" approved or rejected the campaign, rsvp property will be set "true or false". [rsvp: true/fase]
-![Screenshot 173](/uploads/screenshot-173.png "Screenshot 173")
+
+![Screenshot 173](/uploads/screenshot-173.png "Screenshot 173") ![Screenshot 174](/uploads/screenshot-174.png "Screenshot 174")
+
+
 **Open campaigns**:
 *Creator applys for an open campaign*
 A Merchant can create a public campaign called "Open campaign"  and every creative user can see those campaigns.
