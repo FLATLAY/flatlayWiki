@@ -23,6 +23,7 @@ Merchant user invites a creative user to a special campaign the creative user ap
 ![Screenshot 166](/uploads/screenshot-166.png "Screenshot 166")
  
 Immediately after the "creative user" approved or rejected the campaign, rsvp property will be set "true or false". [rsvp: true/fase]
+![Screenshot 173](/uploads/screenshot-173.png "Screenshot 173")
 **Open campaigns**:
 *Creator applys for an open campaign*
 A Merchant can create a public campaign called "Open campaign"  and every creative user can see those campaigns.
