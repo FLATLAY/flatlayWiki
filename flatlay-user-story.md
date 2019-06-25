@@ -23,7 +23,7 @@ Merchant user invites a creative user to a special campaign the creative user ap
 
 ![Screenshot 166](/uploads/screenshot-166.png "Screenshot 166")
  
-Immediately after the "creative user" approved or rejected the campaign, rsvp property will be set "true or false". [rsvp: true/fase]
+Immediately after the "*creative user*" approved or rejected the campaign, rsvp property will be set "true or false". [rsvp: true/fase]
 
 ![Screenshot 173](/uploads/screenshot-173.png "Screenshot 173") ![Screenshot 174](/uploads/screenshot-174.png "Screenshot 174")
 
@@ -56,7 +56,7 @@ a collection can be edited and deleted.
 ### Create post
 Users can create a post, the post includes a photo with description.
 The post is called ***Flatlay*** and other users can like it or write a comment on it.
-After a *comment* or *like* has been posted, an "**isNotified**" property is set in this entity. It has explained in the *Notifications* section.
+After a *comment* or *like* has been posted, an "**isNotified**" property is set in this entity [isNotified: true/fase]. It has explained in the *Notifications* section.
 
 ![Screenshot 177](/uploads/screenshot-177.png "Screenshot 177") ![Screenshot 178](/uploads/screenshot-178.png "Screenshot 178")
 
