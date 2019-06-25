@@ -56,7 +56,7 @@ a collection can be edited and deleted.
 ### Create post
 Users can create a post, the post includes a photo with description.
 The post is called ***Flatlay*** and other users can like it or write a comment on it.
-After a *comment* or *like* has been posted, an "**isNotified**" property is set in this entity.It has explained in the *Notifications* section.
+After a *comment* or *like* has been posted, an "**isNotified**" property is set in this entity. It has explained in the *Notifications* section.
 
 ![Screenshot 177](/uploads/screenshot-177.png "Screenshot 177") ![Screenshot 178](/uploads/screenshot-178.png "Screenshot 178")
 
