@@ -72,7 +72,7 @@ Profile, Notifications, Settings, Support, Logout,  are showed in this menu.
 **Profile:** 
 There is some different stuff in this Portion.
 * editing of the user profile here.
-Email, Instagram, Twitter, Facebook can be modified in this portion
+Email, Instagram, Twitter, Facebook, pictuer... can be modified in this portion
 
 ![Screenshot 165](/uploads/screenshot-165.png "Screenshot 165")
 
