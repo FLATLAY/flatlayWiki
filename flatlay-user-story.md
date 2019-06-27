@@ -6,14 +6,22 @@
 ### Email and Password
 User needs to insert: **Email**, **Username**, **Password** to register.
 **Email** and **Password** can be used to login. 
+
 ### facebook registeration/login
+Upon facebook registeration we create a random username which can be changed later on by user
 
-####technical hint!!!
-upon successful login a JWT token gets generated which can 
+**Technical hint!**
+!Upon successful login a JWT token gets generated which can be used throughout all API calls
+!The creator node on our database is called **User**
+!Passwords gets hashed with SHA256 and the hash will be stored in db
+!facebook login/registeration get validated on backend using graph APIs and access gets verified
 
 
+## Home Page
 After login, the user is lead to the home page which lists down trending posts.
-All the posts of the other users that the user has followed them appear on this page, the kezword "**FlatLay**" has been used in the system to refer to the posts.
+
+All the posts of the other users that the user has followed them appear on this page, the keyword "**FlatLay**" has been used in the system to refer to the posts.
+
 The navigation bar at the top of the page has displayed.
 ![Screenshot 154](/uploads/screenshot-154.png "Screenshot 154")
 
