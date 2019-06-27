@@ -10,7 +10,7 @@ User needs to insert: **Email**, **Username**, **Password** to register.
 ### facebook registeration/login
 Upon facebook registeration we create a random username which can be changed later on by user
 
-###**Technical hint!**
+### **Technical hint!**
 !Upon successful login a JWT token gets generated which can be used throughout all API calls
 !The creator node on our database is called **User**
 !Passwords gets hashed with SHA256 and the hash will be stored in db
