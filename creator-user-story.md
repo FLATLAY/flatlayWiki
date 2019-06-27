@@ -1,5 +1,5 @@
-<!-- TITLE: Flatlay User Story -->
-<!-- SUBTITLE: A quick summary of Flatlay User Story -->
+<!-- TITLE: Creator User Story -->
+<!-- SUBTITLE: A quick summary of Creator User Story -->
 
 # Creator Story (Aliases: User, Influencer)
 ## Registering and logging in
