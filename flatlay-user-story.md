@@ -2,13 +2,19 @@
 <!-- SUBTITLE: A quick summary of Flatlay User Story -->
 
 # Creator Story (Aliases: User, Influencer)
-## Creator Registers for an account
+## Registering and logging in
 ### Email and Password
-User needs to insert: **Email**, **Username**, **Password**
-After login, the creative user is lead to the dashboard panel that is the user home page .
-All the posts of the other users that the creative user has followed them appear on this page, these posts are called "**FlatLay**".
-The navigation bar at the top of the page has displayed.
+User needs to insert: **Email**, **Username**, **Password** to register.
+**Email** and **Password** can be used to login. 
+### facebook registeration/login
 
+####technical hint!!!
+upon successful login a JWT token gets generated which can 
+
+
+After login, the user is lead to the home page which lists down trending posts.
+All the posts of the other users that the user has followed them appear on this page, the kezword "**FlatLay**" has been used in the system to refer to the posts.
+The navigation bar at the top of the page has displayed.
 ![Screenshot 154](/uploads/screenshot-154.png "Screenshot 154")
 
 With a click on the "Flatlay" logo, ![11](/uploads/11.png "11") the left panel has appeared.
