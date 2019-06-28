@@ -64,10 +64,11 @@ product, people, post are searched in the search bar
 ![Screenshot 159](/uploads/screenshot-159.png "Screenshot 159")
 
 ### Create collection
-The creative user can create a collection of products for itself. 
+The *Creator* user can create a collection of products for itself. 
 The user can create a new collection or used from the list of the collection that it has created, then the user can add products to its collection.
 
 ![Screenshot 163](/uploads/screenshot-163.png "Screenshot 163")
+
 a collection can be edited and deleted.
 
 ### Create post
