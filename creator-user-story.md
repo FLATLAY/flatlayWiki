@@ -23,6 +23,7 @@ After login, the user is lead to the home page which lists down trending posts.
 All the posts of the other users that the user has followed them appear on this page, the keyword "**FlatLay**" has been used in the system to refer to the posts.
 
 The navigation bar at the top of the page has displayed.
+
 ![Screenshot 154](/uploads/screenshot-154.png "Screenshot 154")
 
 With a click on the "Flatlay" logo, ![11](/uploads/11.png "11") the left panel has appeared.
