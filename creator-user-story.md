@@ -28,28 +28,30 @@ The navigation bar at the top of the page has displayed.
 
 With a click on the "Flatlay" logo, ![11](/uploads/11.png "11") the left panel has appeared.
 There are these tabs in the left panel:
+Invite campaigns, open campaigns, dscover, messages
 
 **Invite campaigns**:
-Every campaign that Merchant user has invited creative user, appears here.
-The creative user can *approve* or *reject* that campaign, if  user approves campaign, it will join the campaign and then it can send a photo to that campaign. 
-W hen the Merchant creates a campaign, it defines what is the purpose of the campaign, and then invites the creative users to join to the campaign and ask them to send  photos according to the purpose.
-If creative user *approve* the campaign then it can add contenet to campaign.
-Merchant user invites a creative user to a special campaign the creative user approve and send a photo to the campaign, so the campaign has the photo as the content of the campaign.
+Every campaign that *Merchant* user has invited *Creator* user, appears here.
+The *Creator* user can *approve* or *reject* that campaign, if  user approves campaign, it will join the campaign and then it can send a photo to that campaign. 
+When the *Merchant* creates a campaign, it defines what is the purpose of the campaign, and then invites the *Creator* users to join to the campaign and ask them to send  photos according to the purpose.
+If *Creator* user *approve* the campaign then it can add contenet to campaign. So the campaign has the photo as the content of the campaign.
 
 ![Screenshot 166](/uploads/screenshot-166.png "Screenshot 166")
  
-Immediately after the "*creative user*" approved or rejected the campaign, rsvp property will be set "true or false". [rsvp: true/fase]
+Immediately after the *Creator* user approved or rejected the campaign, rsvp property will be set "true or false". [rsvp: true/fase]
 
 ![Screenshot 173](/uploads/screenshot-173.png "Screenshot 173") ![Screenshot 174](/uploads/screenshot-174.png "Screenshot 174")
 
 
 **Open campaigns**:
 *Creator applys for an open campaign*
-A Merchant can create a public campaign called "Open campaign"  and every creative user can see those campaigns.
-Merchant sees users who have applied for its campaign (campaigns who has applied relation with users with value pending)
+A *Merchant* can create a public campaign called "**Open campaign**"  and every *Creator* user can see those campaigns.
+Merchant sees users who have applied for its campaign (the creator that has applied to the campaign, have a property with "**pending**" value on the *relation* entity)
 Merchant can approve or reject an application which turns the properties to:
 campaign *[approval:approve]* or campaign *[approval:reject]*
+
 ![Screenshot 168](/uploads/screenshot-168.png "Screenshot 168")
+
 **Discover**:
 Those users and Flatlays  that are..
 
