@@ -46,7 +46,7 @@ Immediately after the *Creator* user approved or rejected the campaign, rsvp pro
 **Open campaigns**:
 *Creator applys for an open campaign*
 A *Merchant* can create a public campaign called "**Open campaign**"  and every *Creator* user can see those campaigns.
-Merchant sees users who have applied for its campaign (the creator that has applied to the campaign, have a property with "**pending**" value on the *relation* entity)
+Merchant sees users who have applied for its campaign (the creator who has applied to the campaign, have a property with "**pending**" value on the *relation* entity)
 Merchant can approve or reject an application which turns the properties to:
 campaign *[approval:approve]* or campaign *[approval:reject]*
 
