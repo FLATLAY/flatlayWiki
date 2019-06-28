@@ -34,7 +34,8 @@ Invite campaigns, open campaigns, dscover, messages
 Every campaign that *Merchant* user has invited *Creator* user, appears here.
 The *Creator* user can *approve* or *reject* that campaign, if  user approves campaign, it will join the campaign and then it can send a photo to that campaign. 
 When the *Merchant* creates a campaign, it defines what is the purpose of the campaign, and then invites the *Creator* users to join to the campaign and ask them to send  photos according to the purpose.
-If *Creator* user *approve* the campaign then it can add contenet to campaign. So the campaign has the photo as the content of the campaign.
+If *Creator* user *approve* the campaign then it can add contenet to campaign. So the campaign has the photo as the content of the campaign. 
+After approval of the "*campaignContent*", the user can send a URL of a social network for the campaign, so the *"originalImageURL"* property is set to that campainContent entity  
 
 ![Screenshot 166](/uploads/screenshot-166.png "Screenshot 166")
  
