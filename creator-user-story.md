@@ -59,7 +59,8 @@ When something searches in the search bar, another *query* for searching in the 
 
 
 **Messages**:
-Users can send messages to each other in this part
+Users can send messages to each other in this part.
+It uses sendbird for sending messages.
 
 ### Search bar
 product, people, post are searched in the search bar 
