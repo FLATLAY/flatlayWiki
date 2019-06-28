@@ -54,7 +54,9 @@ campaign *[approval:approve]* or campaign *[approval:reject]*
 ![Screenshot 168](/uploads/screenshot-168.png "Screenshot 168")
 
 **Discover**:
-Those users and Flatlays  that are..
+Immediately after going in this portion, the list of the trend of the fatlay is displayed. 
+When something searches in the search bar, another *query* for searching in the database is run in this API. 
+
 
 **Messages**:
 Users can send messages to each other in this part
