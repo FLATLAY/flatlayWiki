@@ -88,6 +88,7 @@ A user can follow other users and "**isNotified**" property is set in this entit
 
 After a *flatlay* is posted, it can add to the collection, User can choose a collection name from the collection list or create a new collection. User can add products in the specific collection.
 
+![Screenshot 192](/uploads/screenshot-192.png "Screenshot 192")
 
 ### Account menu
 Profile, Notifications, Settings, Support, Logout,  are showed in this menu.
