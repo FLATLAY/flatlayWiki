@@ -86,6 +86,9 @@ A user can follow other users and "**isNotified**" property is set in this entit
 
 ![Screenshot 169](/uploads/screenshot-169.png "Screenshot 169")
 
+After a *flatlay* is posted, it can add to the collection
+
+
 ### Account menu
 Profile, Notifications, Settings, Support, Logout,  are showed in this menu.
 
