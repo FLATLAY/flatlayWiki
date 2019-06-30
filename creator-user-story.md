@@ -103,7 +103,8 @@ Email, Instagram, Twitter, Facebook, pictuer... can be modified in this portion
 The number of followers and number of the following, posts appear here and with click on every item, you can see details about that.
 With Click on the *followers* or *following*, the list of the *followers* or *following* are displayed.
 There is a point for **following**, we used *query string*, if  there is a *USERID*  in the query string, it'll show the following of that *USERID*, otherwise it'll show the following itself. (with another word if the login user goes to the profile of someone else, this API can support it)
-![Screenshot 165](/uploads/screenshot-165.png "Screenshot 165")
+
+![Screenshot 194](/uploads/screenshot-194.png "Screenshot 194")
 
 * All  posts and all collections of user are displaying here, and the user can switch between two tab [posts/collections] 
 
