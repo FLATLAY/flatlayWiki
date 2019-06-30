@@ -1,4 +1,4 @@
-<!-- TITLE: Creator User Story -->
+ <!-- TITLE: Creator User Story -->
 <!-- SUBTITLE: A quick summary of Creator User Story -->
 
 # Creator Story (Aliases: User, Influencer)
