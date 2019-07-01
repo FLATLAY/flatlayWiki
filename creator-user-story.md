@@ -118,7 +118,9 @@ Also, when the users viewed the collection, they can do some other activity such
 All notifications is here.
 The "isNotified" property has [fase/true], when the owner of the "flatlay", see the notification "isNotified" will turn to "true" .
 
-**Settings: **
+
+**Settings:**
+
 The users can change their password in this portion. 
 changepassword API is used to the editing of the password in the user node.
 
