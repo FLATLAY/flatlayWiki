@@ -139,4 +139,15 @@ A *brand* can register in the *Merchant* portal.
 ## resisteration 
 A unique email and a password need to register ! after the registration the merchant user should verify the registration email.
 ## login
-immediately after the user login in merchant portal, it can see the list of the campaign is displayed, if the merchant  login for the first time it'll be a 
+immediately after the user login in merchant portal, it can see the list of the campaign is displayed, if the merchant login for the first time it'll be nothing! and it can create a campaign. if the user has created the campaigns before, it will have a list of campaign.
+
+### create campaign
+
+### dashboard
+
+### discovered
+
+### list
+
+### message
+
