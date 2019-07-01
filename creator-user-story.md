@@ -73,7 +73,7 @@ The user can create a new collection or used from the list of the collection tha
 
 ![Screenshot 163](/uploads/screenshot-163.png "Screenshot 163")
 
-a collection can be edited and deleted.
+A collection can be edited and deleted.
 
 ### Create post
 Users can create a post, the post includes a photo with description.
