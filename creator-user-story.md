@@ -134,4 +134,9 @@ support@theflatlay.com <support@theflatlay.com>
 you will be signed up when you click on *logout*
 
 # Brand Story (Aliases: Merchant, Business)
+A *brand* can register in the *Merchant* portal. 
 
+## resisteration 
+َ A unice email and a password needs to register ! after the registeration the merchant user should verify the registration email.
+## login
+immediately after the user login in merchant portal, it can see the list of the campaign is displayed, if the merchant  login for the first time it'll be a 
