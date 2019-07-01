@@ -21,7 +21,7 @@ Upon facebook registeration we create a random username which can be changed lat
 After login, the user is lead to the home page which lists down trending posts.
 
 All the posts of the other users that the user has followed them appear on this page, the keyword "**FlatLay**" has been used in the system to refer to the posts.
-
+in this page is used localSearch API that came from lambda .
 The navigation bar at the top of the page has displayed.
 
 ![Screenshot 154](/uploads/screenshot-154.png "Screenshot 154")
@@ -119,12 +119,17 @@ All notifications is here.
 The "isNotified" property has [fase/true], when the owner of the "flatlay", see the notification "isNotified" will turn to "true" .
 
 **Settings: **
+The users can change their password in this portion. 
+changepassword API is used to the editing of the password in the user node.
 
 **Support:**
 
+The user can be contacted with the support team  with this option
+support@theflatlay.com <support@theflatlay.com>
+
 **Logout:**
 
-
+you will be signed up when you click on *logout*
 
 # Brand Story (Aliases: Merchant, Business)
 
