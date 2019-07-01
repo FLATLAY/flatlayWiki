@@ -124,7 +124,6 @@ The "isNotified" property has [fase/true], when the owner of the "flatlay", see 
 
 **Logout:**
 
-## Facebook
 
 
 # Brand Story (Aliases: Merchant, Business)
