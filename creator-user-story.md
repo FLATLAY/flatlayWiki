@@ -107,6 +107,9 @@ There is a point for **following**, we used *query string*, if  there is a *User
 ![Screenshot 194](/uploads/screenshot-194.png "Screenshot 194")
 
 * All  posts and all collections of user are displaying here, and the user can switch between two tab [posts/collections] 
+In  the collection tab, the list of the collection that the user created them are displayed. 
+In every collection, the list of product that user added in, are shown.
+Also, when the users viewed the collection, they can do some other activity such as add product to another collection, remove the product from the collection , like products, add the product to cart and buy the product.
 
 ![Screenshot 164](/uploads/screenshot-164.png "Screenshot 164")
 
