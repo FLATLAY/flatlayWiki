@@ -13,6 +13,12 @@ https://docs.google.com/spreadsheets/d/1TTWjwfxE9gHQYrjSMnO1NZngroE448N6aMmVKTX-
 **Unfold (App):** Create creatives Instagram stories.
 **Mojo (App)**: Create creative animated Instagram stories.
 
+## YesFLs
+YesFLs are content that we have permission to repost.
+
+Send #YesFL messages to relevent creators.
+Log approved #YesFL into the “Flatlay Approved Content Creators” file.
+
 ## Best Times to Post (2019)
 ### General
 
@@ -26,6 +32,7 @@ https://docs.google.com/spreadsheets/d/1TTWjwfxE9gHQYrjSMnO1NZngroE448N6aMmVKTX-
 https://wiki.flatlay.io/social-media/instagram
 
 ### Posts shared on Facebook, Tumblr and Twitter
+Instagram is our main platform, and most of our social media is posted through it.
 
 ## Twitter
 ### Schedule
