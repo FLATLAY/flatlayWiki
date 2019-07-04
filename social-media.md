@@ -23,7 +23,7 @@ https://docs.google.com/spreadsheets/d/1TTWjwfxE9gHQYrjSMnO1NZngroE448N6aMmVKTX-
 
 # Platform Specific Guides
 ## Instagram (& Facebook and Tumblr)
-link
+https://wiki.flatlay.io/social-media/instagram
 
 ## Twitter
 ## WeHeartIt
