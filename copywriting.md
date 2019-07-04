@@ -10,17 +10,18 @@
 * User-generated commerce
 
 ## Do's
-* Clear, simple, short sentences.
-* Emphasizing what the user is gaining from the platform, rather than explaining for the sake of explaining.
+* Use clear, simple, short sentences.
+* Emphasize what the user is gaining from the platform, rather than explaining for the sake of explaining.
+* Be consistent with the terminology you're using throughout the site.
 
 ## Dont's
-* Too many buzzwords in one area (especially on the Creatives side)
-* Concepts/terms that alienate the reader
-* Using inconsistent terminology to explain our features
-* Sentences you can’t read out loud without boring yourself
-* Sentences that make your head hurt from too many technical terms
+* Too many buzzwords in one area (especially on the Creatives side).
+* Concepts/terms that alienate the reader.
+* Using inconsistent terminology to explain our features.
+* Sentences you can’t read out loud without boring yourself.
+* Sentences that make your head hurt from too many technical terms.
 * Using the same adjectives/words twice in the same paragraph (use synonyms instead).
-* Use the word influencer to describe creatives
+* Use the word influencer to describe creatives.
 
 
 # Processes
