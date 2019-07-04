@@ -1,11 +1,12 @@
 <!-- TITLE: Intro To Flatlay -->
 <!-- SUBTITLE: A quick summary of Intro To Flatlay -->
 
-# Header Welcome to Flatlay
+# Welcome to Flatlay
 Here's some things you should know:
 
 
 ## Our team
+
 
 **Ali**
 Co-founder
