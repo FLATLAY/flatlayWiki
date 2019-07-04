@@ -20,9 +20,3 @@
 	* Categorization and Tagging
 * Crosslink the related pages
 
-
------
-
-
-
-skdkfjdslk
