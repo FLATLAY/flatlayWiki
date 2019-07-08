@@ -1,7 +1,7 @@
- <!-- TITLE: Creator User Story -->
-<!-- SUBTITLE: A quick summary of Creator User Story -->
+ <!-- TITLE: Creative User Story -->
+<!-- SUBTITLE: A quick summary of Creative User Story -->
 
-# Creator Story (Aliases: User, Influencer)
+# Creative Story (Aliases: User, Influencer)
 ## Registering and logging in
 ### Email and Password
 User needs to insert: **Email**, **Username**, **Password** to register.
