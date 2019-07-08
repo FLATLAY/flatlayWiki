@@ -1,16 +1,12 @@
-<!-- TITLE: Design Documents -->
-<!-- SUBTITLE: A quick summary of Design Documents -->
+<!-- TITLE: FLATLAY Graphic Design/Brand Assets -->
 
-# Design Documents
-**Versioning**
-1. Every new changes come with increment on version.
-2. All the changes should be highlighted on every page on the design file or seperately on a support document. 
-3. There should be enough description if there are special interaction involved.
-4. Texts should be possible to be copy and pasted.
+# FLATLAY Graphic Design/Brand Assets
 
-**Assets**
-all of the assets (old and new) should come with a zip file with same name and version of PDF file
+## Google drive: 
+https://drive.google.com/drive/folders/1z5q6dFz389xAN-vWBwrV9prDaCplSKaL
 
-**Format**
-Basically all the design materials should be made in Adobe XD (https://www.adobe.com/productss/xd.html)
+## Style Guide
+https://drive.google.com/drive/folders/1z5q6dFz389xAN-vWBwrV9prDaCplSKaL
 
+## Logo & Icon
+https://drive.google.com/drive/folders/1LuBRWFuC05kttPIF0ZEWb8yVEEaN90SU
