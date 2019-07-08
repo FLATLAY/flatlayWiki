@@ -1,18 +1,18 @@
-<!-- TITLE: General Information -->
-<!-- SUBTITLE: A quick summary of General Information -->
+<!-- TITLE: E-mail templates -->
 
-# Header
-
+(fill in as we go)
 # Storage
 
-## to store public facing assets that they mostly will be used in email templates 
+## Public facing assets that they mostly will be used in email templates 
 https://s3.console.aws.amazon.com/s3/buckets/flatlay-public-assets/?region=us-west-2&tab=overview
 
+## Outbound templates will be stored in Hubspot.
 
 
-# Computing
-
-# Databases
+# E-mails stored
+* To prospective clients/process & benefits
+* Rate cards
+* 
 
 
 
