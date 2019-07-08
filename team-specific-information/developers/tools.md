@@ -23,3 +23,12 @@ https://www.willpeavy.com/tools/minifier/
 
 ### CSSInliner
 https://templates.mailchimp.com/resources/inline-css/
+
+# Integrations
+Stripe - Payment processing
+Google Analytics - Analytics
+
+Social integrations: instagram, pinterest, twitter, facebook, 
+tbd: twitch, youtube
+
+Product database integretations:
