@@ -1,6 +1,6 @@
 <!-- TITLE: Intro To Flatlay -->
 # Welcome to Flatlay
-FLATLAY is a platform facilitating user generated commerce. The platform lets creatives make their content shoppable, allowing them to earn money and curate their digital shop. FLATLAY connect businesses to creatives to run promotional campaigns and collaborate on branded content, while making it incredibly easy for brands to source high-quality creative content at any scale. 
+FLATLAY is a platform facilitating user generated commerce. The platform lets creatives make their content shoppable, allowing them to earn money and curate their digital stop. Flatlay supports businesses to work with creatives to run promotional campaigns and collaborate on sponsored content. We make it incredibly easy for brands to source high-quality creative content at any scale. 
 
 ## Terminology for our platform
 
@@ -18,35 +18,35 @@ A full list of the services we offer and the terminology we use can be found at:
 
 
 **Ali**
-Co-founder
-Sales/Marketing stuff*
+Founder/CEO
+UX/UI, Business Development, Sales, Marketing
 Time zone: PST (generally)
 
 Skype: alisammour
 Telegram: @creditcoin
 
 **Morteza**
-Co-founder
-Tech/Developer side
+Founder/CTO
+Tech, Software Architecture 
 *Time zone: CEST*
 
 Skype: nokhodian
 Telegram: @nokhodian
 
 **Sina**
-Developer
+Front- End Developer
 *Time zone:*
 
 Telegram: @sina_ghadri
 
 **Nishant**
-Developer
+Mobile Developer
 *Time zone: CEST*
 
 Telegram: @thisisnsh
 
 **Maryam**
-Developer
+Backend Developer
 *Time zone: *
 
 Telegram: @??
