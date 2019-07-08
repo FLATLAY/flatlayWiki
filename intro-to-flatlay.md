@@ -2,8 +2,19 @@
 <!-- SUBTITLE: A quick summary of Intro To Flatlay -->
 
 # Welcome to Flatlay
-Here's some things you should know:
+FLATLAY is a platform facilitating user generated commerce. Our platform lets creatives make their content shoppable, allowing them to earn money and curate their digital stop. We connect businesses to creatives to run promotional campaigns and collaborate on branded content. We make it incredibly easy for brands to source high-quality creative content at any scale. 
 
+## Terminology for our platform
+
+**Creatives** - Content creators and influencers using Flatlay to create shoppable content. Also referred to as: Users.
+**Brands** - Businesses using the platform, either by integrating their product or running campaigns. Also referred to as: Businesses.
+**Advocates** - Creatives partnering with brands for a campaign or specific product push.
+**Collection** - Shoppable products within a unit of content.
+**Digital shop** - The sum of a creative’s collections (shoppable content), viewable through their profile on the flatlay app.
+**Campaign** - Marketing campaign wherein a Creative collaborates with a Brand to product sponsored content. Brand’s can post an open-call for applications, send out invites to specific creatives via a List or personally invite them to apply.
+**List** - A brand’s list of prospective candidates for a campaign.
+
+A full list of the services we offer and the terminology we use can be found at: https://wiki.flatlay.io/intro-to-flatlay/glossary-of-terms.
 
 ## Our team
 
@@ -58,19 +69,6 @@ In some aspects, we work like a relay team. In order for the relay to work prope
 You will be added to the threads you need. Currently active Telegram threads are:
 * FLATLAY Connect Front End: https://web.telegram.org/#/im?p=g399949627
 * FLATLAY Mobile Testing Feedback: https://web.telegram.org/#/im?p=g388966952
-
-
-## Terminology for our platform
-
-**Creatives** - Content creators and influencers using Flatlay to create shoppable content. Also referred to as: Users.
-**Brands** - Businesses using the platform, either by integrating their product or running campaigns. Also referred to as: Businesses.
-**Advocates** - Creatives partnering with brands for a campaign or specific product push.
-**Collection** - Shoppable products within a unit of content.
-**Digital shop** - The sum of a creative’s collections (shoppable content), viewable through their profile on the flatlay app.
-**Campaign** - Marketing campaign wherein a Creative collaborates with a Brand to product sponsored content. Brand’s can post an open-call for applications, send out invites to specific creatives via a List or personally invite them to apply.
-**List** - A brand’s list of prospective candidates for a campaign.
-
-A full list of the services we offer and the terminology we use can be found at: https://wiki.flatlay.io/intro-to-flatlay/glossary-of-terms.
 
 ## Team-specific Information
 
