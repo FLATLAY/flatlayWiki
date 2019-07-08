@@ -1,16 +1,28 @@
 <!-- TITLE: Glossary Of Terms and Features -->
 
-
-# Glossary
+All plans include features above them
+# General terms
 
 **User Generated Content:** Images, videos and other content created by consumers.
 **User Generated Commerce:** Purchases and brand awareness driven by consumer recommendations
+
+# Plans
+# Basic (free)
+![Basic](/uploads/basic.png "Basic")
 **Product Integration:** Adding a product to the Flatlay database, so that Creatives can tag the product and recommend it to others.
 **Content Upload:** Uploading content to the FLATLAY app.
 **Social Audience Insights:**  Recommended advocates based on your social audience.
+**Custom List**: List of Creatives shortlisted for collaboration
+
+
+# Pro
+
 **Social Audience Modelling:** Recommended advocates and new audiences based on an analysis of your social audience.
 **1-1 Campaigns:** Collaboration between a brand and a creative to product sponsored content.
 **Contacting Creatives:** Inviting creatives to join a campaign; the number of creatives you can contact depends on your plan.
+
+
+
 **Audience insights:** Information about your audience demographics, interests, and behaviour by analyzing your brand’s social media following.
 **Brand Analytics:** A brand’s statistics on the FLATLAY platform.
 **Co-Branded  Collaborations:** A collaboration between brands to maximize budgets & drive results.
