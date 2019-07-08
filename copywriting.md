@@ -13,6 +13,7 @@
 * Use clear, simple, short sentences.
 * Emphasize what the user is gaining from the platform, rather than explaining for the sake of explaining.
 * Be consistent with the terminology you're using throughout the site.
+* Use '&' instead of 'and'
 
 ## Dont's
 * Too many buzzwords in one area (especially on the Creatives side).
