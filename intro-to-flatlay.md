@@ -62,7 +62,7 @@ You will be added to the threads you need. Currently active Telegram threads are
 
 ## Terminology for our platform
 
-**Creatives **- Content creators and influencers using Flatlay to create shoppable content. Also referred to as: Users.
+**Creatives** - Content creators and influencers using Flatlay to create shoppable content. Also referred to as: Users.
 **Brands** - Businesses using the platform, either by integrating their product or running campaigns. Also referred to as: Businesses.
 **Advocates** - Creatives partnering with brands for a campaign or specific product push.
 **Collection** - Shoppable products within a unit of content.
