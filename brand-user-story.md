@@ -9,3 +9,6 @@
 2. get method reads the mysql database and retrieve the instagramers based on asked criteria
 2.1. if the 
 
+# Logic map
+[Flatlay Io Tree Structure Prompts Guide](/uploads/flatlay-io-tree-structure-prompts-guide.pdf "Flatlay Io Tree Structure Prompts Guide")
+
