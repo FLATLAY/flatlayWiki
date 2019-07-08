@@ -1,4 +1,4 @@
-<!-- SUBTITLE: General Rules and Guideliens for the Flatlay Wiki -->
+<!-- SUBTITLE: General Rules and Guidelines for the Flatlay Wiki -->
 
 # Flatlay Wiki
 ## Rules of Flatlay Wiki:
