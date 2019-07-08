@@ -1,5 +1,4 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: General Rules and Regulation at Flaltay -->
+<!-- SUBTITLE: General Rules of the Flatlay Wiki -->
 
 # Flatlay Wiki
 ## Rules of Flatlay Wiki:
