@@ -16,6 +16,7 @@ All plans include features above them
 
 
 # Pro
+![Pro](/uploads/pro.png "Pro")
 
 **Social Audience Modelling:** Recommended advocates and new audiences based on an analysis of your social audience.
 **1-1 Campaigns:** Collaboration between a brand and a creative to product sponsored content.
