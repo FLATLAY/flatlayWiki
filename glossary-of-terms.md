@@ -7,10 +7,9 @@ All plans include features above them
 **User Generated Commerce:** Purchases and brand awareness driven by consumer recommendations
 
 
-
 # Plans
+![Plans Monthly](/uploads/plans-monthly.png "Plans Monthly")
 ## Basic (free)
-![Basic](/uploads/basic.png "Basic")
 **Product Integration:** Adding a product to the Flatlay database, so that Creatives can tag the product and recommend it to others.
 **Content Upload:** Uploading content to the FLATLAY app.
 **Social Audience Insights:**  Recommended advocates based on your social audience.
@@ -19,8 +18,6 @@ All plans include features above them
 * Can run open campaings under basic plan
 
 ## Pro
-![Pro](/uploads/pro.png "Pro")
-
 **Social Audience Modelling:** Recommended advocates and new audiences based on an analysis of your social audience.
 **1-1 Campaigns:** Collaboration between a brand and a creative to product sponsored content.
 **Audience Insights and Affinities:** Information about your audience demographics, interests, and behaviour by analyzing your brand’s social media following.
@@ -32,15 +29,13 @@ All plans include features above them
 
 
 ## Premium
-![Premium](/uploads/premium.png "Premium")
-
 **Co-Branded  Collaborations:** A collaboration between brands to maximize budgets & drive results.
 **1-1 Account Management:** Receive 1-1 support from a FLATLAY team member to achieve your brand goals.
 * Contact 1000 Creators Monthly
 * Social Audience Modelling 1000 profile
 * 5 Private Campaigns Monthly
+
 ## Enterprise
-![Enterprise](/uploads/enterprise.png "Enterprise")
 **Premium Insights:**
 **Content Analysis & Trend Forecasting:** Recommendations on content and it's likelihood to lead to desired results.
 **Custom Social Audience Modeling:** Social audience modelling based on audiences/creatives of your choice.
