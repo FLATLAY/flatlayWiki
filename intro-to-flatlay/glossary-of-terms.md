@@ -36,8 +36,8 @@ All plans include features above them
 * 5 Private Campaigns Monthly
 
 ## Enterprise
-**Premium Insights:**
-**Content Analysis & Trend Forecasting:** Recommendations on content and it's likelihood to lead to desired results.
+**Premium Insights:** Industry perspective what is going on in your sector.
+**Content Analysis & Trend Forecasting:** Analyzing your content's performance online and in your target demographic, aesthetics/stylistic preference.
 **Custom Social Audience Modeling:** Social audience modelling based on audiences/creatives of your choice.
 **Predictive Media Buying Optimization:** Based on your audience and demographics, optimized media-buying recommendations.
 **Intuitive Content Stream:** A social commerce experience. FLATLAY technology sources content at scale, matching products to the content with Auto-Match™ and finally swapping out poorly performing and sold out products through Auto-Swap™.
