@@ -45,4 +45,6 @@ https://wiki.flatlay.io/team-specific-information/a-m-guidelines/emails
 https://wiki.flatlay.io/team-specific-information/copywriting
 
 ## Terminology for the platform
+https://wiki.flatlay.io/intro-to-flatlay/glossary-of-terms
 # Sales
+https://wiki.flatlay.io/team-specific-information/sales
