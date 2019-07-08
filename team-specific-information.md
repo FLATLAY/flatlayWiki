@@ -51,4 +51,8 @@ https://wiki.flatlay.io/team-specific-information/copywriting
 ## Terminology for the platform
 https://wiki.flatlay.io/intro-to-flatlay/glossary-of-terms
 # Sales
+## Guidelines and Instructions
 https://wiki.flatlay.io/team-specific-information/sales
+
+## Brand On-boarding Form
+https://docs.google.com/forms/d/e/1FAIpQLSckt9UYVfMi6Od3nPlOC2gOv_3gKiX6M4TDsbsrbfqFLnqL3g/viewform
