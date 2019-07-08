@@ -14,6 +14,10 @@ https://wiki.flatlay.io/portal-creative/social-integrations
 https://wiki.flatlay.io/portal-creative/creative-user-story
 
 ## Brand User Story (logic map)
+https://wiki.flatlay.io/team-specific-information/developers/brand-user-story
+
+## App Creator Android Fragments
+https://wiki.flatlay.io/app-creator/android/fragments
 
 ## Tools
 https://wiki.flatlay.io/team-specific-information/developers/tools
