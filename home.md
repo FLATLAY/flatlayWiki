@@ -15,6 +15,36 @@ FLATLAY is a platform facilitating user generated commerce. The platform lets cr
 
 A full list of the services we offer and the terminology we use can be found at: https://wiki.flatlay.io/copywriting/glossary-of-terms.
 
+## Coordinating as a team
+
+The team generally communicate through Telegram/Skype threads focusing on one element of FLATLAY. You'll be added to the threads you need to keep an eye on!
+In some aspects, we work like a relay team. In order for the relay to work properly, the next team needs to be notified that the work is done, so please be sure to send the completed materials and to tag the next member of your team in the Telegram thread.
+
+![Explanation Of Processes](/uploads/explanation-of-processes.jpg "Explanation Of Processes")
+
+You will be added to the threads you need. Currently active Telegram threads are:
+* FLATLAY Connect Front End: https://web.telegram.org/#/im?p=g399949627
+* FLATLAY Mobile Testing Feedback: https://web.telegram.org/#/im?p=g388966952
+
+## Teams
+
+* Sales and Account Managment: https://wiki.flatlay.io/a-m-guidelines/
+* Social Media: https://wiki.flatlay.io/social-media/
+* Graphic Design: https://wiki.flatlay.io/graphic-design/
+* Copywriting and Marketing: https://wiki.flatlay.io/copywriting/
+* Developers: https://wiki.flatlay.io/developer/
+
+## Other tools we use
+
+The company Google Drive is: https://drive.google.com/open?id=1z5q6dFz389xAN-vWBwrV9prDaCplSKaL. All of the design/marketing assets will be uploaded there.
+
+Trello: project management for marketing/sales
+Hubspot: for marketing/CRM.
+Atlassion/Jira: logging/tracking process
+GitHub: store the code
+AWS: cloud storage
+Wiki: development and reference
+
 ## Our team
 
 **Ali**
@@ -56,33 +86,3 @@ Account Manager
 *Time zone:*
 
 Telegram: 
-
-## Coordinating as a team
-
-The team generally communicate through Telegram/Skype threads focusing on one element of FLATLAY. You'll be added to the threads you need to keep an eye on!
-In some aspects, we work like a relay team. In order for the relay to work properly, the next team needs to be notified that the work is done, so please be sure to send the completed materials and to tag the next member of your team in the Telegram thread.
-
-![Explanation Of Processes](/uploads/explanation-of-processes.jpg "Explanation Of Processes")
-
-You will be added to the threads you need. Currently active Telegram threads are:
-* FLATLAY Connect Front End: https://web.telegram.org/#/im?p=g399949627
-* FLATLAY Mobile Testing Feedback: https://web.telegram.org/#/im?p=g388966952
-
-## Teams
-
-* Sales and Account Managment: https://wiki.flatlay.io/a-m-guidelines/
-* Social Media: https://wiki.flatlay.io/social-media/
-* Graphic Design: https://wiki.flatlay.io/graphic-design/
-* Copywriting and Marketing: https://wiki.flatlay.io/copywriting/
-* Developers: https://wiki.flatlay.io/developer/
-
-## Other tools we use
-
-The company Google Drive is: https://drive.google.com/open?id=1z5q6dFz389xAN-vWBwrV9prDaCplSKaL. All of the design/marketing assets will be uploaded there.
-
-Trello: project management for marketing/sales
-Hubspot: for marketing/CRM.
-Atlassion/Jira: logging/tracking process
-GitHub: store the code
-AWS: cloud storage
-Wiki: development and reference
