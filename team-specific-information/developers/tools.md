@@ -26,9 +26,12 @@ https://templates.mailchimp.com/resources/inline-css/
 
 # Integrations
 Stripe - Payment processing
+* https://flatlay.io/developer/integrations/stripe-implementation
+
 Google Analytics - Analytics
 
 Social integrations: instagram, pinterest, twitter, facebook, 
 tbd: twitch, youtube
+* https://wiki.flatlay.io/developer/integrations/social-integrations
 
 Product database integretations:
