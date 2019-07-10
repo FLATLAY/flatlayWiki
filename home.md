@@ -82,14 +82,14 @@ Account Manager
 *Time zone:*
 
 Telegram: 
-# Sales and Account Managment: 
+# Sales and Account Managment
 https://wiki.flatlay.io/a-m-guidelines/
-# Social Media: 
+# Social Media
 https://wiki.flatlay.io/social-media/
-# Graphic Design: 
+# Graphic Design 
 https://wiki.flatlay.io/graphic-design/
 
-# Copywriting and Marketing: 
+# Copywriting and Marketing
 https://wiki.flatlay.io/copywriting/
-# Developers: 
+# Developers
 https://wiki.flatlay.io/developer/
