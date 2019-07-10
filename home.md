@@ -93,3 +93,5 @@ https://wiki.flatlay.io/graphic-design/
 https://wiki.flatlay.io/copywriting/
 # Developers
 https://wiki.flatlay.io/developer/
+
+# -- Collateral Assets --
