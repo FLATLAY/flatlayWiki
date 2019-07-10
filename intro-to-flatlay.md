@@ -1,5 +1,5 @@
 <!-- TITLE: Intro To Flatlay -->
- To open a folder, press it's name. To open the main page in the subsection, press the arrow (if you see one)
+ To open a folder, press its name. To open the main page in the subsection, press the arrow (if you see one).
 # Welcome to Flatlay
 FLATLAY is a platform facilitating user generated commerce. The platform lets creatives make their content shoppable, allowing them to earn money and curate their digital stop. Flatlay supports businesses to work with creatives to run promotional campaigns and collaborate on sponsored content. We make it incredibly easy for brands to source high-quality creative content at any scale. 
 
