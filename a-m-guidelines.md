@@ -1,4 +1,4 @@
-<!-- TITLE: Account Management Guidelines-->
+<!-- TITLE: Sales/Account Management-->
 
 # Job Description/Responsibilities
 # 1-1 Customer Support
