@@ -1,5 +1,5 @@
 <!-- TITLE: Intro To Flatlay -->
-**#  To open a folder, press its name. To open the *main page* in the subsection, press the arrow (if you see one).**
+ To open a folder, press its name. To open the main page in the subsection, press the arrow (if you see one).
 # Welcome to Flatlay
 FLATLAY is a platform facilitating user generated commerce. The platform lets creatives make their content shoppable, allowing them to earn money and curate their digital stop. Flatlay supports businesses to work with creatives to run promotional campaigns and collaborate on sponsored content. We make it incredibly easy for brands to source high-quality creative content at any scale. 
 
@@ -17,6 +17,7 @@ A full list of the services we offer and the terminology we use can be found at:
 
 ## Our team
 
+[table]
 
 **Ali**
 Founder/CEO
@@ -69,9 +70,13 @@ You will be added to the threads you need. Currently active Telegram threads are
 * FLATLAY Connect Front End: https://web.telegram.org/#/im?p=g399949627
 * FLATLAY Mobile Testing Feedback: https://web.telegram.org/#/im?p=g388966952
 
-## Team-specific Information
+## Teams
 
-To find the resources you need, go to: https://wiki.flatlay.io/team-specific-information.
+* Sales and Account Managment: https://wiki.flatlay.io/a-m-guidelines/
+* Social Media: https://wiki.flatlay.io/social-media/
+* Graphic Design: https://wiki.flatlay.io/graphic-design/
+* Copywriting and Marketing: https://wiki.flatlay.io/copywriting/
+* Developers: https://wiki.flatlay.io/developer/
 
 ## Other tools we use
 
