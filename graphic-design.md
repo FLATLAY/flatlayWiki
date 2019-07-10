@@ -23,3 +23,5 @@ All of the assets should be uploaded to the Google Drive. An accompanying PDF (m
 ## Format
 Most of the design materials can be made in Adobe Illustrator or XD.
 
+# Assets
+https://wiki.flatlay.io/graphic-design/design-documents
