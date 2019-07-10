@@ -1,8 +1,7 @@
-<!-- TITLE: Flatlay Wiki -->
-<!-- SUBTITLE: A quick summary of Flatlay Wiki -->
 <!-- SUBTITLE: General Rules and Guidelines for the Flatlay Wiki -->
 
 # Flatlay Wiki
+## To open a folder, press it's name. To open the main page in the subsection, press the arrow (if you see one)
 ## Rules of Flatlay Wiki:
 ### What to write
 * Daily processes and repetetive works
