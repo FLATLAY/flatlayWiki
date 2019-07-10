@@ -28,11 +28,12 @@ You will be added to the threads you need. Currently active Telegram threads are
 
 ## Teams
 
-* Sales and Account Managment: https://wiki.flatlay.io/a-m-guidelines/
-* Social Media: https://wiki.flatlay.io/social-media/
-* Graphic Design: https://wiki.flatlay.io/graphic-design/
-* Copywriting and Marketing: https://wiki.flatlay.io/copywriting/
-* Developers: https://wiki.flatlay.io/developer/
+# Sales and Account Managment: https://wiki.flatlay.io/a-m-guidelines/
+# Social Media: https://wiki.flatlay.io/social-media/
+# Graphic Design: https://wiki.flatlay.io/graphic-design/
+
+# Copywriting and Marketing: https://wiki.flatlay.io/copywriting/
+# Developers: https://wiki.flatlay.io/developer/
 
 ## Other tools we use
 
