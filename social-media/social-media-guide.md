@@ -15,8 +15,9 @@ https://docs.google.com/spreadsheets/d/1TTWjwfxE9gHQYrjSMnO1NZngroE448N6aMmVKTX-
 
 ## YesFLs
 YesFLs are content that we have permission to repost.
+A current list of approved creatives is: https://docs.google.com/spreadsheets/d/1TnGBQ2o-wfXvoJOKTtbBJ7mK63laxNW0lx0076rJun8/edit?usp=sharing.
 
-Send #YesFL messages to relevent creators.
+Send #YesFL messages to relevent creators on the platform you're sourcing content from.
 Log approved #YesFL into the “Flatlay Approved Content Creators” file.
 
 ## Best Times to Post (2019)
