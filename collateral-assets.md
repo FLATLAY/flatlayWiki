@@ -9,3 +9,5 @@
 ## Publisher Services
 
 # Case Studies
+Add new case studies to :
+https://flatlay.io/collaborations
