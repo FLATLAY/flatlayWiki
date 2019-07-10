@@ -3,6 +3,10 @@
 
 # Google Drive
 https://drive.google.com/open?id=1QISFAl5wjxOT5gt4HCgw2hGjMDWXCUB4w8OYQmTgkOA
+
+## Assets page
+https://wiki.flatlay.io/graphic-design/design-documents
+
 # Processes
 ## Communicating with the team
 
@@ -22,6 +26,3 @@ All of the assets should be uploaded to the Google Drive. An accompanying PDF (m
 
 ## Format
 Most of the design materials can be made in Adobe Illustrator or XD.
-
-# Assets
-https://wiki.flatlay.io/graphic-design/design-documents
