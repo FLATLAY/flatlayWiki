@@ -17,7 +17,8 @@ A full list of the services we offer and the terminology we use can be found at:
 
 ## Our team
 
-[table]
+(table)
+{table}
 
 **Ali**
 Founder/CEO
