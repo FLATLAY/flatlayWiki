@@ -17,8 +17,23 @@ A full list of the services we offer and the terminology we use can be found at:
 
 ## Our team
 
-(table)
-{table}
+{table
+|width=50%
+|**Ali**
+Founder/CEO
+UX/UI, Business Development, Sales, Marketing
+Time zone: PST (generally)
+
+Skype: alisammour
+Telegram: @creditcoin
+|**Morteza**
+Founder/CTO
+Tech, Software Architecture 
+*Time zone: CEST*
+
+Skype: nokhodian
+Telegram: @nokhodian
+}
 
 **Ali**
 Founder/CEO
