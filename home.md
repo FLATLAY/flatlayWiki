@@ -95,3 +95,4 @@ https://wiki.flatlay.io/copywriting/
 https://wiki.flatlay.io/developer/
 
 # -- Collateral Assets --
+https://wiki.flatlay.io/collateral-assets
