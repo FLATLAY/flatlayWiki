@@ -1,7 +1,9 @@
 <!-- SUBTITLE: General Rules and Guidelines for the Flatlay Wiki -->
 
 # Flatlay Wiki
-## To open a folder, press it's name. To open the main page in the subsection, press the arrow (if you see one)
+## Working on the wiki
+To open a folder, press it's name. To open the main page in the subsection, press the arrow (if you see one)
+To delete a folder, delete the page with its url. If one does not exist, make one and then delete it.
 ## Rules of Flatlay Wiki:
 ### What to write
 * Daily processes and repetetive works
