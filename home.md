@@ -17,12 +17,6 @@ A full list of the services we offer and the terminology we use can be found at:
 
 ## Our team
 
-{table
-|width=50%
-|**Ali**
-|**Morteza**
-}
-
 **Ali**
 Founder/CEO
 UX/UI, Business Development, Sales, Marketing
