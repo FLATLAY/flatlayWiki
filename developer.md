@@ -4,6 +4,8 @@
 # Communicating with the team
 Most of the communication on the developer side is done 1-1 or through Telegram threads. As needed, extra project management is done on Trello and through appear.in/flatlay.
 
+# Tools
+
 # Main Projects
 
 ## Creative/User backend
