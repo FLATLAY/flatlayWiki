@@ -15,6 +15,10 @@ FLATLAY is a platform facilitating user generated commerce. The platform lets cr
 
 A full list of the services we offer and the terminology we use can be found at: https://wiki.flatlay.io/copywriting/glossary-of-terms.
 
+## Frequently Asked Questions (by Creatives and Brands)
+
+https://wiki.flatlay.io/frequently-asked-questions
+
 ## Coordinating as a team
 
 The team generally communicate through Telegram/Skype threads focusing on one element of FLATLAY. You'll be added to the threads you need to keep an eye on!
@@ -25,15 +29,6 @@ In some aspects, we work like a relay team. In order for the relay to work prope
 You will be added to the threads you need. Currently active Telegram threads are:
 * FLATLAY Connect Front End: https://web.telegram.org/#/im?p=g399949627
 * FLATLAY Mobile Testing Feedback: https://web.telegram.org/#/im?p=g388966952
-
-## Teams
-
-# Sales and Account Managment: https://wiki.flatlay.io/a-m-guidelines/
-# Social Media: https://wiki.flatlay.io/social-media/
-# Graphic Design: https://wiki.flatlay.io/graphic-design/
-
-# Copywriting and Marketing: https://wiki.flatlay.io/copywriting/
-# Developers: https://wiki.flatlay.io/developer/
 
 ## Other tools we use
 
@@ -87,3 +82,9 @@ Account Manager
 *Time zone:*
 
 Telegram: 
+# Sales and Account Managment: https://wiki.flatlay.io/a-m-guidelines/
+# Social Media: https://wiki.flatlay.io/social-media/
+# Graphic Design: https://wiki.flatlay.io/graphic-design/
+
+# Copywriting and Marketing: https://wiki.flatlay.io/copywriting/
+# Developers: https://wiki.flatlay.io/developer/
