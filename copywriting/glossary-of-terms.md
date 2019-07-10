@@ -8,7 +8,11 @@ All plans include features above them
 
 
 # Plans
+### Monthly
 ![Plans Monthly](/uploads/plans-monthly.png "Plans Monthly")
+### Yearly
+![Pricingflatlayio Yearly](/uploads/pricingflatlayio-yearly.png "Pricingflatlayio Yearly")
+
 ## Basic (free)
 **Product Integration:** Adding a product to the Flatlay database, so that Creatives can tag the product and recommend it to others.
 **Content Upload:** Uploading content to the FLATLAY app.
