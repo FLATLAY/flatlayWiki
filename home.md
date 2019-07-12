@@ -1,4 +1,4 @@
-<!-- TITLE: Intro To FLATLAY -->
+<!-- TITLE: Intro To FLATLAY ![Tiny Logo](/uploads/tiny-logo.jpg "Tiny Logo")--> 
  To open a folder, press its name. To open the main page in the subsection, press the arrow (if you see one).
 # Welcome to FLATLAY
 FLATLAY is a platform facilitating user generated commerce. The platform lets creatives make their content shoppable, allowing them to earn money and curate their digital stop. FLATLAY supports businesses to work with creatives to run promotional campaigns and collaborate on sponsored content. The platform make it incredibly easy for brands to source high-quality creative content at any scale. 
