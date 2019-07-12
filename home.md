@@ -95,4 +95,10 @@ https://wiki.flatlay.io/copywriting/
 https://wiki.flatlay.io/developer/
 
 # -- Collateral Assets --
-https://wiki.flatlay.io/collateral-assets
+Most of our collateral design/sales/copy assets can be found: https://wiki.flatlay.io/collateral-assets.
+
+It includes:
+* Google Drive (+map for how to find navigate it)
+* Base Graphic Assets
+* Internal decks: Capacities and Case Studies
+* FLATLAY's Online Presence
