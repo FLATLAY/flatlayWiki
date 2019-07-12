@@ -1,6 +1,6 @@
 <!-- TITLE: Glossary Of Terms and Features -->
 
-All plans include features above them
+All plans include features above them.
 # General terms
 
 **User Generated Content:** Images, videos and other content created by consumers.
