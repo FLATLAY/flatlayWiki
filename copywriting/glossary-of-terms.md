@@ -29,7 +29,7 @@ All plans include features above them
 **Inviting Creatives:** Inviting creatives to join a campaign; the number of creatives you can contact depends on your plan.
 * 100 Creatives monthly
 **Private campaign:** Only invited FLATLAY Creatives can apply to participate.
-* 2 private campagns monthly
+* 2 private campaigns monthly
 
 
 ## Premium
@@ -37,7 +37,7 @@ All plans include features above them
 **1-1 Account Management:** Receive 1-1 support from a FLATLAY team member to achieve your brand goals.
 * Contact 1000 Creators Monthly
 * Social Audience Modelling 1000 profile
-* 5 Private Campaigns Monthly
+* 5 private campaigns monthly
 
 ## Enterprise
 **Premium Insights:** Industry perspective what is going on in your sector.
