@@ -34,7 +34,10 @@ https://docs.google.com/spreadsheets/d/1NGjaVlYlXhsGb-gkr5Fr87whbD2uwlkXvLBh6Nmk
 ## Capacities Overview
 [Flatlay Capablities Overview 7](/uploads/flatlay-capablities-overview-7.pdf "Flatlay Capablities Overview 7")
 
-## Flatlay description
+## FLATLAY Collateral Assets
+https://wiki.flatlay.io/collateral-assets
+
+## FLATLAY Description
 Commerce is quickly evolving, and the discovery process has shifted far beyond the Brick & Mortar experience. We’ve witnessed thousands of malls and storefronts shutter, along with the bankruptcies of namebrands we’ve known for ages  (2018 view).
 Consumer spending isn’t decreasing — but shifting further to retailers, brands and technology partners focused on the direct to consumer movement. Yet digitally-native brands like Lush Cosmetics, are moving entirely away from social and taking millions of fans with them. They’re tired of fighting with algorithms for attention and marginalized profits.
 
