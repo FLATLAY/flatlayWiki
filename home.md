@@ -51,11 +51,13 @@ Time zone: PST (generally)
 
 Skype: alisammour
 Telegram: @creditcoin
+LinkedIn: https://www.linkedin.com/in/alisammour/
 
 **Morteza**
 Founder/CTO
 Tech, Software Architecture 
 *Time zone: CEST*
+LinkedIn: https://www.linkedin.com/in/nokhodian/
 
 Skype: nokhodian
 Telegram: @nokhodian
@@ -71,6 +73,7 @@ Mobile Developer
 *Time zone: CEST*
 
 Telegram: @thisisnsh
+LinkedIn: https://www.linkedin.com/in/nishant-h-153841104/
 
 **Maryam**
 Backend Developer
