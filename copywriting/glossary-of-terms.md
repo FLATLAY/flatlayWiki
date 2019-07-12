@@ -19,7 +19,7 @@ All plans include features above them
 **Social Audience Insights:**  Recommended advocates based on your social audience.
 **Custom List**: List of Creatives shortlisted for collaboration
 **Open campaign:** A campaign with open applications; any FLATLAY Creative can apply to participate.
-* Can run open campaings under basic plan
+* Can run open campaigns under basic plan
 
 ## Pro
 **Social Audience Modelling:** Recommended advocates and new audiences based on an analysis of your social audience.
