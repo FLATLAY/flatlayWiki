@@ -25,6 +25,6 @@ Please keep in mind this uses old vocabulary (~~activations.~~ should be campaig
 ## Zalando
 [Flatlay Zalando Deck 2](/uploads/flatlay-zalando-deck-2.pdf "Flatlay Zalando Deck 2")
 [Flatlay Powerretailercasestudy 2](/uploads/flatlay-powerretailercasestudy-2.pdf "Flatlay Powerretailercasestudy 2")
+[Zalando Case Study 2019 5 1](/uploads/zalando-case-study-2019-5-1.pdf "Zalando Case Study 2019 5 1")
 
-Add new case studies to :
-https://flatlay.io/collaborations
+## MSI P65
