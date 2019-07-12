@@ -20,7 +20,9 @@ Please keep in mind this uses old vocabulary (~~activations.~~ should be campaig
 [Flatlay How It Works 2](/uploads/flatlay-how-it-works-2.pdf "Flatlay How It Works 2")
 
 ## Publisher Services
-
+[Flatlay Publisher Services 2018 2](/uploads/flatlay-publisher-services-2018-2.pdf "Flatlay Publisher Services 2018 2")
 # Case Studies
+## Zalando
+
 Add new case studies to :
 https://flatlay.io/collaborations
