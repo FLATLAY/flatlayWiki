@@ -6,6 +6,15 @@
 ## Logins
 https://docs.google.com/spreadsheets/d/1TTWjwfxE9gHQYrjSMnO1NZngroE448N6aMmVKTX-CI8/edit?usp=sharing
 
+## Accounts: 
+* Instagram: https://www.instagram.com/flatlay/
+* Facebook: https://www.facebook.com/FLATLAY/ 
+* Snapchat: https://flatlay.io/assets/landing-pages/Snap.png
+* Twitter: https://twitter.com/flatlay
+* Pinterest: https://www.pinterest.ca/flatlay/
+* VSCO: https://vsco.co/flatlay/images/1
+* WeHeartIt: https://weheartit.com/flatlay/collections/128864232-flatlay?page=2&before=329382400
+
 ## Tools
 **Viraltag:** Schedule Posts for Pinterest & Twitter (Use ViralTag Widget)
 **https://triberr.com/instagram-shadowban-tester?username=flatlay :** Verify that Instagram Posts are not getting Shadowbanned.
@@ -15,7 +24,7 @@ https://docs.google.com/spreadsheets/d/1TTWjwfxE9gHQYrjSMnO1NZngroE448N6aMmVKTX-
 
 ## YesFLs
 YesFLs are content that we have permission to repost.
-A current list of approved creatives is: https://docs.google.com/spreadsheets/d/1TnGBQ2o-wfXvoJOKTtbBJ7mK63laxNW0lx0076rJun8/edit?usp=sharing.
+A current list of approved creatives is (third tab on the bottom, 'Flatlay Approved Content Creators): https://docs.google.com/spreadsheets/d/1TnGBQ2o-wfXvoJOKTtbBJ7mK63laxNW0lx0076rJun8/edit?usp=sharing.
 
 Send #YesFL messages to relevent creators on the platform you're sourcing content from.
 Log approved #YesFL into the “Flatlay Approved Content Creators” file.
