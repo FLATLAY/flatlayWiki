@@ -1,5 +1,5 @@
 <!-- TITLE: The Visual Storytelling Platform for Products.--> 
-
+<!-- SUBTITLE:  The destination bridging content, community & commerce. -->
 
  To open a folder, press its name. To open the main page in the subsection, press the arrow (if you see one).
 # Welcome to FLATLAY
