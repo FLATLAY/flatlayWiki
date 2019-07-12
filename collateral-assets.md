@@ -16,7 +16,8 @@ The FLATLAY logo can be found: https://drive.google.com/drive/folders/1LuBRWFuC0
 [Flatlay Capablities Overview 7](/uploads/flatlay-capablities-overview-7.pdf "Flatlay Capablities Overview 7")
 
 ## How it works
-Please keep in mind this uses old vocabulary (~~activations.~~ should be campaigns). A full list of updated terminology can be found: https://wiki.flatlay.io/copywriting/glossary-of-terms.
+Please keep in mind this deck uses old vocabulary ( for example, ~~activations.~~ should be campaigns). A full list of updated terminology can be found: https://wiki.flatlay.io/copywriting/glossary-of-terms.
+
 [Flatlay How It Works 2](/uploads/flatlay-how-it-works-2.pdf "Flatlay How It Works 2")
 
 ## Publisher Services
