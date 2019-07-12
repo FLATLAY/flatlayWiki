@@ -16,8 +16,7 @@ FLATLAY is a platform facilitating user generated commerce. The platform lets cr
 A full list of the services we offer and the terminology we use can be found at: https://wiki.flatlay.io/copywriting/glossary-of-terms.
 
 ## Frequently Asked Questions (by Creatives and Brands)
-
-https://wiki.flatlay.io/frequently-asked-questions
+https://wiki.flatlay.io/faq
 
 ## Coordinating as a team
 
