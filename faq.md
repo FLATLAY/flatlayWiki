@@ -44,7 +44,7 @@
 * FLATLAY facilitates user-generated commerce by allowing helping businesses source content as scale. Our platform match-makes you to creatives to expand your audience and collaborate on content, increasing traffic to your business.
 
 **How can I integrate my products into FLATLAY? **
-* ---
+* Under you Settings button, you will see a prompt to integrate your products by adding your product database or affiliate network.
 
 **Why should I integrate my social media?**
 * Integrating your social media allows FLATLAY to create custom lists and recommend creatives best suited for your demographics, as well as allowing you to discover new audiences.
