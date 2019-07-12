@@ -22,9 +22,12 @@ Please keep in mind this uses old vocabulary (~~activations.~~ should be campaig
 ## Publisher Services
 [Flatlay Publisher Services 2018 2](/uploads/flatlay-publisher-services-2018-2.pdf "Flatlay Publisher Services 2018 2")
 # Case Studies
+New case studies should be formatted and added to https://flatlay.io/collaborations as they come in.
+
 ## Zalando
 [Flatlay Zalando Deck 2](/uploads/flatlay-zalando-deck-2.pdf "Flatlay Zalando Deck 2")
 [Flatlay Powerretailercasestudy 2](/uploads/flatlay-powerretailercasestudy-2.pdf "Flatlay Powerretailercasestudy 2")
 [Zalando Case Study 2019 5 1](/uploads/zalando-case-study-2019-5-1.pdf "Zalando Case Study 2019 5 1")
 
 ## MSI P65
+[Msi P 65 Creator Series Proposal 5](/uploads/msi-p-65-creator-series-proposal-5.pdf "Msi P 65 Creator Series Proposal 5")
