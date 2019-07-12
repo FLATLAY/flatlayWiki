@@ -1,12 +1,35 @@
 <!-- TITLE: Sales/Account Management-->
 
-# Job Description/Responsibilities
-# 1-1 Customer Support
+# Responsibilities
+
+- Design and drive a comprehensive demand generation strategy integrating and leveraging tactics and tools including search engine marketing, email, webinars, events, and social media
+
+- Lead overall Demand Generation planning efforts including the production of lead generation goals and forecast and measuring overall results 
+Improve and optimize post-sales funnel to maximize client engagement and retention
+
+- Assess current lead funnel definition and create data-driven, actionable plans to advance sophistication through a better understanding of buying cycle stages and nurturing campaign goals
+
+- Create the strategy to advance the use of Hubspot and Salesforce and fully implement automation and nurturing campaigns
+
+- Implement testing strategies to analyze and enhance the demand creation process, including response and conversion rates and multivariate testing
+
+- Track and analyze marketing performance and continually implement optimizations for increased growth
+
+- Provide day-to-day management and accountability for all email marketing, social media marketing, and other promotional programs
+
+
+# Resources
+## Trello board
+https://trello.com/b/bUAj5nKn/partner-client-pipeline
+## Hubspot
+https://app.hubspot.com/reports-dashboard/3906039/sales
+## 1-1 Customer Support Guidelines
 https://wiki.flatlay.io/a-m-guidelines/1-1-support-for-pro-and-enterprise-plans
-
-# E-mail Templates
+## E-mail Templates
 https://wiki.flatlay.io/a-m-guidelines/emails
-
+## Prospecting Sheet
+The first tab is confirmed brands registered. After that are potential accounts.
+https://docs.google.com/spreadsheets/d/1NGjaVlYlXhsGb-gkr5Fr87whbD2uwlkXvLBh6Nmkers/edit?usp=sharing
 # Decks
 ## Capacities Overview
 [Flatlay Capablities Overview 7](/uploads/flatlay-capablities-overview-7.pdf "Flatlay Capablities Overview 7")
