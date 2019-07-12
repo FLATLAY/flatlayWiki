@@ -11,6 +11,17 @@ All assets and materials should be consistent according to the style guide: http
 
 The FLATLAY logo can be found: https://drive.google.com/drive/folders/1LuBRWFuC05kttPIF0ZEWb8yVEEaN90SU
 
+# FLATLAY's Online Presence
+* Angel.co (job openings): https://angel.co/company/flatlay
+* LinkedIn: https://www.linkedin.com/company/flatlay/about/
+* Facebook: https://www.facebook.com/FLATLAY/ 
+* Instagram: https://www.instagram.com/flatlay/
+* Snapchat: https://flatlay.io/assets/landing-pages/Snap.png
+* Twitter: https://twitter.com/flatlay
+* Pinterest: https://www.pinterest.ca/flatlay/
+* VSCO: https://vsco.co/flatlay/images/1
+* WeHeartIt: https://weheartit.com/flatlay/collections/128864232-flatlay?page=2&before=329382400
+
 # Internal decks (to prospect clients)
 ## Capabilities Overview
 [Flatlay Capablities Overview 7](/uploads/flatlay-capablities-overview-7.pdf "Flatlay Capablities Overview 7")
