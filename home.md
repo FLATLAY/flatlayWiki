@@ -16,7 +16,8 @@ FLATLAY is a platform facilitating user generated commerce. The platform lets cr
 A full list of the services we offer and the terminology we use can be found at: https://wiki.flatlay.io/copywriting/glossary-of-terms.
 
 ## Frequently Asked Questions (by Creatives and Brands)
-https://wiki.flatlay.io/faq
+
+https://wiki.flatlay.io/frequently-asked-questions
 
 ## Coordinating as a team
 
@@ -34,11 +35,15 @@ You will be added to the threads you need. Currently active Telegram threads are
 The company Google Drive is: https://drive.google.com/open?id=1z5q6dFz389xAN-vWBwrV9prDaCplSKaL. All of the design/marketing assets will be uploaded there.
 
 Trello: project management for marketing/sales
-Hubspot: for marketing/CRM.
+* https://trello.com/b/bUAj5nKn/partner-client-pipeline
+Hubspot: for marketing/CRM
+* https://app.hubspot.com/reports-dashboard/3906039/sales
 Atlassion/Jira: logging/tracking process
 GitHub: store the code
+* https://github.com/FLATLAY
 AWS: cloud storage
 Wiki: development and reference
+* https://wiki.flatlay.io
 
 ## Our team
 
