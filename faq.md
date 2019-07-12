@@ -1,4 +1,4 @@
-<!-- TITLE: FREQUENTLY ASKED QUESTIONS -->
+<!-- TITLE: Frequently Asked QUESTIONS -->
 
 # Creatives
 
