@@ -9,8 +9,9 @@
 •	Shopify OAuth URL contains shop name, API key, access scopes and redirect URL
 •	The access token get from the OAuth is permanent till user uninstalls and reinstalls
 •	For manual OAuth, the code which is get from the callback URL is passed through following API
-•	POST https://{shop}.myshopify.com/admin/oauth/access_token { client_id, client_secret & code is put in request body }
-* { access_token & scope is returned in response }
+•	POST https://{shop}.myshopify.com/admin/oauth/access_token 
+	 { client_id, client_secret & code is put in request body }
+•	{ access_token & scope is returned in response }
 
 ### The access token is passed as header
 •	X-Shopify-Access-Token header is used in every API call
