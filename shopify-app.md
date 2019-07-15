@@ -26,8 +26,22 @@
 •	Get Product Listing API of Shopify gives all products listed on FLATLAY and are shown in form of list on this page.
 •	GET /admin/api/2019-04/products.json API returns the list of products
 •	Title, price, sku and quantity is shown in list for every product.
+•	Below is the API curl used to get product listing
+```curly
+curl -X POST \
+  https://r4qwnd5837.execute-api.us-west-2.amazonaws.com/v1/shopify \
+  -d 
+  '{
+    "url": "https://thisisnsh.myshopify.com/admin/api/2019-07/product_listings.json",
+    "accessToken":"414321412"
+  }'
+```
 
 ### Server.js
 •	Add, Delete & Update Product Listing Webhook is put on this page.
 •	Get Product API returns all products present in the shop and Put Product Listing API allows putting those products on FLATLAY using their product ID
 •	GET /admin/api/2019-04/product_listings.json API returns the list required with products listed on FLATLAY
+•	The access token stored in cache is also synced with the database.
+•	This access token is used as header in other API calls and can be GET by CURL 'https://r4qwnd5837.execute-api.us-west-2.amazonaws.com/v1/shopify?url=thisisnsh.myshopify.com'
+
+
