@@ -11,7 +11,7 @@
 •	For manual OAuth, the code which is get from the callback URL is passed through following API
 •	POST https://{shop}.myshopify.com/admin/oauth/access_token 
 •	The request body is { client_id, client_secret & code is put in request body }
-•	The response is { access_token & scope }
+•	The response is  "access_token" & "scope
 
 ### The access token is passed as header
 •	X-Shopify-Access-Token header is used in every API call
