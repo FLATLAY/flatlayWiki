@@ -27,7 +27,8 @@
 •	GET /admin/api/2019-04/products.json API returns the list of products
 •	Title, price, sku and quantity is shown in list for every product.
 •	Below is the API curl used to get product listing
-```curly
+
+```swift
 curl -X POST \
   https://r4qwnd5837.execute-api.us-west-2.amazonaws.com/v1/shopify \
   -d 
@@ -35,7 +36,9 @@ curl -X POST \
     "url": "https://thisisnsh.myshopify.com/admin/api/2019-07/product_listings.json",
     "accessToken":"414321412"
   }'
+
 ```
+
 
 ### Server.js
 •	Add, Delete & Update Product Listing Webhook is put on this page.
