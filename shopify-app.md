@@ -13,6 +13,8 @@
 	 { client_id, client_secret & code is put in request body }
 •	{ access_token & scope is returned in response }
 
+n
+
 ### The access token is passed as header
 •	X-Shopify-Access-Token header is used in every API call
 
