@@ -19,11 +19,11 @@ Improve and optimize post-sales funnel to maximize client engagement and retenti
 
 
 # Resources
-## Trello board
-https://trello.com/b/bUAj5nKn/partner-client-pipeline
 ## Products
 Features offered, Glossary or Terms and Client Product Integration Platforms
 https://wiki.flatlay.io/products
+## Trello board
+https://trello.com/b/bUAj5nKn/partner-client-pipeline
 ## Hubspot
 https://app.hubspot.com/reports-dashboard/3906039/sales
 ## 1-1 Customer Support Guidelines
