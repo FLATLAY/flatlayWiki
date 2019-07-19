@@ -4,7 +4,7 @@
 ## Working on the Wiki
 To open a folder, press it's name. To open the main page in the subsection, press the arrow (if you see one)
 To delete a folder, delete the page with its url. If one does not exist, make one and then delete it. Make sure all of the documents/folders inside it are deleted first, otherwise it will return to the main sidebar.
-## Rules of Flatlay Wiki:
+## Rules of FLATLAY Wiki:
 ### What to write
 * Daily processes and repetetive works
 * Technical or non-technical details of an operation
