@@ -5,11 +5,11 @@
 **To open a folder, press its name. To open the main page in the subsection, press the arrow (if you see one).**
 
 # Welcome to FLATLAY
-FLATLAY's vision is to become the go-to service for anyone to advocate or launch a brand or storefront online. Flatlay provides a suite of publishing tools allowing users to codelessly create a digital storefront in seconds. Through content driven commerce, the social marketplace network further empowers the creator economy.
+FLATLAY's vision is to become the go-to service for anyone to advocate or launch a brand or storefront online. Through content driven commerce, the social marketplace network further empowers the creator economy.
 
 We’re best positioned to empower content creators and brands by bridging them together in a new sector we’ve identified as “user generated commerce”. We've built a marketplace network around this user behavior, providing a suite of easy-to-use tools to create a digital storefront in seconds, codelessly. 
 
-Through content-driven commerce, FLATLAY empowers the creative economy. The tools are tied to a portal where brands & retailers use a campaign work-flow system to match with the right advocates. FLATLAY makes sourcing content at scale incredibly easy. The platform builds seed models based on key persona’s focused on the target market, and uses machine learning to continuously match lookalike creatives. Clients can then source existing content OR hire creatives for original content while ensuring the copyright.
+The tools are tied to a portal where brands & retailers use a campaign work-flow system to match with the right advocates. FLATLAY makes sourcing content at scale incredibly easy. The platform builds seed models based on key persona’s focused on the target market, and uses machine learning to continuously match lookalike creatives. Clients can then source existing content OR hire creatives for original content while ensuring the copyright.
 
 ## Products and Terminology
 
