@@ -29,6 +29,7 @@ In some aspects, we work like a relay team. In order for the relay to work prope
 
 ![Explanation Of Processes](/uploads/explanation-of-processes.jpg "Explanation Of Processes")
 
+
 You will be added to the threads you need. Currently active Telegram threads are:
 * FLATLAY Connect Front End: https://web.telegram.org/#/im?p=g399949627
 * FLATLAY Mobile Testing Feedback: https://web.telegram.org/#/im?p=g388966952
