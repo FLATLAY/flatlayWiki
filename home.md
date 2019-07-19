@@ -5,7 +5,7 @@
 **To open a folder, press its name. To open the main page in the subsection, press the arrow (if you see one).**
 
 # Welcome to FLATLAY
-FLATLAY's vision is to become the go-to service for anyone to launch a brand or storefront online. Through content driven commerce, the social marketplace network further empowers the creator economy.
+FLATLAY's vision is to become the go-to service to launch a brand or storefront online. Through content driven commerce, the social marketplace network further empowers the creator economy.
 
 We’re best positioned to empower content creators and brands by bridging them together in a new sector we’ve identified as “user generated commerce”. We've built a marketplace network around this user behavior, providing a suite of easy-to-use tools to create a digital storefront in seconds, codelessly. 
 
