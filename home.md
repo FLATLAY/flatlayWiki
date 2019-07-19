@@ -17,7 +17,7 @@ FLATLAY is a platform facilitating user generated commerce. The platform lets cr
 **Campaign** - Marketing campaign wherein a Creative collaborates with a Brand to product sponsored content. Brand’s can post an open-call for applications, send out invites to specific creatives via a List or personally invite them to apply.
 **List** - A brand’s list of prospective candidates for a campaign.
 
-A full list of the services we offer and the terminology we use can be found at: https://wiki.flatlay.io/copywriting/glossary-of-terms.
+A breakdown of the products and services we offer products can be found at https://wiki.flatlay.io/products.
 
 ## Frequently Asked Questions (by Creatives and Brands)
 https://wiki.flatlay.io/faq
