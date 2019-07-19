@@ -1,7 +1,7 @@
 <!-- TITLE: Collateral Assets -->
 
 # Google Drive
-Graphic assets and copy will be saved in the drive: https://drive.google.com/open?id=1z5q6dFz389xAN-vWBwrV9prDaCplSKaL.
+Graphic assets and copy will be saved in the drive: https://drive.google.com/open?id=1N6s1LGpaHqLqJKe886_BBRU1j4szcvg2.
 FLATLAY.io is the current iteration of the platform. The organization is as follows (updated as of July 2019):
 
 ![Google Drive Map](/uploads/google-drive-map.png "Google Drive Map")
