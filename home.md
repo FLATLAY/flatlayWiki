@@ -9,7 +9,7 @@ FLATLAY's vision is to become the go-to service for anyone to advocate or launch
 
 We’re best positioned to empower content creators and brands by bridging them together in a new sector we’ve identified as “user generated commerce”. We've built a marketplace network around this user behavior, providing a suite of easy-to-use tools to create a digital storefront in seconds, codelessly. 
 
-The tools are tied to a portal where brands & retailers use a campaign work-flow system to match with the right advocates. FLATLAY makes sourcing content at scale incredibly easy. The platform builds seed models based on key persona’s focused on the target market, and uses machine learning to continuously match lookalike creatives. Clients can then source existing content OR hire creatives for original content while ensuring the copyright.
+The tools are tied to a portal where brands & retailers use a campaign work-flow system to match with the right advocates. FLATLAY makes sourcing content at scale incredibly easy and brand safe. The platform builds seed models based on key persona’s focused on the target market, and uses machine learning to continuously match lookalike creatives. Clients can then source existing content OR hire creatives for original content while ensuring the copyright.
 
 ## Products and Terminology
 
