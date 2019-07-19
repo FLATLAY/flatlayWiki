@@ -1,6 +1,14 @@
 <!-- TITLE: Graphic Design -->
 <!-- SUBTITLE: A quick summary of Graphic Design -->
 
+# Responsibilities
+* Create and maintain all web and digital graphics to support brand initiatives.
+* Coordinate projects from start to finish (concept, layout, execution).
+* Develop creative to support content for the website.
+* Create ads for online advertising campaigns (emails, digital ads, social ads); including several dimensions of static display.
+* Continually validate designs for usability.
+* Work closely with Marketing team to develop marketing concepts.
+* Prepare visual presentations for advertising campaigns by designing art layouts and concepts.
 # Google Drive
 The most current assets of the website can be found at FLATLAY.IO: https://drive.google.com/open?id=1N6s1LGpaHqLqJKe886_BBRU1j4szcvg2.
 
