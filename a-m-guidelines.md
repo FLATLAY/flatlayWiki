@@ -20,7 +20,7 @@ Improve and optimize post-sales funnel to maximize client engagement and retenti
 
 # Resources
 ## Products
-Features, Glossary of Platform Terminology and Client Product Integration Platforms
+Features, Plans, Glossary of Platform Terminology and Client Product Integration Platforms
 https://wiki.flatlay.io/products
 ## Trello board
 https://trello.com/b/bUAj5nKn/partner-client-pipeline
