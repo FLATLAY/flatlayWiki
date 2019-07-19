@@ -5,7 +5,9 @@
 **To open a folder, press its name. To open the main page in the subsection, press the arrow (if you see one).**
 
 # Welcome to FLATLAY
-FLATLAY is a platform facilitating user generated commerce. The platform lets creatives make their content shoppable, allowing them to earn money and curate their digital stop. FLATLAY supports businesses to work with creatives to run promotional campaigns and collaborate on sponsored content. The platform make it incredibly easy for brands to source high-quality creative content at any scale. 
+FLATLAY's vision: To become the go-to service for anyone to advocate or launch a brand or storefront online. We’re best positioned to empower content creators and brands by bridging them together in a new sector we’ve identified as “user generated commerce”. We've built a marketplace network around this user behavior, providing a suite of easy-to-use tools to create a digital storefront in seconds, codelessly. 
+
+Through content-driven commerce, FLATLAY empowers the creative economy. The tools are tied to a portal where brands & retailers use a campaign work-flow system to match with the right advocates. FLATLAY makes sourcing content at scale incredibly easy. The platform builds seed models based on key persona’s focused on the target market, and uses machine learning to continuously match lookalike creatives. Clients can then source existing content OR hire creatives for original content while ensuring the copyright.
 
 ## Products and Terminology
 
