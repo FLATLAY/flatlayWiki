@@ -21,7 +21,7 @@ Creatives can either be invited to a private by the brand, or they can apply to 
 IOS and Android Apps. Current functionality includes (July 2019):
 * Making content
 * Scrolling through their "dashboard"
-* Purchasing(?) and creating wishlists 
+* Purchasing and creating wishlists 
 * Viewing and applying to campaigns
 * Reviewing their profile
 * Changing user settings
