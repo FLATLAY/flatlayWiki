@@ -7,7 +7,6 @@ Businesses and brands are prompted into two actions: integrating their products 
 Features are available based on the tier the business is subscribed to. Both monthly and yearly (discounted) plan are available. In-depth descriptions of each plan and feature can be found at https://wiki.flatlay.io/copywriting/glossary-of-terms.
 
 ![Plans Monthly](/uploads/plans-monthly.png "Plans Monthly")
-
 ![Plans Yearly](/uploads/plans-yearly.png "Plans Yearly")
 
 ## Creatives
