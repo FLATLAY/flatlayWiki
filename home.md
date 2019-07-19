@@ -28,7 +28,9 @@ https://wiki.flatlay.io/faq
 
 ## Coordinating as a team
 
-The team generally communicates through Telegram/Skype threads focusing on one element of FLATLAY. You'll be added to the threads you need to keep an eye on!
+The team generally communicates through Telegram/Skype threads focusing on one element of FLATLAY. You'll be added to the threads you need to keep an eye on accordingly!
+
+
 In some aspects, we work like a relay team. In order for the relay to work properly, the next team needs to be notified that the work is done, so please be sure to send the completed materials and to tag the next member of your team in the Telegram thread.
 
 ![Explanation Of Processes My Version 2](/uploads/explanation-of-processes-my-version-2.png "Explanation Of Processes My Version 2")
