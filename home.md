@@ -5,7 +5,9 @@
 **To open a folder, press its name. To open the main page in the subsection, press the arrow (if you see one).**
 
 # Welcome to FLATLAY
-FLATLAY's vision is to become the go-to service for anyone to advocate or launch a brand or storefront online. We’re best positioned to empower content creators and brands by bridging them together in a new sector we’ve identified as “user generated commerce”. We've built a marketplace network around this user behavior, providing a suite of easy-to-use tools to create a digital storefront in seconds, codelessly. 
+FLATLAY's vision is to become the go-to service for anyone to advocate or launch a brand or storefront online. Flatlay provides a suite of publishing tools allowing users to codelessly create a digital storefront in seconds. Through content driven commerce, the social marketplace network further empowers the creator economy.
+
+We’re best positioned to empower content creators and brands by bridging them together in a new sector we’ve identified as “user generated commerce”. We've built a marketplace network around this user behavior, providing a suite of easy-to-use tools to create a digital storefront in seconds, codelessly. 
 
 Through content-driven commerce, FLATLAY empowers the creative economy. The tools are tied to a portal where brands & retailers use a campaign work-flow system to match with the right advocates. FLATLAY makes sourcing content at scale incredibly easy. The platform builds seed models based on key persona’s focused on the target market, and uses machine learning to continuously match lookalike creatives. Clients can then source existing content OR hire creatives for original content while ensuring the copyright.
 
@@ -26,7 +28,7 @@ https://wiki.flatlay.io/faq
 
 ## Coordinating as a team
 
-The team generally communicate through Telegram/Skype threads focusing on one element of FLATLAY. You'll be added to the threads you need to keep an eye on!
+The team generally communicates through Telegram/Skype threads focusing on one element of FLATLAY. You'll be added to the threads you need to keep an eye on!
 In some aspects, we work like a relay team. In order for the relay to work properly, the next team needs to be notified that the work is done, so please be sure to send the completed materials and to tag the next member of your team in the Telegram thread.
 
 ![Explanation Of Processes My Version 2](/uploads/explanation-of-processes-my-version-2.png "Explanation Of Processes My Version 2")
