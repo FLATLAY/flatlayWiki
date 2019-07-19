@@ -7,7 +7,7 @@
 # Welcome to FLATLAY
 FLATLAY is a platform facilitating user generated commerce. The platform lets creatives make their content shoppable, allowing them to earn money and curate their digital stop. FLATLAY supports businesses to work with creatives to run promotional campaigns and collaborate on sponsored content. The platform make it incredibly easy for brands to source high-quality creative content at any scale. 
 
-## Terminology for our platform
+## Products and Terminology
 
 **Creatives** - Content creators and influencers using Flatlay to create shoppable content. Also referred to as: Users.
 **Brands** - Businesses using the platform, either by integrating their product or running campaigns. Also referred to as: Businesses.
