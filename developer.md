@@ -3,7 +3,13 @@
 # Communicating with the team
 Most of the communication on the developer side is done 1-1 or through Telegram threads. As needed, extra project management is done on Trello and through appear.in/flatlay.
 
+# Products and Integrations 
+## Products
+https://wiki.flatlay.io/products
+## Integrations
+https://wiki.flatlay.io/developer/integrations
 # Tools
+Including general tools, project management
 https://wiki.flatlay.io/developer/tools
 # Main Projects
 
