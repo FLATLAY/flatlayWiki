@@ -23,7 +23,7 @@ IOS and Android Apps. Current functionality includes (July 2019):
 * Scrolling through their "dashboard"
 * Purchasing and creating wishlists 
 * Viewing and applying to campaigns
-* Reviewing their profile
+* Reviewing amd sharing their profile
 * Changing user settings
 
 # Client Product Integration Platforms
