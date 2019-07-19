@@ -55,7 +55,6 @@ Wiki: development and reference
 Founder/CEO
 UX/UI, Business Development, Sales, Marketing
 Time zone: PST (generally)
-
 Skype: alisammour
 Telegram: @creditcoin
 LinkedIn: https://www.linkedin.com/in/alisammour/
@@ -65,7 +64,6 @@ Founder/CTO
 Tech, Software Architecture 
 *Time zone: CEST*
 LinkedIn: https://www.linkedin.com/in/nokhodian/
-
 Skype: nokhodian
 Telegram: @nokhodian
 
