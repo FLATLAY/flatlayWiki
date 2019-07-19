@@ -11,7 +11,7 @@ Through content-driven commerce, FLATLAY empowers the creative economy. The too
 
 ## Products and Terminology
 
-**Creatives** - Content creators and influencers using Flatlay to create shoppable content. Also referred to as: Users.
+**Creatives** - Content creators and influencers using FLATLAY to create shoppable content. Also referred to as: Users.
 **Brands** - Businesses using the platform, either by integrating their product or running campaigns. Also referred to as: Businesses.
 **Advocates** - Creatives partnering with brands for a campaign or specific product push.
 **Collection** - Shoppable products within a unit of content.
