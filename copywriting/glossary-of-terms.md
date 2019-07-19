@@ -14,7 +14,7 @@ All plans include features above them.
 ![Plans Yearly](/uploads/plans-yearly.png "Plans Yearly")
 
 ## Basic (free)
-**Product Integration:** Adding a product to the Flatlay database, so that Creatives can tag the product and recommend it to others.
+**Product Integration:** Adding a product to the FLATLAY database, so that Creatives can tag the product and recommend it to others.
 **Content Upload:** Uploading content to the FLATLAY app.
 **Social Audience Insights:**  Recommended advocates based on your social audience.
 **Custom List**: List of Creatives shortlisted for collaboration
