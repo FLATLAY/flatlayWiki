@@ -2,7 +2,7 @@
 
 # Web
 ## Businesses
-Businesses and brands are prompted into two actions: integrating their products (so that Creatives can sell them), and creating a campaign. FLATLAY enables them to select Creatives for their campaign by either taking advantage of Social Audience Modelling or creating a list of the people they are interested in collaborating with (from both inside and out of the network). 
+Businesses and brands are prompted into two actions: integrating their products (so that Creatives can sell them), creating a campaign and the recommendation engine. FLATLAY enables them to select Creatives for their campaign by either taking advantage of Social Audience Modelling or creating a list of the people they are interested in collaborating with (from both in and out of the network - anyone with a public social handle). 
 
 Features are available based on the tier the business is subscribed to. Both monthly and yearly (discounted) plan are available. In-depth descriptions of each plan and feature can be found at https://wiki.flatlay.io/copywriting/glossary-of-terms.
 
