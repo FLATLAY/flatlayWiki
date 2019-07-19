@@ -35,7 +35,7 @@ You will be added to the threads you need. Currently active Telegram threads are
 
 ## Other tools we use
 
-The company Google Drive is: https://drive.google.com/open?id=1z5q6dFz389xAN-vWBwrV9prDaCplSKaL. All of the design/marketing assets will be uploaded there.
+The company Google Drive is: https://drive.google.com/open?id=1N6s1LGpaHqLqJKe886_BBRU1j4szcvg2. All of the design/marketing assets will be uploaded there.
 
 Trello: project management for marketing/sales
 Hubspot: for marketing/CRM.
