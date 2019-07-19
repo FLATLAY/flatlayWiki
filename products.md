@@ -10,7 +10,7 @@ Features are available based on the tier the business is subscribed to. Both mon
 ![Plans Yearly](/uploads/plans-yearly.png "Plans Yearly")
 
 ## Creatives
-FLATLAY's aim is to promote user generated commerce, through two main avenues:
+FLATLAY's aim is to facilitate User Generated Commerce through two main avenues:
 ### Creating Content
 Creatives are encouraged to interact with the brands/products they enjoy by creating shoppable content (Collections). The end goal is to have the program auto-tag products, as of July 2019, users are able to search through a list of recommended tags. Creatives can also browse other users content and make purchases.
 ### Working on Branded Campaigns
