@@ -24,10 +24,13 @@
 * Using the same adjectives/words twice in the same paragraph (use synonyms instead).
 * Use the word influencer to describe creatives.
 
-
+# Features
+A breakdown of the products and services we offer products can be found at https://wiki.flatlay.io/products.
+A full glossary of our terms/features can be found: https://wiki.flatlay.io/copywriting/glossary-of-terms.
 # Processes
 ## Communicating with the team
 The direct contact for copywriting is Ali. Once materials are approved, work with the graphic designer to create a mockup of the latest iteration. Communication is through Skype and through dedicated Telegram channels.
 
 ## Tools
 Use Google Slides so that reviews can be done in real time, and all dedicated team members can add changes as we go. When re-working a section on a website, it is helpful to keep a screenshot of current page on the website so that it is easier to orient ourselves.
+Graphic assets and copy will be saved in the drive: https://drive.google.com/open?id=1N6s1LGpaHqLqJKe886_BBRU1j4szcvg2.
