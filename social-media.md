@@ -1,6 +1,16 @@
 <!-- TITLE: Social Media -->
 
 # Social Media Guide
+## Key responsibilities:
+
+* Plan and manage social media marketing campaigns according to the growth goal and content direction.
+* Manage social profile on major social media platforms, including day-to-day posts/updates/responses. 
+* Track and analyze data performance to adjust strategies. 
+* Initiate editorial projects with content and design team. 
+* Development of brand awareness and online image.
+* Collaborate with teammates to maintain a consistent messaging across all platforms.
+* Stay up-to-date with digital marketing trends and potential new channels and strategies.
+
 
 # Essential Info
 ## Logins
