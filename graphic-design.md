@@ -2,7 +2,9 @@
 <!-- SUBTITLE: A quick summary of Graphic Design -->
 
 # Google Drive
-https://drive.google.com/open?id=1QISFAl5wjxOT5gt4HCgw2hGjMDWXCUB4w8OYQmTgkOA
+The most current assets of the website can be found at FLATLAY.IO: https://drive.google.com/open?id=1N6s1LGpaHqLqJKe886_BBRU1j4szcvg2.
+
+There is an also overarching Google Drive Folder, combining both old and new assets that can be found here: https://drive.google.com/open?id=1QISFAl5wjxOT5gt4HCgw2hGjMDWXCUB4w8OYQmTgkOA.
 
 ## Assets page
 https://wiki.flatlay.io/graphic-design/design-documents
