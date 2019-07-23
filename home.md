@@ -87,7 +87,7 @@ Telegram:
 
 **Rudy**
 Account Manager 
-*Time zone:*
+*Time zone:PST*
 
 Telegram: 
 # Sales and Account Managment
