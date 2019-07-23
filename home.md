@@ -69,8 +69,7 @@ Telegram: @nokhodian
 
 **Sina**
 Front- End Developer
-*Time zone:*
-
+*Time zone:CEST*
 Telegram: @sina_ghadri
 
 **Nishant**
@@ -82,9 +81,9 @@ LinkedIn: https://www.linkedin.com/in/nishant-h-153841104/
 
 **Maryam**
 Backend Developer
-*Time zone: *
+*Time zone: CEST*
 
-Telegram: @??
+Telegram: 
 
 **Rudy**
 Account Manager 
