@@ -5,6 +5,7 @@
 this app is created to get the Instagram user information and analysis of each client.
 # usage
 to get user information and relation with suggested users
+**syntax => python fileName.py *username***
 ## repository
 this is a  repository of this app
 https://gitlab.com/flatlay/instaflat 
