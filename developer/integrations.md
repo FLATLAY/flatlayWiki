@@ -7,7 +7,7 @@ AWIN (620595)
 Rakuten Linkshare (Site ID: 3614055)
 Share-A-Sale (1025569)
 CJ (4928182)
-Impact
+Impact (1440888)
 # Social integrations:
 Instagram, Pinterest, Twitter, Facebook, Twitch, Youtube
 (Developers) https://wiki.flatlay.io/developer/integrations/social-integrations
