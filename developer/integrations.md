@@ -1,4 +1,4 @@
-<!-- TITLE: Client Product Integration Platforms -->
+<!-- TITLE: Product Integration Platforms -->
 <!-- SUBTITLE: A quick summary of Integrations -->
 
 
