@@ -1,5 +1,5 @@
 <!-- TITLE: Product Integration Platforms -->
-<!-- SUBTITLE: A quick summary of Integrations -->
+<!-- SUBTITLE: A quick summary of integrations -->
 
 
 # Affiliate Integrations
