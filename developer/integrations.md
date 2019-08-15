@@ -23,5 +23,6 @@ Shopify
 # Other
 Stripe - Payments
 Google Analytics - Analytics
+StackAdapt - Paid Media Buying Functionalities with Premium Publishers (content syndication)
 SendBird - Messaging on Platform
 * Developers: https://wiki.flatlay.io/developer/integrations/sendbird
