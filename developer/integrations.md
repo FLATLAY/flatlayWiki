@@ -12,7 +12,7 @@ Impact (1440888)
 Instagram, Pinterest, Twitter, Facebook, Twitch, Youtube
 (Developers) https://wiki.flatlay.io/developer/integrations/social-integrations
 
-# Commerce Platforms
+# Commerce Management Platforms
 WooCommerce
 Amazon
 BigCommerce
