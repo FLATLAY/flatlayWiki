@@ -84,6 +84,7 @@ Backend Developer
 *Time zone: CEST*
 
 Telegram: 
+LinkedIn: https://www.linkedin.com/in/maryam-mahmoudi-005b5659/
 
 **Rudy**
 Account Manager 
