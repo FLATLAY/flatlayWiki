@@ -7,6 +7,7 @@ Businesses and brands are prompted into three actions: integrating their product
 Features are available based on the tier the business is subscribed to. Both monthly and yearly (discounted) plan are available. In-depth descriptions of each plan and feature can be found at https://wiki.flatlay.io/copywriting/glossary-of-terms.
 
 ![Plans Monthly](/uploads/plans-monthly.png "Plans Monthly")
+![Flatlay Yearly Pricing](/uploads/flatlay-yearly-pricing.jpg "Flatlay Yearly Pricing")
 
 ## Creatives
 FLATLAY's aim is to promote user generated commerce, through two main avenues:
