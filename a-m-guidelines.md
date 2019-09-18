@@ -22,7 +22,12 @@ Improve and optimize post-sales funnel to maximize client engagement and retenti
 ## Products
 Features, Plans, Glossary of Platform Terminology and Client Product Integration Platforms
 https://wiki.flatlay.io/products
-## Integrations
+## Affiliate Integrations
+AWIN (620595)
+Rakuten Linkshare (Site ID: 3614055)
+Share-A-Sale (1025569)
+CJ (4928182)
+Impact (1440888)
 
 ## Trello board
 https://trello.com/b/bUAj5nKn/partner-client-pipeline
