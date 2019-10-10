@@ -1,4 +1,5 @@
 <!-- TITLE: Payment -->
 <!-- SUBTITLE: A quick summary of Payment -->
 
-# Header
+# Brand Portal:
+# Creator Portal:
