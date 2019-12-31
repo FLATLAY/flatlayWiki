@@ -66,3 +66,6 @@ FLATLAY works as on a SaaS model based on monthly tiered services for DTC brands
 We source thousands of pieces of brand-safe content monthly and use computer vision to automatically tag products SKU’s. The combination sets are then programmatically delivered across their sites and apps performing 300% better than in-house teams.
 
 We've organically registered a network of nearly 100k members on the site and are now rolling out native iOS/Android to scale with new content formats to make it more experiential.
+
+![Image 2019 12 30 20 09 37](/uploads/image-2019-12-30-20-09-37.jpg "Image 2019 12 30 20 09 37")
+![Image 2019 12 30 20 09 31](/uploads/image-2019-12-30-20-09-31.jpg "Image 2019 12 30 20 09 31")
