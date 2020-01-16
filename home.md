@@ -83,6 +83,8 @@ LinkedIn: https://www.linkedin.com/in/nishant-h-153841104/
 Backend Developer
 *Time zone: CEST*
 
+LinkedIn: https://www.linkedin.com/in/maryam-mahmoudi/
+
 Telegram: 
 LinkedIn: https://www.linkedin.com/in/maryam-mahmoudi-005b5659/
 
