@@ -53,7 +53,7 @@ Wiki: development and reference
 
 **Ali**
 Founder/CEO
-UX/UI, Business Development, Sales, Marketing
+Product Management, Business Development, Sales, Marketing
 Time zone: PST (generally)
 Skype: alisammour
 Telegram: @creditcoin
@@ -79,12 +79,6 @@ Mobile Developer
 Telegram: @thisisnsh
 LinkedIn: https://www.linkedin.com/in/nishant-h-153841104/
 
-**Maryam**
-Backend Developer
-*Time zone: CEST*
-
-Telegram: 
-LinkedIn: https://www.linkedin.com/in/maryam-mahmoudi/
 
 **Rudy**
 Account Manager 
