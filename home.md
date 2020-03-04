@@ -7,9 +7,7 @@
 # Welcome to FLATLAY
 Flatlay is the end to end social commerce automation platform, identifying and converting the right customers & fans into advocates. The platform automates content sourcing & syndication for brands by aligning incentives with their community to activate a Content Loyalty Program. 
 
-FLATLAY's vision is to become the go-to service to launch a brand or storefront online. Through content driven commerce, the social marketplace network further empowers the creator economy.
-
-We’re best positioned to empower content creators and brands by bridging them together in a new sector we’ve identified as “User Generated Commerce”. We've built a marketplace network around this user behavior, providing a suite of easy-to-use tools to create a digital storefront in seconds, codelessly. 
+FLATLAY's vision is to become the go-to service to launch a brand or storefront online. Through content driven commerce, the social marketplace network further empowers the creator economy. We’re best positioned to empower content creators and brands by bridging them together in a new sector we’ve identified as “User Generated Commerce”. We've built a marketplace network around this user behavior, providing a suite of easy-to-use tools to create a digital storefront in seconds, codelessly. 
 
 The tools are tied to a portal where brands & retailers use a campaign work-flow system to match with the right advocates. FLATLAY makes sourcing content at scale incredibly easy and brand safe. The platform builds seed models based on key persona’s focused on the target market, and uses machine learning to continuously match lookalike creatives. Clients can then source existing content OR hire creatives for original content while ensuring the copyright.
 
