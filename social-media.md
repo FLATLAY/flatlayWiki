@@ -50,7 +50,93 @@ Log approved #YesFL into the “Flatlay Approved Content Creators” file.
 # Platform Specific Guides
 ## Instagram 
 https://wiki.flatlay.io/social-media/instagram
-
+Instagram Contests: 
+Calender: 
+How to run (all past canvas are linked in the google calendar and available for reuse):
+1.  Sunday - announce theme on story
+			*Post "FLATLAY CONTEST" announcement
+			*First story: use Canva to create story including: theme, hashtag, due date (Tuesday of next week) and call to action with form link
+			*Second story: post "Tips & Tricks" Canva and call to action with form link
+2. Monday - post reminder
+			*First story: post theme (from Sunday) with call to action and countdown clock
+			*Second story: post "Tips & Tricks" Canva and call to action with form link
+			*Third story: post " 8 days left" to submit your #challengename
+3. Tuesday - post reminder
+			*First story: post theme (from Sunday) with call to action and countdown clock
+			*Second story: post "Tips & Tricks" Canva and call to action with form link
+			*Third story: post " 7 days left" to submit your #challengename
+			*add to contest highlight
+4. Wednesday - post reminder
+			*First story: post theme (from Sunday) with call to action and countdown clock
+			*Second story: post "Tips & Tricks" Canva and call to action with form link
+			*Third story: post " 6 days left" to submit your #challengename
+			*add to contest highlight
+5. Thursday - post reminder
+			*First story: post theme (from Sunday) with call to action and countdown clock
+			*Second story: post "Tips & Tricks" Canva and call to action with form link
+			*Third story: post " 5 days left" to submit your #challengename
+			*add to contest highlight
+6. Friday - post reminder
+			*First story: post theme (from Sunday) with call to action and countdown clock
+			*Second story: post "Tips & Tricks" Canva and call to action with form link
+			*Third story: post " 4 days left" to submit your #challengename
+			*add to contest highlight
+7. Saturday - post reminder
+			*First story: post theme (from Sunday) with call to action and countdown clock
+			*Second story: post "Tips & Tricks" Canva and call to action with form link
+			*Third story: post " 3 days left" to submit your #challengename
+			*add to contest highlight
+8. Sunday - post reminder
+			*First story: post theme (from Sunday) with call to action and countdown clock
+			*Second story: post "Tips & Tricks" Canva and call to action with form link
+			*Third story: post " 2 days left" to submit your #challengename
+			*add to contest highlight
+9. Monday - post reminder
+			*First story: post theme (from Sunday) with call to action and countdown clock
+			*Second story: post "Tips & Tricks" Canva and call to action with form link
+			*Third story: post " 1 days left" to submit your #challengename
+			*add to contest highlight
+10. Tuesday - post reminder
+			*First story: post theme (from Sunday) with call to action and countdown clock
+			*Second story: post "Tips & Tricks" Canva and call to action with form link
+			*Third story: (when time comes) Post 2 hour reminder (with Canva)
+			*add to contest highlight
+			*Tuesday NIGHT: go through google forms, choose the top 8 using your best judgement
+			*Save the 8 photos in a folder with the instagram usernames as file name
+			*Using piccollage, create 4 instagram stories with two on each (top and bottom) - try to pair to give fair competition
+10. Wednesday - Contest Day 1
+			*Post "Contest Day 1" (make using canvas)
+			*Post the four collages, each with:
+								*Instagram usernames tagged at the corner of each flatlay
+								*Instagram poll asking: Which FLATLAY?
+											*Use the emojis pointing up and down to let people to vote
+			*Add to contest story
+11. Thursday - Contest Day 2
+			*Log viewer count and vote from Friday's contest stories for engagement tracking
+			*Post "Contest Day 2" (make using canvas)
+			*Take the FLATLAY voted on more in each collage and pair them again, creating two collages with two flatlays on each (top and bottom)
+			*Post the two collages, each with:
+								*Instagram usernames tagged at the corner of each flatlay
+								*Instagram poll asking: Which FLATLAY?
+											*Use the emojis pointing up and down to let people to vote
+		*Add to contest story
+12. Friday - Contest Day 3
+			*Log viewer count and vote from Friday's contest stories for engagement tracking			*Post "Fianal Round" (make using canvas)
+			*Take the FLATLAY voted on more in each collage and pair them again, creating one collage with two flatlays (top and bottom)
+			*Post the one collage with:
+								*Instagram usernames tagged at the corner of each flatlay
+								*Instagram poll asking: Which FLATLAY?
+											*Use the emojis pointing up and down to let people to vote
+			*Add to contest story
+13. Saturday - Winner Announcement
+			*Log viewer count and vote from Friday's contest stories for engagement tracking
+			*First story: Use Canva to Create "Congratulations to this week's FLATLAY Contest Winner" @username with the #challengehashtag 
+			*Second story: Post the flatlay with Canva design
+			*Post as a PERMANENT POST: "Congratulations to @username - our nth flatlay contest winner! This shot shows the user's #challengehashtag. We love seeing beautiful, artistic work like this! KEep on entering future weekly contests for a chance to be featured. Links are in the "CONTESTS" story highlights. Again, we love your work @username and congratulations! #flatlay #YesFL #flatgrid #challengehashtag #otherrelatedhashtags 
+				*Repost permanent post on your story 
+				
+	
+			
 ### Posts shared on Facebook, Tumblr and Twitter
 Instagram is our main platform, and most of our social media is posted through it.
 
