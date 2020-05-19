@@ -47,10 +47,15 @@ Log approved #YesFL into the “Flatlay Approved Content Creators” file.
 ### Posting Plan
 
 ![Posting Plan](/uploads/posting-plan.png "Posting Plan")
+
+### FLATLAY Community Contest
 # Platform Specific Guides
 ## Instagram 
 https://wiki.flatlay.io/social-media/instagram
 Instagram Contests: 
+Canva:
+Google Form:
+Data Tracking: 
 Calender: 
 How to run (all past canvas are linked in the google calendar and available for reuse):
 1.  Sunday - announce theme on story
