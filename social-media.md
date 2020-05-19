@@ -39,7 +39,7 @@ A current list of approved creatives is (third tab on the bottom, 'Flatlay Appro
 Send #YesFL messages to relevent creators on the platform you're sourcing content from.
 Log approved #YesFL into the “Flatlay Approved Content Creators” file.
 
-## Best Times to Post (2019)
+## Best Times to Post (2020)
 ### General
 
 ![Best Times To Post](/uploads/best-times-to-post.png "Best Times To Post")
@@ -48,10 +48,7 @@ Log approved #YesFL into the “Flatlay Approved Content Creators” file.
 
 ![Posting Plan](/uploads/posting-plan.png "Posting Plan")
 
-### FLATLAY Community Contest
-# Platform Specific Guides
-## Instagram 
-https://wiki.flatlay.io/social-media/instagram
+## FLATLAY Community Contests
 Instagram Contests: 
 Canva:
 Google Form:
@@ -139,6 +136,9 @@ How to run (all past canvas are linked in the google calendar and available for 
 			*Second story: Post the flatlay with Canva design
 			*Post as a PERMANENT POST: "Congratulations to @username - our nth flatlay contest winner! This shot shows the user's #challengehashtag. We love seeing beautiful, artistic work like this! KEep on entering future weekly contests for a chance to be featured. Links are in the "CONTESTS" story highlights. Again, we love your work @username and congratulations! #flatlay #YesFL #flatgrid #challengehashtag #otherrelatedhashtags 
 				*Repost permanent post on your story 
+# Platform Specific Guides
+## Instagram 
+https://wiki.flatlay.io/social-media/instagram
 				
 	
 			
