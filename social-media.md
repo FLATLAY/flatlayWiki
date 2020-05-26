@@ -150,6 +150,7 @@ How to run (all past canvas are linked in the google calendar and available for 
 								*Instagram poll asking: Which FLATLAY?
 											*Use the emojis pointing up and down to let people to vote
 			*Add to contest story
+![Final Round](/uploads/final-round.jpg "Final Round")
 13. Saturday - Winner Announcement
 			*Log viewer count and vote from Friday's contest stories for engagement tracking
 			*First story: Use Canva to Create "Congratulations to this week's FLATLAY Contest Winner" @username with the #challengehashtag 
@@ -158,6 +159,7 @@ How to run (all past canvas are linked in the google calendar and available for 
 				*Repost permanent post on your story 
 ![Conrats Winner](/uploads/conrats-winner.jpg "Conrats Winner")
 ![Congrats Photo Food](/uploads/congrats-photo-food.jpg "Congrats Photo Food")
+
 # Platform Specific Guides
 ## Instagram 
 https://wiki.flatlay.io/social-media/instagram
