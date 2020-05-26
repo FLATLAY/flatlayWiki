@@ -51,10 +51,14 @@ Log approved #YesFL into the “Flatlay Approved Content Creators” file.
 ## FLATLAY Community Contests
 Instagram Contests: 
 Canva: https://www.canva.com/
-Google Form: https://forms.gle/gKHL9do54Qsy7a5x7
+	*use canva to create social media announcements
+Google Form: https://forms.gle/gKHL9do54Qsy7a5x7e
+	*contest entries are submitted her
 Data Tracking: https://docs.google.com/spreadsheets/d/1cFNmERDgHTC3DcMwSA3cfyo8ds8R-mMSqs6iXZJ7jXU/edit?usp=sharing 
+	*enter data for each round of contests
 Calendar: https://calendar.google.com/calendar/b/1?cid=dWNoaWNhZ28uZWR1XzA1ZHJiY210M3NlNXVoMmgyMTJtdG1mbXIwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
-![Round 1 Match Up 8 Flatlays Into 4 Pairings Use Instagram Polls To Vote](/uploads/round-1-match-up-8-flatlays-into-4-pairings-use-instagram-polls-to-vote.jpg "Round 1 Match Up 8 Flatlays Into 4 Pairings Use Instagram Polls To Vote")
+	*posting schedule with attached images available through calendar 
+![Round 1 Match U![Round 1 Match Up 8 Flatlays Into 4 Pairings Use Instagram Polls To Vote 1](/uploads/round-1-match-up-8-flatlays-into-4-pairings-use-instagram-polls-to-vote-1.jpg "Round 1 Match Up 8 Flatlays Into 4 Pairings Use Instagram Polls To Vote 1")
 *example is of a one-week contest, can be flexible and changed to 14-day contests or more. 
 How to run (all past canvas are linked in the google calendar and available for reuse):
 1.  Sunday - announce theme on story
