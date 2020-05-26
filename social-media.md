@@ -48,6 +48,64 @@ Log approved #YesFL into the “Flatlay Approved Content Creators” file.
 
 ![Posting Plan](/uploads/posting-plan.png "Posting Plan")
 
+
+# Platform Specific Guides
+## Instagram 
+https://wiki.flatlay.io/social-media/instagram
+				
+	
+			
+### Posts shared on Facebook, Tumblr and Twitter
+Instagram is our main platform, and most of our social media is posted through it.
+
+## Twitter
+### Schedule
+
+12 PM Post shared though Instagram.
+
+1 PM : 1-2 posts on Weekdays 
+Post scheduled with ViralTag (Use ViralTag Widget on @flatlay Instagram posts on desktop)
+
+### Hashtags
+- Vary the #.
+ex: 
+FLATLAY⎜ https://flatlay.io ⎜The community where brands & creatives connect. 
+#flatlay #flatlays #influencers #blogger #lifestyle #beauty #fashion #foodie #photography @CreatorsHandle
+
+## Pinterest
+### Schedule
+8 PM to 11 PM 
+3-5 posts/day on Wednesday & Weekends
+### Notes
+Post scheduled with ViralTag (Use ViralTag Widget on @flatlay Instagram posts on desktop)
+- Can be the same post as for Twitter + Add a board.
+- Vary the #.
+- Can redirect to instagram or directly to flatlay.io
+ex:
+FLATLAY⎜ https://flatlay.io ⎜The community where brands & creatives connect. 
+#flatlay #flatlays #ootd #fashionblogger #lifestyle #accessories #fashion #channel #inspiration @CreatorHandle
+## WeHeartIt
+### Schedule
+11 AM or 4 PM
+5-10 posts/day on Monday
+
+### Notes
+- Same description as the Instagram Post with @CreatorHandle.
+- Add 8 relevant #.
+- Add Call to action (for example: “Collaborate with brands”) with link to the portal.
+
+
+## VSCO
+### Schedule
+11 AM or 4 PM
+3-5 posts/day on Monday
+
+### Notes
+- Vary the #.
+ex: 
+FLATLAY⎜ https://flatlay.io ⎜The community where brands & creatives connect. 
+#flatlay #flatlays #influencers #blogger #lifestyle #beauty #fashion #foodie #photography @CreatorsHandle
+
 ## FLATLAY Community Contests
 Instagram Contests: 
 Canva: https://www.canva.com/
@@ -160,62 +218,6 @@ How to run (all past canvas are linked in the google calendar and available for 
 ![Conrats Winner](/uploads/conrats-winner.jpg "Conrats Winner")
 ![Congrats Photo Food](/uploads/congrats-photo-food.jpg "Congrats Photo Food")
 
-# Platform Specific Guides
-## Instagram 
-https://wiki.flatlay.io/social-media/instagram
-				
-	
-			
-### Posts shared on Facebook, Tumblr and Twitter
-Instagram is our main platform, and most of our social media is posted through it.
-
-## Twitter
-### Schedule
-
-12 PM Post shared though Instagram.
-
-1 PM : 1-2 posts on Weekdays 
-Post scheduled with ViralTag (Use ViralTag Widget on @flatlay Instagram posts on desktop)
-
-### Hashtags
-- Vary the #.
-ex: 
-FLATLAY⎜ https://flatlay.io ⎜The community where brands & creatives connect. 
-#flatlay #flatlays #influencers #blogger #lifestyle #beauty #fashion #foodie #photography @CreatorsHandle
-
-## Pinterest
-### Schedule
-8 PM to 11 PM 
-3-5 posts/day on Wednesday & Weekends
-### Notes
-Post scheduled with ViralTag (Use ViralTag Widget on @flatlay Instagram posts on desktop)
-- Can be the same post as for Twitter + Add a board.
-- Vary the #.
-- Can redirect to instagram or directly to flatlay.io
-ex:
-FLATLAY⎜ https://flatlay.io ⎜The community where brands & creatives connect. 
-#flatlay #flatlays #ootd #fashionblogger #lifestyle #accessories #fashion #channel #inspiration @CreatorHandle
-## WeHeartIt
-### Schedule
-11 AM or 4 PM
-5-10 posts/day on Monday
-
-### Notes
-- Same description as the Instagram Post with @CreatorHandle.
-- Add 8 relevant #.
-- Add Call to action (for example: “Collaborate with brands”) with link to the portal.
-
-
-## VSCO
-### Schedule
-11 AM or 4 PM
-3-5 posts/day on Monday
-
-### Notes
-- Vary the #.
-ex: 
-FLATLAY⎜ https://flatlay.io ⎜The community where brands & creatives connect. 
-#flatlay #flatlays #influencers #blogger #lifestyle #beauty #fashion #foodie #photography @CreatorsHandle
 
 
 
