@@ -65,8 +65,9 @@ How to run (all past canvas are linked in the google calendar and available for 
 			*Post "FLATLAY CONTEST" announcement
 			*First story: use Canva to create story including: theme, hashtag, due date (Tuesday of next week) and call to action with form link
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
+![Contest How To](/uploads/contest-how-to.jpg "Contest How To")
 ![Contest Theme Food](/uploads/contest-theme-food.jpg "Contest Theme Food")
-
+![Tips For Voting](/uploads/tips-for-voting.jpg "Tips For Voting")
 2. Monday - post reminder
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
@@ -122,6 +123,7 @@ How to run (all past canvas are linked in the google calendar and available for 
 			*Tuesday NIGHT: go through google forms, choose the top 8 using your best judgement
 			*Save the 8 photos in a folder with the instagram usernames as file name
 			*Using piccollage, create 4 instagram stories with two on each (top and bottom) - try to pair to give fair competition
+![Submission Done](/uploads/submission-done.jpg "Submission Done")
 10. Wednesday - Contest Day 1
 			*Post "Contest Day 1" (make using canvas)
 			*Post the four collages, each with:
@@ -129,6 +131,7 @@ How to run (all past canvas are linked in the google calendar and available for 
 								*Instagram poll asking: Which FLATLAY?
 											*Use the emojis pointing up and down to let people to vote
 			*Add to contest story
+![Round 1](/uploads/round-1.jpg "Round 1")
 11. Thursday - Contest Day 2
 			*Log viewer count and vote from Friday's contest stories for engagement tracking
 			*Post "Contest Day 2" (make using canvas)
@@ -138,6 +141,7 @@ How to run (all past canvas are linked in the google calendar and available for 
 								*Instagram poll asking: Which FLATLAY?
 											*Use the emojis pointing up and down to let people to vote
 		*Add to contest story
+![Round 2](/uploads/round-2.jpg "Round 2")
 12. Friday - Contest Day 3
 			*Log viewer count and vote from Friday's contest stories for engagement tracking			*Post "Fianal Round" (make using canvas)
 			*Take the FLATLAY voted on more in each collage and pair them again, creating one collage with two flatlays (top and bottom)
@@ -152,6 +156,8 @@ How to run (all past canvas are linked in the google calendar and available for 
 			*Second story: Post the flatlay with Canva design
 			*Post as a PERMANENT POST: "Congratulations to @username - our nth flatlay contest winner! This shot shows the user's #challengehashtag. We love seeing beautiful, artistic work like this! KEep on entering future weekly contests for a chance to be featured. Links are in the "CONTESTS" story highlights. Again, we love your work @username and congratulations! #flatlay #YesFL #flatgrid #challengehashtag #otherrelatedhashtags 
 				*Repost permanent post on your story 
+![Conrats Winner](/uploads/conrats-winner.jpg "Conrats Winner")
+![Congrats Photo Food](/uploads/congrats-photo-food.jpg "Congrats Photo Food")
 # Platform Specific Guides
 ## Instagram 
 https://wiki.flatlay.io/social-media/instagram
