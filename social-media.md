@@ -65,45 +65,55 @@ How to run (all past canvas are linked in the google calendar and available for 
 			*Post "FLATLAY CONTEST" announcement
 			*First story: use Canva to create story including: theme, hashtag, due date (Tuesday of next week) and call to action with form link
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
+![Contest Theme Food](/uploads/contest-theme-food.jpg "Contest Theme Food")
+
 2. Monday - post reminder
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 8 days left" to submit your #challengename
+![8 Days Food](/uploads/8-days-food.jpg "8 Days Food")
 3. Tuesday - post reminder
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 7 days left" to submit your #challengename
 			*add to contest highlight
+![7 Days Food](/uploads/7-days-food.jpg "7 Days Food")
 4. Wednesday - post reminder
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 6 days left" to submit your #challengename
 			*add to contest highlight
+![6 Days Food](/uploads/6-days-food.jpg "6 Days Food")
 5. Thursday - post reminder
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 5 days left" to submit your #challengename
 			*add to contest highlight
+![5 Days Food](/uploads/5-days-food.jpg "5 Days Food")
 6. Friday - post reminder
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 4 days left" to submit your #challengename
 			*add to contest highlight
+![4 Days Food](/uploads/4-days-food.jpg "4 Days Food")
 7. Saturday - post reminder
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 3 days left" to submit your #challengename
 			*add to contest highlight
+![3 Days Food](/uploads/3-days-food.jpg "3 Days Food")
 8. Sunday - post reminder
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 2 days left" to submit your #challengename
 			*add to contest highlight
+![2 Days Food](/uploads/2-days-food.jpg "2 Days Food")
 9. Monday - post reminder
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 1 days left" to submit your #challengename
 			*add to contest highlight
+![1 Day Food](/uploads/1-day-food.jpg "1 Day Food")
 10. Tuesday - post reminder
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
