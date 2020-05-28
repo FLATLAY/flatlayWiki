@@ -172,7 +172,7 @@ How to run (all past canvas are linked in the google calendar and available for 
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 1 days left" to submit your #challengename
 			*add to contest highlight
-![1 Day Food](/uploads/1-day-food.jpg "1 Day Food")
+![11 Day Food](/uploads/11-day-food.jpg "11 Day Food")
 **10. Tuesday - post reminder**
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
