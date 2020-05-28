@@ -123,50 +123,50 @@ How to run (all past canvas are linked in the google calendar and available for 
 			*Post "FLATLAY CONTEST" announcement
 			*First story: use Canva to create story including: theme, hashtag, due date (Tuesday of next week) and call to action with form link
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
-![Contest How To](/uploads/contest-how-to.jpg "Contest How To")
-![Contest Theme Food](/uploads/contest-theme-food.jpg "Contest Theme Food")
-![Tips For Voting](/uploads/tips-for-voting.jpg "Tips For Voting")
+![1 Contest How To](/uploads/1-contest-how-to.jpg "1 Contest How To")
+![1 Contest Theme Food](/uploads/1-contest-theme-food.jpg "1 Contest Theme Food")
+![1 Tips For Voting](/uploads/1-tips-for-voting.jpg "1 Tips For Voting")
 **2. Monday - post reminder**
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 8 days left" to submit your #challengename
-![8 Days Food](/uploads/8-days-food.jpg "8 Days Food")
+![18 Days Food](/uploads/18-days-food.jpg "18 Days Food")
 **3. Tuesday - post reminder**
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 7 days left" to submit your #challengename
 			*add to contest highlight
-![7 Days Food](/uploads/7-days-food.jpg "7 Days Food")
+![17 Days Food](/uploads/17-days-food.jpg "17 Days Food")
 **4. Wednesday - post reminder**
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 6 days left" to submit your #challengename
 			*add to contest highlight
-![6 Days Food](/uploads/6-days-food.jpg "6 Days Food")
+![16 Days Food](/uploads/16-days-food.jpg "16 Days Food")
 **5. Thursday - post reminder**
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 5 days left" to submit your #challengename
 			*add to contest highlight
-![5 Days Food](/uploads/5-days-food.jpg "5 Days Food")
+![15 Days Food](/uploads/15-days-food.jpg "15 Days Food")
 **6. Friday - post reminder**
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 4 days left" to submit your #challengename
 			*add to contest highlight
-![4 Days Food](/uploads/4-days-food.jpg "4 Days Food")
+![14 Days Food](/uploads/14-days-food.jpg "14 Days Food")
 **7. Saturday - post reminder**
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 3 days left" to submit your #challengename
 			*add to contest highlight
-![3 Days Food](/uploads/3-days-food.jpg "3 Days Food")
+![13 Days Food](/uploads/13-days-food.jpg "13 Days Food")
 **8. Sunday - post reminder**
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
 			*Third story: post " 2 days left" to submit your #challengename
 			*add to contest highlight
-![2 Days Food](/uploads/2-days-food.jpg "2 Days Food")
+![12 Days Food](/uploads/12-days-food.jpg "12 Days Food")
 **9. Monday - post reminder**
 			*First story: post theme (from Sunday) with call to action and countdown clock
 			*Second story: post "Tips & Tricks" Canva and call to action with form link
@@ -181,7 +181,7 @@ How to run (all past canvas are linked in the google calendar and available for 
 			*Tuesday NIGHT: go through google forms, choose the top 8 using your best judgement
 			*Save the 8 photos in a folder with the instagram usernames as file name
 			*Using piccollage, create 4 instagram stories with two on each (top and bottom) - try to pair to give fair competition
-![Submission Done](/uploads/submission-done.jpg "Submission Done")
+![1 Submission Done](/uploads/1-submission-done.jpg "1 Submission Done")
 **10. Wednesday - Contest Day 1**
 			*Post "Contest Day 1" (make using canvas)
 			*Post the four collages, each with:
@@ -189,7 +189,7 @@ How to run (all past canvas are linked in the google calendar and available for 
 								*Instagram poll asking: Which FLATLAY?
 											*Use the emojis pointing up and down to let people to vote
 			*Add to contest story
-![Round 1](/uploads/round-1.jpg "Round 1")
+![1 Round 1](/uploads/1-round-1.jpg "1 Round 1")
 **11. Thursday - Contest Day 2**
 			*Log viewer count and vote from Friday's contest stories for engagement tracking
 			*Post "Contest Day 2" (make using canvas)
@@ -199,7 +199,7 @@ How to run (all past canvas are linked in the google calendar and available for 
 								*Instagram poll asking: Which FLATLAY?
 											*Use the emojis pointing up and down to let people to vote
 		*Add to contest story
-![Round 2](/uploads/round-2.jpg "Round 2")
+![1 Round 2](/uploads/1-round-2.jpg "1 Round 2")
 **12. Friday - Contest Day 3**
 			*Log viewer count and vote from Friday's contest stories for engagement tracking			*Post "Fianal Round" (make using canvas)
 			*Take the FLATLAY voted on more in each collage and pair them again, creating one collage with two flatlays (top and bottom)
@@ -208,16 +208,15 @@ How to run (all past canvas are linked in the google calendar and available for 
 								*Instagram poll asking: Which FLATLAY?
 											*Use the emojis pointing up and down to let people to vote
 			*Add to contest story
-![Final Round](/uploads/final-round.jpg "Final Round")
+![1 Final Round](/uploads/1-final-round.jpg "1 Final Round")
 **13. Saturday - Winner Announcement**
 			*Log viewer count and vote from Friday's contest stories for engagement tracking
 			*First story: Use Canva to Create "Congratulations to this week's FLATLAY Contest Winner" @username with the #challengehashtag 
 			*Second story: Post the flatlay with Canva design
 			*Post as a PERMANENT POST: "Congratulations to @username - our nth flatlay contest winner! This shot shows the user's #challengehashtag. We love seeing beautiful, artistic work like this! KEep on entering future weekly contests for a chance to be featured. Links are in the "CONTESTS" story highlights. Again, we love your work @username and congratulations! #flatlay #YesFL #flatgrid #challengehashtag #otherrelatedhashtags 
 				*Repost permanent post on your story 
-![Conrats Winner](/uploads/conrats-winner.jpg "Conrats Winner")
-![Congrats Photo Food](/uploads/congrats-photo-food.jpg "Congrats Photo Food")
-
+![1 Congrats Winner](/uploads/1-congrats-winner.jpg "1 Congrats Winner")
+![1 Congrats Photo Food](/uploads/1-congrats-photo-food.jpg "1 Congrats Photo Food")
 
 
 
