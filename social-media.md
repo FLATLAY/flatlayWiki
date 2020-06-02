@@ -110,6 +110,8 @@ FLATLAY⎜ https://flatlay.io ⎜The community where brands & creatives connect.
 Instagram Contests: 
 **Canva**: https://www.canva.com/
 	*use canva to create social media announcements
+***Google Drive**: https://drive.google.com/drive/folders/1cbK4HfkUfN2vSDgCQxYmAR3Fcpqj7s39?usp=sharing
+	*Downloadable images of all FLATLAY posts
 **Google Form**: https://forms.gle/gKHL9do54Qsy7a5x7e
 	*contest entries are submitted her
 **Data Tracking**: https://docs.google.com/spreadsheets/d/1cFNmERDgHTC3DcMwSA3cfyo8ds8R-mMSqs6iXZJ7jXU/edit?usp=sharing 
