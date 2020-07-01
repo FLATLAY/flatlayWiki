@@ -36,7 +36,4 @@ Use Google Slides so that reviews can be done in real time, and all dedicated te
 Graphic assets and copy will be saved in the drive: https://drive.google.com/open?id=1N6s1LGpaHqLqJKe886_BBRU1j4szcvg2.
 
 # Email Marketing Pathways
-Brand and Creator Re-introduction Emails (within 30-35 days of re-launch)
-
-Brand and Creator Email Pathways
 ![Creator Email Pathways](/uploads/1-email/creator-email-pathways.png "Creator Email Pathways"){.align-center}
