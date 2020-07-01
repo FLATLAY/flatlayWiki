@@ -39,5 +39,5 @@ Graphic assets and copy will be saved in the drive: https://drive.google.com/ope
 ## Re-introduction Pathways
 
 ## Regular Email Pathways
-![Creator Email Pathways](/uploads/1-email/creator-email-pathways.png "Creator Email Pathways"){.align-center}
 ![Brand Email Pathways](/uploads/1-email/brand-email-pathways.png "Brand Email Pathways"){.align-center}
+![Creator Email Pathways](/uploads/1-email/creator-email-pathways.png "Creator Email Pathways"){.align-center}
