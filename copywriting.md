@@ -34,3 +34,9 @@ The direct contact for copywriting is Ali. Once materials are approved, work wit
 ## Tools
 Use Google Slides so that reviews can be done in real time, and all dedicated team members can add changes as we go. When re-working a section on a website, it is helpful to keep a screenshot of current page on the website so that it is easier to orient ourselves.
 Graphic assets and copy will be saved in the drive: https://drive.google.com/open?id=1N6s1LGpaHqLqJKe886_BBRU1j4szcvg2.
+
+# Email Marketing Pathways
+Brand and Creator Re-introduction Emails (within 30-35 days of re-launch)
+
+
+Brand and Creator Email Pathways
