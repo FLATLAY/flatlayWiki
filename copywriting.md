@@ -38,5 +38,5 @@ Graphic assets and copy will be saved in the drive: https://drive.google.com/ope
 # Email Marketing Pathways
 Brand and Creator Re-introduction Emails (within 30-35 days of re-launch)
 
-
 Brand and Creator Email Pathways
+![Creator Email Pathways](/uploads/1-email/creator-email-pathways.png "Creator Email Pathways"){.align-center}
