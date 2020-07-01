@@ -36,4 +36,8 @@ Use Google Slides so that reviews can be done in real time, and all dedicated te
 Graphic assets and copy will be saved in the drive: https://drive.google.com/open?id=1N6s1LGpaHqLqJKe886_BBRU1j4szcvg2.
 
 # Email Marketing Pathways
+## Re-introduction Pathways
+
+## Regular Email Pathways
 ![Creator Email Pathways](/uploads/1-email/creator-email-pathways.png "Creator Email Pathways"){.align-center}
+![Brand Email Pathways](/uploads/1-email/brand-email-pathways.png "Brand Email Pathways"){.align-center}
