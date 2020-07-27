@@ -61,6 +61,6 @@
 
 ### Facebook
 
-* Use SDK ;)
+* Use Opengraph API ;)
 
 								
