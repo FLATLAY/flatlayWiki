@@ -32,7 +32,7 @@ Running on serverless infrastructure, Lambda
 **Code is run on**: Lambda 8.3
 **Hosted on:** AWS
 **Currently capable of storing:** Amazon, Shopify, Viglink 
-* Soon to be added: Frenzy (Rakuten/Linkshare)
+* Product Database/Elastic Search: (Rakuten/Linkshare), working on Shopify Sales Channel integration/approval
 
 ## Instagram (Morteza’s project atm)
 **Database:** InstaNeo4J
