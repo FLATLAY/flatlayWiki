@@ -97,9 +97,6 @@ https://wiki.flatlay.io/copywriting/
 # Developers
 https://wiki.flatlay.io/developer/
 
-# Technical Documentation 
-https://wiki.flatlay.io/technicaldocumentation/
-
 # -- Collateral Assets --
 Most of our collateral design/sales/copy assets can be found: https://wiki.flatlay.io/collateral-assets.
 
