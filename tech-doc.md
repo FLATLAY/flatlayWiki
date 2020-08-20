@@ -9,7 +9,11 @@
 
 # Class Diagram
 ## Source file for the Class Diagram 
-[Swagger Ref](/uploads/technical-diagrams/swagger-ref.yaml "Swagger Ref")
+[Updated Class Diagram 4](/uploads/technical-diagrams/updated-class-diagram-4.drawio "Updated Class Diagram 4")
 
 ## Diagram
 ![Updated Class Diagram 1](/uploads/technical-diagrams/updated-class-diagram-1.png "Updated Class Diagram 1")
+
+# Swagger
+## Source file
+[Swagger Ref](/uploads/technical-diagrams/swagger-ref.yaml "Swagger Ref")
