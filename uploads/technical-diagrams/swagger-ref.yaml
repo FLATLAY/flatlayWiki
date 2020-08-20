@@ -1,0 +1,3383 @@
+swagger: "2.0"
+info:
+  version: "0.0.1"
+  title: FlatlayV1APIS
+# during dev, should point to your local machine
+# host: v1.flat-lay.com
+host: localhost:2018
+# basePath prefixes all resource paths
+basePath: /
+#
+schemes:
+  # tip: remove http to make production-grade
+  - https
+  - http
+# format of bodies a client can send (Content-Type)
+consumes:
+  - application/json
+# format of the responses to the client (Accepts)
+produces:
+  - application/json
+components:
+  securitySchemes:
+    basicAuth:
+      type: http
+      scheme: basic
+security:
+  - basicAuth: []
+parameters:
+  ReusableParameterHeader:
+    name: "authorization"
+    type: "string"
+    in: "header"
+    required: true
+paths:
+  /brand:
+    get:
+      summary: "Get all Brands"
+      description: "Get all Brand"
+      operationId: "getBrand"
+      parameters:
+      - $ref: "#/parameters/ReusableParameterHeader"
+      produces:
+        - "application/xml"
+        - "application/json"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Error while searching"
+      x-swagger-router-controller: "Brand.js"
+    post:
+      summary: "Add a new brand"
+      description: "Add a new brand object"
+      operationId: "addBrand"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          required: true
+          schema:
+            $ref: "#/definitions/addBrand"
+      responses:
+        200:
+          description: "Brand succesfully added."
+        400:
+          description: "Error while adding brand.."
+      x-swagger-router-controller: "Brand.js"
+  /brand/{brandID}:
+    put:
+      summary: "Update Brand info"
+      description: "Update info of a brand"
+      operationId: "updateBrand"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "brandID"
+          in: "path"
+          description: "The brandID which we need to update"
+          required: true
+          type: "string"
+        - in: "body"
+          name: "body"
+          required: true
+          schema:
+            $ref: "#/definitions/addBrand"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid brandID"
+        404:
+          description: "Brand not found"
+      x-swagger-router-controller: "Brand.js"
+
+    delete:
+      summary: "Delete Brand"
+      description: "Delete Brand"
+      operationId: "deleteBrand"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "brandID"
+          in: "path"
+          description: "The brandID which we need to update"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Successfully deleted brand"
+        400:
+          description: "Invalid brandID"
+        404:
+          description: "Brand not found"
+      x-swagger-router-controller: "Brand.js"
+
+  /brand/search/{keyword}:
+    get:
+      summary: "Search Brand"
+      description: "Search Brand"
+      operationId: "searchBrand"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "keyword"
+          in: "path"
+          description: "The keyword to search for"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Error while searching"
+      x-swagger-router-controller: "Brand.js"
+
+  /user/brand/{brandID}:
+    post:
+      summary: "Follow a brand"
+      description: "make the current user follow the given brand"
+      operationId: "followBrand"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "brandID"
+          in: "path"
+          description: "id of Brand"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Brand succesfully followed."
+        400:
+          description: "Error while following brand."
+      x-swagger-router-controller: "User.js"
+
+    delete:
+      summary: "Unfollows a brand"
+      description: "make the current user unfollow the given brand"
+      operationId: "unfollowBrand"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "brandID"
+          in: "path"
+          description: "id of Brand"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Brand succesfully unfollowed."
+        400:
+          description: "Error while unfollowing brand."
+      x-swagger-router-controller: "User.js"
+  /category:
+    get:
+      summary: "Get all categorys"
+      description: "Get all category"
+      operationId: "getCategory"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+       - $ref: "#/parameters/ReusableParameterHeader"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Error while searching"
+      x-swagger-router-controller: "Category.js"
+    post:
+      summary: "Add a new category"
+      description: "Add a new category object"
+      operationId: "addCategory"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          required: true
+          schema:
+            $ref: "#/definitions/addBrand"
+      responses:
+        200:
+          description: "category succesfully added."
+        400:
+          description: "Error while adding category.."
+      x-swagger-router-controller: "Category.js"
+  /category/{categoryID}:
+    put:
+      summary: "Update category info"
+      description: "Update info of a category"
+      operationId: "updateCategory"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "categoryID"
+          in: "path"
+          description: "The categoryID which we need to update"
+          required: true
+          type: "string"
+        - in: "body"
+          name: "body"
+          required: true
+          schema:
+            $ref: "#/definitions/addBrand"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid categoryID"
+        404:
+          description: "category not found"
+      x-swagger-router-controller: "Category.js"
+
+    delete:
+      summary: "Delete category"
+      description: "Delete category"
+      operationId: "deleteCategory"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "categoryID"
+          in: "path"
+          description: "The categoryID which we need to update"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Successfully deleted category"
+        400:
+          description: "Invalid categoryID"
+        404:
+          description: "category not found"
+      x-swagger-router-controller: "Category.js"
+
+  /category/search/{keyword}:
+    get:
+      summary: "Search category"
+      description: "Search category"
+      operationId: "searchCategory"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "keyword"
+          in: "path"
+          description: "The keyword to search for"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Error while searching"
+      x-swagger-router-controller: "Category.js"
+
+  /user/category/{categoryID}:
+    post:
+      summary: "Follow a category"
+      description: "make the current user follow the given category"
+      operationId: "followCategory"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "categoryID"
+          in: "path"
+          description: "id of category"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "category succesfully followed."
+        400:
+          description: "Error while following category."
+      x-swagger-router-controller: "User.js"
+
+    delete:
+      summary: "Unfollows a category"
+      description: "make the current user unfollow the given category"
+      operationId: "unfollowCategory"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "categoryID"
+          in: "path"
+          description: "id of category"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "category succesfully unfollowed."
+        400:
+          description: "Error while unfollowing category."
+      x-swagger-router-controller: "User.js"
+
+  /user/address:
+    get:
+      summary: "getAddressList for a user"
+      description: "get Address List for a user"
+      operationId: "getAddressList"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+      responses:
+        200:
+          description: "succesfully get."
+        400:
+          description: "Error getAddressList.."
+      x-swagger-router-controller: "User.js"
+    post:
+      summary: "Add an address for a user"
+      description: "Add an address for a user"
+      operationId: "addAddress"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          required: true
+          schema:
+            $ref: "#/definitions/addAddress"
+      responses:
+        200:
+          description: "Address succesfully added."
+        400:
+          description: "Error while adding address.."
+      x-swagger-router-controller: "User.js"
+    put:
+      summary: "Updates an address for a user"
+      description: "Updates an address for a user"
+      operationId: "updateAddress"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          required: true
+          schema:
+            $ref: "#/definitions/updateAddress"
+      responses:
+        200:
+          description: "Address succesfully updated."
+        400:
+          description: "Error while updating address."
+      x-swagger-router-controller: "User.js"
+    delete:
+      summary: "Deletes an address for a user"
+      description: "Deletes an address for a user"
+      operationId: "deleteAddress"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          required: true
+          schema:
+            $ref: "#/definitions/deleteAddress"
+      responses:
+        200:
+          description: "Address succesfully deleted."
+        400:
+          description: "Error while deleting address."
+      x-swagger-router-controller: "User.js"
+  /user/follow:
+    post:
+      summary: "Follow a users"
+      description: "Given a user_id, make the current user follow the given user"
+      operationId: "followUser"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          required: true
+          schema:
+            $ref: "#/definitions/followUser"
+      responses:
+        200:
+          description: "User succesfully followed."
+        400:
+          description: "Error while following user."
+      x-swagger-router-controller: "User.js"
+    delete:
+      summary: "Unfollows a users"
+      description: "Given a user_id, make the current user unfollow the given user"
+      operationId: "unfollowUser"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          required: true
+          schema:
+            $ref: "#/definitions/followUser"
+      responses:
+        200:
+          description: "User succesfully unfollowed."
+        400:
+          description: "Error while unfollowing user."
+      x-swagger-router-controller: "User.js"
+  /user/notifications:
+    get:
+      summary: "Get number of Notifications"
+      description: "Get number Notifications"
+      operationId: "numberNotifications"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+      produces:
+        - "application/xml"
+        - "application/json"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "notifications.js"
+  /user/info:
+    get:
+      summary: "Get profile information of owner"
+      description: "Get owner profile information"
+      operationId: "ownerProfileInformation"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "User.js"
+
+  /user/search/{username}:
+    get:
+      summary: "search username"
+      description: "search username SUBSTRING"
+      operationId: "searchUserName"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "username"
+          in: "path"
+          description: "username for get user"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "User.js"
+  /username/{username}:
+    get:
+      summary: "create checkusername api"
+      description: "create check username api"
+      operationId: "checkusername"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "username"
+          in: "path"
+          description: "username for get user"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "User.js"
+  /signup: # {user_id: "4801", collection_name: "pants collection"}
+    post:
+      summary: "user register "
+      description: "add a user in data base"
+      operationId: "addUser"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "data"
+          description: "Created object of the data"
+          required: true
+          schema:
+            $ref: "#/definitions/userdetails"
+      responses:
+        200:
+          description: "Collection successfully created"
+      x-swagger-router-controller: "User.js"
+  /user:
+    put:
+      summary: "update user"
+      description: "update user"
+      operationId: "updateUser"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "Created object of the data"
+          required: true
+          schema:
+            $ref: "#/definitions/userupdatedetails"
+      responses:
+        200:
+          description: "successfully"
+      x-swagger-router-controller: "User.js"
+
+  /collection:
+    get:
+      summary: "get list of all collections and collectionOwners"
+      description: "get collection list"
+      operationId: "userCollectionWithProducts"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "userid"
+          description: "The userId for get collection"
+          required: false
+          type: "string"
+        - in: "query"
+          name: "withproduct"
+          description: If true, the endpoint returns the user produces.
+          required: false
+          type: boolean
+        - in: "query"
+          name: "page"
+          description: "The number of page to collect the result set"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid user id"
+        404:
+          description: "user id not found"
+      x-swagger-router-controller: "collection.js"
+    post:
+      summary: "Add collection"
+      description: "Add a producet_id in node"
+      operationId: "addCollection"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "Created object of the collection"
+          required: true
+          schema:
+            $ref: "#/definitions/addtocollection"
+      responses:
+        200:
+          description: "Product successfully add to collection"
+      x-swagger-router-controller: "collection.js"
+    delete:
+      summary: "delete collection"
+      description: "delete collection node"
+      operationId: "deleteCollection"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "body"
+          in: "body"
+          description: "get id of the collection"
+          required: true
+          schema:
+            $ref: "#/definitions/deletethecollection"
+      responses:
+        200:
+          description: "collection successfully deleted"
+      x-swagger-router-controller: "collection.js"
+  /collection/{collectionid}: #  {user_id: "4801", collection_id: "5530"}
+    post:
+      summary: "Add Product to collection"
+      description: "Add a producet_id in node"
+      operationId: "addProductToCollection"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "collectionid"
+          in: "path"
+          description: "get collection_id from path"
+          required: true
+          type: "string"
+        - name: "product_id"
+          in: "body"
+          description: "get product_id from body"
+          required: true
+          schema:
+            $ref: "#/definitions/addproducttocollection"
+      responses:
+        200:
+          description: "Product successfully add to collection"
+      x-swagger-router-controller: "collection.js"
+    delete:
+      summary: "delete product"
+      description: "delete product id"
+      operationId: "deleteProductFromCollection"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "collectionid"
+          in: "path"
+          description: "get id of the products"
+          required: true
+          type: "string"
+        - name: "product_id"
+          in: "body"
+          description: "get product_id from body for delete"
+          required: true
+          schema:
+            $ref: "#/definitions/deleteproductcollection"
+      responses:
+        200:
+          description: "product successfully deleted"
+        400:
+          description: "entry Invalid"
+      x-swagger-router-controller: "collection.js"
+    put:
+      summary: "upload a Product to collection"
+      description: "upload a producet_id in node"
+      operationId: "updateCollection"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "collectionid"
+          in: "path"
+          description: "get collection_id from path"
+          required: true
+          type: "string"
+        - name: "body"
+          in: "body"
+          description: "get product_id from body"
+          required: true
+          schema:
+            $ref: "#/definitions/updateofcollection"
+      responses:
+        200:
+          description: "Product successfully add to collection"
+        400:
+          description: "Invalid collection"
+        404:
+          description: "collection not found"
+      x-swagger-router-controller: "collection.js"
+
+  /collection/user/{userid}:
+    get:
+      summary: "Get collections of the user with 10 first product of each collection"
+      description: ""
+      operationId: "productInCollectionList"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "userid"
+          description: "The userId for get collection"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "The number of page to collect the result set"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid user id"
+        404:
+          description: "user id not found"
+      x-swagger-router-controller: "collection.js"
+  /noauth/collection/user/{userID}:
+    get:
+      summary: "Get collections of the user with 10 first product of each collection"
+      description: ""
+      operationId: "noauthProductInCollectionList"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "userID"
+          description: "The userID to get collection"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "The number of page to collect the result set"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid user id"
+        404:
+          description: "user id not found"
+      x-swagger-router-controller: "noAuth.js"
+  /noauth/user/detail/{userID}:
+    get:
+      summary: ""
+      description: "Get profile information"
+      operationId: "noauthProfileUserInformation"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "userID"
+          in: "path"
+          description: "userid for get profile Information "
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid name"
+        404:
+          description: "Not found"
+      x-swagger-router-controller: "noAuth.js"
+  /collection/product/{collectionid}:
+    get:
+      summary: "Get products in collection"
+      description: "get products in A collection"
+      operationId: "getProductInACollection"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "collectionid"
+          description: "The userId for get collection"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "The number of page to collect the result set"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid user id"
+        404:
+          description: "user id not found"
+      x-swagger-router-controller: "collection.js"
+
+  /noauth/collection/product/{collectionID}:
+    get:
+      summary: ""
+      description: "get products in A collection"
+      operationId: "noauthProductInACollection"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "collectionID"
+          description: "The userId for get collection"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "The number of page to collect the result set"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid user id"
+        404:
+          description: "user id not found"
+      x-swagger-router-controller: "noAuth.js"
+
+  /flatlay:
+    get:
+      summary: ""
+      description: "list of flatlays"
+      operationId: "flatlayList"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item id not found"
+      x-swagger-router-controller: "flatlay.js"
+    delete:
+      summary: "delete flatlay"
+      description: "delete Inspiration node"
+      operationId: "deleteFlatlay"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "Created id for delete node"
+          required: true
+          schema:
+            $ref: "#/definitions/deleteflatlaypost"
+      responses:
+        200:
+          description: "successfully"
+      x-swagger-router-controller: "flatlay.js"
+    put:
+      summary: "update flatlay"
+      description: "update Inspiration node"
+      operationId: "updateFlatlay"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "update flatlay"
+          required: true
+          schema:
+            $ref: "#/definitions/updateflatlaypost"
+      responses:
+        200:
+          description: "successfully"
+      x-swagger-router-controller: "index.js"
+    post:
+      summary: "Post image flatlay"
+      description: "post image"
+      operationId: "post_image"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - in: "body"
+          name: "body"
+          description: "Post image flatlay"
+          required: true
+          schema:
+            $ref: "#/definitions/post_image"
+      responses:
+        200:
+          description: "successfully"
+      x-swagger-router-controller: "index.js"
+  /flatlay/report:
+    post:
+      description: "Report a flatlay for unappropriate Content"
+      operationId: "postReportFlatlay"
+      produces:
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          required: true
+          schema:
+            $ref: "#/definitions/reportFlatlay"
+      responses:
+        200:
+          description: "Reported"
+        400:
+          description: "Flatlay or User is not found"
+      x-swagger-router-controller: "flatlay.js"
+
+  /flatlay/comment:
+    post:
+      summary: "Add comment"
+      description: "add comment"
+      operationId: "addCommentFlatlay"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "body"
+          in: "body"
+          required: true
+          description: "add Comment Flatlay."
+          schema:
+            $ref: "#/definitions/postCommentFlatlay"
+      responses:
+        200:
+          description: "Successfully"
+        400:
+          description: "Invalid"
+        404:
+          description: "not found"
+      x-swagger-router-controller: "flatlay.js"
+    delete:
+      summary: "delete flat-lay"
+      description: "delete Inspiration node"
+      operationId: "deleteCommentFlatlay"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "Created id for delete node"
+          required: true
+          schema:
+            $ref: "#/definitions/deletecommentflatlay"
+      responses:
+        200:
+          description: "Successfully"
+        400:
+          description: "Invalid"
+        404:
+          description: "not found"
+      x-swagger-router-controller: "flatlay.js"
+    put:
+      summary: "update Comment "
+      description: "update Comment on Flatlay"
+      operationId: "updateCommentFlatlay"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "update object of the comment"
+          required: true
+          schema:
+            $ref: "#/definitions/updatecommentonflatlay"
+      responses:
+        200:
+          description: "Successfully"
+        400:
+          description: "Invalid"
+        404:
+          description: "not found"
+      x-swagger-router-controller: "flatlay.js"
+  /flatlay/comment/{flatlayid}:
+    get:
+      summary: "get list of Comment "
+      description: "Comment list on Flatlay"
+      operationId: "flatlayCommentList"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "flatlayid"
+          description: "comments object"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "for pagenation"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item id not found"
+      x-swagger-router-controller: "flatlay.js"
+  /search/flatlay/{flatlaytext}:
+    get:
+      summary: "search flatlay"
+      description: "search flatlay SUBSTRING"
+      operationId: "searchFlatlay"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "flatlaytext"
+          in: "path"
+          description: "flatlaytext for get user"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "for pagenation"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "flatlay.js"
+  /product/comment:
+    post:
+      summary: "Post a comment"
+      description: "comment"
+      operationId: "addCommentProduct"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "Created object of the data"
+          required: true
+          schema:
+            $ref: "#/definitions/postCommentOnProduct"
+      responses:
+        200:
+          description: "ok"
+      x-swagger-router-controller: "product.js"
+    delete:
+      summary: "delete comment"
+      description: "delete product commet node "
+      operationId: "deleteCommentProduct"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "delete comment node with id "
+          required: true
+          schema:
+            $ref: "#/definitions/deletecommentofproduct"
+      responses:
+        200:
+          description: "successfully"
+      x-swagger-router-controller: "product.js"
+    put:
+      summary: "upload comment"
+      description: "upload product commet node "
+      operationId: "updateCommentProduct"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "upload comment node with id "
+          required: true
+          schema:
+            $ref: "#/definitions/updatecommentonproduct"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "comment doesnt exist"
+        404:
+          description: "comment not found"
+      x-swagger-router-controller: "product.js"
+  /flatlay/like:
+    post:
+      summary: "like"
+      description: "like flatlay "
+      operationId: "postFlatlayLike"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "flatlay Like with id "
+          required: true
+          schema:
+            $ref: "#/definitions/likeonflatlay"
+      responses:
+        200:
+          description: "successfully"
+      x-swagger-router-controller: "flatlay.js"
+    delete:
+      summary: "like delete"
+      description: "delete Like "
+      operationId: "deleteFlatlayLike"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "deleted Like with flatlayId "
+          required: true
+          schema:
+            $ref: "#/definitions/deletelikeofflatlay"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "Invalid shop user id"
+        404:
+          description: "user id not found"
+      x-swagger-router-controller: "flatlay.js"
+  /flatlay/{user_id}:
+    get:
+      summary: "flatlay List"
+      description: "List of flatlay "
+      operationId: "flatlayProfile"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "user_id"
+          description: "The userId for get profile"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "The number of page to collect the result set"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop user id"
+        404:
+          description: "user id not found"
+      x-swagger-router-controller: "flatlay.js"
+  /flatlay/detail/{flatlayid}:
+    get:
+      summary: "getFlatlayDetail"
+      description: "get Flatlay Detail  "
+      operationId: "getFlatlayDetail"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "flatlayid"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop user id"
+        404:
+          description: "user id not found"
+      x-swagger-router-controller: "flatlay.js"
+  /flatlay/profile/{username}:
+    get:
+      summary: ""
+      description: "get Flatlays by username "
+      operationId: "getFlatlayProfileByUsername"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "username"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "The number of page to collect the result set"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop user id"
+        404:
+          description: "user id not found"
+      x-swagger-router-controller: "flatlay.js"
+  /product/like:
+    post:
+      summary: "like comment"
+      description: "like flatlay "
+      operationId: "postProductLike"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "products has Like with id products "
+          required: true
+          schema:
+            $ref: "#/definitions/likeOnProduct"
+      responses:
+        200:
+          description: "successfully"
+      x-swagger-router-controller: "product.js"
+    delete:
+      summary: "like delete"
+      description: "delete Like "
+      operationId: "deleteProductLike"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "deleted Like with productId "
+          required: true
+          schema:
+            $ref: "#/definitions/deleteLikeOnProduct"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item id not found"
+      x-swagger-router-controller: "product.js"
+  /tag:
+    post:
+      summary: "pin a tag"
+      description: "Get tag"
+      operationId: "createTag"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "Created tag on the image"
+          required: true
+          schema:
+            $ref: "#/definitions/postTagInput"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item id not found"
+      x-swagger-router-controller: "tag.js"
+    delete:
+      summary: "like delete"
+      description: "delete tag "
+      operationId: "deleteTag"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "deleted tag "
+          required: true
+          schema:
+            $ref: "#/definitions/deletetag"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item id not found"
+      x-swagger-router-controller: "tag.js"
+  /trend/user:
+    get:
+      summary: "trending user with most followers"
+      description: "trending user "
+      operationId: "trendingUser"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid"
+        404:
+          description: "not found"
+      x-swagger-router-controller: "trending.js"
+  /trend/flatlay:
+    get:
+      summary: "trending Flatlay with the morest likes"
+      description: "trending Flatlay "
+      operationId: "trendingFlatlay"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid"
+        404:
+          description: "not found"
+      x-swagger-router-controller: "trending.js"
+  /product/search/{keyword}:
+    get:
+      summary: "Search for product affiliate"
+      description: "product affiliate Search "
+      operationId: "productAffiliateSearch"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "keyword"
+          description: "the string that is Searched"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "The number of page to collect the result set"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop user id"
+        404:
+          description: "user id not found"
+      x-swagger-router-controller: "product.js"
+  /product/info:
+    post:
+      summary: "Getting product information in a batch"
+      operationId: "productInfo"
+      produces:
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "Array of strings of product IDs"
+          required: true
+          schema:
+            $ref: "#/definitions/productArray"
+      responses:
+        200:
+          description: "ok"
+      x-swagger-router-controller: "product.js"
+
+  /cart/product/{productID}:
+    post:
+      summary: "add to cart"
+      description: "add to cart"
+      operationId: "addToCart"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "productID"
+          description: "add product to cart"
+          required: true
+          type: "string"
+        - in: "body"
+          name: "body"
+          description: "an object for send as properties"
+          required: true
+          schema:
+            $ref: "#/definitions/addCart"
+      responses:
+        200:
+          description: "successful"
+      x-swagger-router-controller: "cart.js"
+    delete:
+      summary: "remove From Cart"
+      description: "remove From Cart"
+      operationId: "removeFromCart"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "productID"
+          description: "add product to cart"
+          required: true
+          type: "string"
+        - in: "body"
+          name: "body"
+          description: "remove product"
+          required: true
+          schema:
+            type: "object"
+            properties:
+              cart_id:
+                type: "string"
+      responses:
+        200:
+          description: "successful"
+      x-swagger-router-controller: "cart.js"
+  /cart:
+    get:
+      summary: "get Product of a Cart"
+      description: "get Product from the Cart"
+      operationId: "getProductCart"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "successful"
+      x-swagger-router-controller: "cart.js"
+    put:
+      summary: "update cart"
+      description: "update status in cart"
+      operationId: "updateToCart"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "update the status of the cart to purchased or cancelled"
+          required: true
+          schema:
+            $ref: "#/definitions/updateCart"
+      responses:
+        200:
+          description: "successful"
+      x-swagger-router-controller: "cart.js"
+  /purchase:
+    post:
+      summary: "post Purchased"
+      description: "post purchased for the Cart"
+      operationId: "postPurchased"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+      produces:
+        - "application/xml"
+        - "application/json"
+      responses:
+        200:
+          description: "successful"
+      x-swagger-router-controller: "cart.js"
+  /creditcard:
+    get:
+      summary: "get List of All Saved creditCard"
+      description: "get List of All Saved creditCard"
+      operationId: "getListSavedCredit"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "successful"
+      x-swagger-router-controller: "creditCard.js"
+    post:
+      summary: "add creditCard"
+      description: "add creditCard or match with main creditCard"
+      operationId: "addCerditCard"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "properties for creditCard"
+          required: true
+          schema:
+            $ref: "#/definitions/addCreditCard"
+      responses:
+        200:
+          description: "successful"
+      x-swagger-router-controller: "creditCard.js"
+    put:
+      summary: "update creditCard"
+      description: "update creditCard"
+      operationId: "updateCreditCard"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "properties for creditCard"
+          required: true
+          schema:
+            $ref: "#/definitions/updatecreditcard"
+      responses:
+        200:
+          description: "successful"
+      x-swagger-router-controller: "creditCard.js"
+    delete:
+      summary: "delete creditCard"
+      description: "delete creditCard"
+      operationId: "deleteCreditCard"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "properties for creditCard"
+          required: true
+          schema:
+            $ref: "#/definitions/deletecreditcard"
+      responses:
+        200:
+          description: "successful"
+      x-swagger-router-controller: "creditCard.js"
+  /orderdetail/{order_id}:
+    get:
+      summary: "to get order details"
+      description: "to get order details like total amount, time etc of old orders"
+      operationId: "getOrderDetail"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "order_id"
+          description: "The order_id for get order"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "successful"
+      x-swagger-router-controller: "cart.js"
+  /order:
+    get:
+      summary: "get orders of a Cart"
+      description: "get orders from the Cart"
+      operationId: "getOrders"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "successful"
+      x-swagger-router-controller: "cart.js"
+  /noauth/trend/user:
+    get:
+      summary: "trending user with most followers without authentication"
+      description: "trending user without authentication "
+      operationId: "noAuthtrendingUser"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid"
+        404:
+          description: "not found"
+      x-swagger-router-controller: "noAuth.js"
+  /noauth/user/search/{username}:
+    get:
+      summary: "search username"
+      description: "search username SUBSTRING without authentication"
+      operationId: "noAuthSearchUserName"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "username"
+          in: "path"
+          description: "username for get user"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "noAuth.js"
+  /noauth/user/{userID}:
+    get:
+      summary: ""
+      description: "Get user infos with user ID without authentication"
+      operationId: "noAuthGetUserbyID"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "userID"
+          in: "path"
+          description: "userID of the returned user"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "noAuth.js"
+  /noauth/search/flatlay/{flatlaytext}:
+    get:
+      summary: "search flatlay"
+      description: "search flatlay SUBSTRING without authentication"
+      operationId: "noAuthSearchFlatlay"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "flatlaytext"
+          in: "path"
+          description: "flatlaytext for get user"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "for pagenation"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "noAuth.js"
+  /noauth/flatlay:
+    get:
+      summary: "homepage of flatlay"
+      description: "list of fletlay"
+      operationId: "noAuthflatlayList"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item id not found"
+      x-swagger-router-controller: "noAuth.js"
+  /noauth/flatlay/{userID}:
+    get:
+      summary: ""
+      description: "Flatlays of the userID"
+      operationId: "noAuthFlatlayByUserID"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: true
+          type: "integer"
+        - name: "userID"
+          in: "path"
+          description: "ID of requested user"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item id not found"
+      x-swagger-router-controller: "noAuth.js"
+
+  /noauth/flatlay/detail/{flatlayID}:
+    get:
+      summary: ""
+      description: "Flatlay detail of a flatlayID"
+      operationId: "noAuthFlatlayByFlatalyID"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "flatlayID"
+          in: "path"
+          description: "ID of a flatlay"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item id not found"
+      x-swagger-router-controller: "noAuth.js"
+  /noauth/product/search/{keyword}:
+    get:
+      summary: "Search for product affiliate"
+      description: "product affiliate Search "
+      operationId: "noAuthProductAffiliateSearch"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "keyword"
+          description: "the string that is Searched"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "The number of page to collect the result set"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop user id"
+        404:
+          description: "user id not found"
+      x-swagger-router-controller: "noAuth.js"
+  /noauth/trend/flatlay:
+    get:
+      summary: "trending Flatlay with the morest likes"
+      description: "trending Flatlay "
+      operationId: "noAuthtrendingFlatlay"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid"
+        404:
+          description: "not found"
+      x-swagger-router-controller: "noAuth.js"
+
+  /noauth/flatlay/comment/{flatlayID}:
+    get:
+      summary: ""
+      description: "Comment list on Flatlay"
+      operationId: "noAuthFlatlayCommentList"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "flatlayID"
+          description: "comments object"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "for pagenation"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item id not found"
+      x-swagger-router-controller: "noAuth.js"
+
+  /notifications:
+    get:
+      summary: "get List of All notifications"
+      description: "get List of All notifications with pagination"
+      operationId: "getNotificationsList"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid"
+        404:
+          description: "not found"
+      x-swagger-router-controller: "notifications.js"
+  /campaign/pic:
+    post:
+      summary: "post campaign"
+      description: "post campaign"
+      operationId: "postPicCampaign"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "an object for send as properties"
+          required: true
+          schema:
+            $ref: "#/definitions/postpiccampaign"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "campaign.js"
+    put:
+      summary: "edit campaign"
+      description: "edit campaign"
+      operationId: "editCampaign"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "Pagination"
+          required: true
+          schema:
+            $ref: "#/definitions/editcampaign"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "campaign.js"
+  /user/following:
+    get:
+      summary: "Get Following"
+      description: "Get Following"
+      operationId: "getFollowing"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: true
+          type: "integer"
+        - in: "query"
+          name: "userID"
+          description: "userID"
+          required: false
+          type: "string"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "User.js"
+  /user/followers:
+    get:
+      summary: "Get followers"
+      description: "Get followers"
+      operationId: "getFollowers"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: true
+          type: "integer"
+        - in: "query"
+          name: "username"
+          description: "username"
+          required: false
+          type: "string"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "User.js"
+  /user/{userid}:
+    get:
+      summary: "Get profile information by userId"
+      description: "Get profile information"
+      operationId: "getProfileUserInformation"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "userid"
+          in: "path"
+          description: "userid for get profile Information "
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "User.js"
+  /user/profile/{username}:
+    get:
+      summary: "Get profile information by username"
+      description: "Get profile information"
+      operationId: "getProfileUserInformationByUsername"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "username"
+          in: "path"
+          description: "username for get profile Information "
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "User.js"
+  /campaign/content:
+    get:
+      summary: "homepage of flatlay"
+      description: "list of fletlay"
+      operationId: "getCampaignContent"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "campaignID"
+          description: "get campaignID"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item id not found"
+      x-swagger-router-controller: "campaign.js"
+    delete:
+      summary: "delete CampaignContent"
+      description: "delete Inspiration node"
+      operationId: "deleteCampaignContent"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "Created id for delete node"
+          required: true
+          schema:
+            $ref: "#/definitions/deleteCampaignContentPost"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item id not found"
+      x-swagger-router-controller: "campaign.js"
+    post:
+      summary: "post campaign content"
+      description: "Post campaign content"
+      operationId: "campaign_content"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "Post campaign content"
+          required: true
+          schema:
+            $ref: "#/definitions/campaign_content"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid input"
+      x-swagger-router-controller: "index.js"
+  /noauth/campaign/content/{campaignId}:
+    get:
+      summary: ""
+      description: "getting camapaign contents by campaign ID"
+      operationId: "noAuthGetCampaignContent"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "campaignId"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "userId"
+          required: false
+          type: "string"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid"
+        404:
+          description: "not found"
+      x-swagger-router-controller: "noAuth.js"
+  /noauth/campaign/contentapproval:
+    post:
+      summary: "post campaign contentapproval"
+      description: "post campaign contentapproval"
+      operationId: "postCampaignContentApproval"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "an object for send as properties"
+          required: true
+          schema:
+            $ref: "#/definitions/postpiccampaignapproval"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "campaign.js"
+
+  /campaign/contentoriginalurl:
+    post:
+      summary: ""
+      description: "Submitting Original URL of approved campaing content"
+      operationId: "postcontentoriginalurl"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          required: true
+          schema:
+            $ref: "#/definitions/contentOriginalUrl"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid"
+        404:
+          description: "not found"
+      x-swagger-router-controller: "campaign.js"
+  /noauth/user/details/{username}:
+    get:
+      summary: ""
+      description: "Get profile information by usernamee"
+      operationId: "noauthProfileUserInformationByUsername"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - name: "username"
+          in: "path"
+          description: "username for get profile Information "
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid name"
+        404:
+          description: "Not found"
+      x-swagger-router-controller: "noAuth.js"
+  /noauth/flatlay/details/{username}:
+    get:
+      summary: ""
+      description: "Flatlays of the username"
+      operationId: "noAuthFlatlayByUsername"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "username"
+          description: "username of requested user"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item username not found"
+      x-swagger-router-controller: "noAuth.js"
+  /noauth/collection/{username}:
+    get:
+      summary: ""
+      description: "Flatlays of the username"
+      operationId: "noauthCollectionListByUsername"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "username"
+          description: "username of requested user"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item username not found"
+      x-swagger-router-controller: "noAuth.js"
+  /collection/profile/{username}:
+    get:
+      summary: ""
+      description: "Flatlays of the username"
+      operationId: "collectionListByUsername"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "path"
+          name: "username"
+          description: "username of requested user"
+          required: true
+          type: "string"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item username not found"
+      x-swagger-router-controller: "collection.js"
+  /campaign/user:
+    get:
+      summary: ""
+      description: "view invitiation campaign"
+      operationId: "viewCampaign"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: true
+          type: "integer"
+        - in: "query"
+          name: "type"
+          description: "we have 2 types open and invite "
+          required: true
+          type: "string"
+        - in: "query"
+          name: "keyword"
+          description: "search forcampaign "
+          required: false
+          type: "string"
+        - in: "query"
+          name: "applied"
+          description: "if user applied to campaign variable will be true "
+          required: false
+          type: "boolean"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "the item doesnt exist"
+        404:
+          description: "item username not found"
+      x-swagger-router-controller: "campaign.js"
+  /campaign/user/rsvp:
+    post:
+      summary: "post campaign rsvp"
+      description: "rsvp Campaign Invites for Creator"
+      operationId: "rsvpCampaignInvitesCreator"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "an object for send as properties"
+          required: true
+          schema:
+            $ref: "#/definitions/rsvpCampaignInviteCreator"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "campaign.js"
+  /campaign/apply:
+    post:
+      summary: "a creator applay to open campaign"
+      description: " creator applay to open campaign"
+      operationId: "creatorApplyToCampaign"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "an object for send as properties"
+          required: true
+          schema:
+            $ref: "#/definitions/creatorApplCampaign"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "campaign.js"
+  /wishlist:
+    post:
+      summary: "post"
+      description: "wishList for add favorite product"
+      operationId: "wishList"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "an object for send as properties"
+          required: true
+          schema:
+            $ref: "#/definitions/wishLists"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "product.js"
+    delete:
+      summary: " delete"
+      description: "delete WishList "
+      operationId: "deleteWishList"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "deleted deleteWishList with productId "
+          required: true
+          schema:
+            $ref: "#/definitions/deletewishlist"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "Invalid shop user id"
+        404:
+          description: "user id not found"
+      x-swagger-router-controller: "product.js"
+    get:
+      summary: " get procucts wish"
+      description: "get WishList of products"
+      operationId: "productsWishList"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: true
+          type: "integer"
+      responses:
+        200:
+          description: "successfully"
+        400:
+          description: "Invalid shop user id"
+        404:
+          description: "user id not found"
+      x-swagger-router-controller: "product.js"
+  /noauth/campaign/open:
+    get:
+      summary: "search username"
+      description: "search username SUBSTRING"
+      operationId: "noauthGetOpenCampaigns"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: false
+          type: "integer"
+        - in: "query"
+          name: "campaignID"
+          description: "campaignID for one capmaign"
+          required: false
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "noAuth.js"
+  /noauth/campaign:
+    get:
+      summary: "get unauthenticated campaign info "
+      operationId: "noauthGetCampaigns"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: false
+          type: "integer"
+        - in: "query"
+          name: "campaignID"
+          description: "campaignID for one capmaign"
+          required: false
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "noAuth.js"
+  /campaign/shipping:
+    post:
+      summary: "a creator responce shipping code"
+      description: " creator responce shipping and set status "
+      operationId: "postShipmentStatus"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "an object for send as properties"
+          required: true
+          schema:
+            $ref: "#/definitions/responseShipping"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shipping"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "campaign.js"
+  /agency:
+    post:
+      summary: "create an agency"
+      description: "create an agency"
+      operationId: "postAgency"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "an object for send as properties"
+          required: true
+          schema:
+            $ref: "#/definitions/addAgency"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid agency"
+        404:
+          description: "Not found"
+      x-swagger-router-controller: "agency.js"
+    delete:
+      summary: "delete an agency"
+      description: "delete agency"
+      operationId: "deleteAgency"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "an object for send as properties"
+          required: true
+          schema:
+            $ref: "#/definitions/deleteAgency"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid agency"
+        404:
+          description: "Not found"
+      x-swagger-router-controller: "agency.js"
+  /agency/merchant:
+    post:
+      summary: "post Merchant To Agency"
+      description: "post Merchant Agency"
+      operationId: "postMerchantToAgency"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "an object for send as properties"
+          required: true
+          schema:
+            $ref: "#/definitions/postMerchantToAgency"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid agency"
+        404:
+          description: "Not found"
+      x-swagger-router-controller: "agency.js"
+    delete:
+      summary: "delete the merchant from an agency"
+      description: "deleteMerchantFromAgency"
+      operationId: "deleteMerchantFromAgency"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "an object for send as properties"
+          required: true
+          schema:
+            $ref: "#/definitions/deleteMerchantFromAgency"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid agency"
+        404:
+          description: "Not found"
+      x-swagger-router-controller: "agency.js"
+    get:
+      summary: "get Merchant Agency"
+      description: "list merchants and full infromation from merchant node in an array from an agency (agencyID)"
+      operationId: "getMerchantAgency"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "an object for send as properties"
+          required: true
+          schema:
+            $ref: "#/definitions/getMerchantAgency"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid agency"
+        404:
+          description: "Not found"
+      x-swagger-router-controller: "agency.js"
+  /campaign:
+    get:
+      summary: "get Campaign Information"
+      operationId: "getCampaign"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "page"
+          description: "Pagination"
+          required: false
+          type: "integer"
+        - in: "query"
+          name: "campaignID"
+          description: "campaignID for one capmaign"
+          required: false
+          type: "integer"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid shop name"
+        404:
+          description: "Shop not found"
+      x-swagger-router-controller: "campaign.js"
+  /submit:
+    post:
+      summary: "post"
+      description: "Submit the image and form"
+      operationId: "submit"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "Submit the image and form"
+          required: true
+          schema:
+            $ref: "#/definitions/submit"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid input"
+      x-swagger-router-controller: "index.js"
+  /users/profileimage:
+    post:
+      summary: "post"
+      description: "Submit the profileimage of user"
+      operationId: "profileimage"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "Submit the profileimage of user"
+          required: true
+          schema:
+            $ref: "#/definitions/profileimage"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid input"
+      x-swagger-router-controller: "index.js"
+  /forgotpassword:
+    post:
+      summary: "post"
+      description: "Forgot password"
+      operationId: "forgot_password"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "body"
+          name: "body"
+          description: "Submit the image and form"
+          required: true
+          schema:
+            $ref: "#/definitions/forgot_password"
+      responses:
+        200:
+          description: "Successful operation"
+        400:
+          description: "Invalid input"
+      x-swagger-router-controller: "index.js"
+  /login:
+    get:
+      summary: "Login"
+      description: "Login"
+      operationId: "login"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "header"
+          name: "authorization"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "successful"
+        401:
+          description: "no credential"
+        500:
+          description: "Internal Error!"
+      x-swagger-router-controller: "index.js"
+  /auth/facebook/callback:
+    get:
+      summary: "Facebook Auth"
+      description: "Facebook Auth"
+      operationId: "Facebook Auth"
+      produces:
+        - "application/xml"
+        - "application/json"
+      parameters:
+        - $ref: "#/parameters/ReusableParameterHeader"
+        - in: "query"
+          name: "code"
+          required: true
+          type: "string"
+      responses:
+        200:
+          description: "successful"
+        401:
+          description: "unauthorized"
+      x-swagger-router-controller: "index.js"
+definitions:
+  addBrand:
+    type: "object"
+    properties:
+      name:
+        type: "string"
+      description:
+        type: "string"
+      image:
+        type: "string"
+  followUser:
+    type: "object"
+    properties:
+      user_id:
+        type: "string"
+      notification:
+        type: "string"
+  reportFlatlay:
+    type: "object"
+    properties:
+      FlatlayID:
+        type: "string"
+      detail:
+        type: "string"
+  contentOriginalUrl:
+    type: "object"
+    properties:
+      contentOriginalURL:
+        type: "string"
+      campaignContentID:
+        type: "string"
+  addproducttocollection:
+    type: "object"
+    properties:
+      product_id:
+        type: "string"
+  deleteproductcollection:
+    type: "object"
+    properties:
+      product_id:
+        type: "string"
+  updateofcollection:
+    type: "object"
+    properties:
+      collection_name:
+        type: "string"
+      description:
+        type: "string"
+  addtocollection:
+    type: "object"
+    properties:
+      collection_name:
+        type: "string"
+      description:
+        type: "string"
+      user_Id:
+        type: "string"
+  deletethecollection:
+    type: "object"
+    properties:
+      collection_id:
+        type: "string"
+  postCommentFlatlay:
+    type: "object"
+    properties:
+      flatlay_id:
+        type: "string"
+      comment:
+        type: "string"
+  deletecommentflatlay:
+    type: "object"
+    properties:
+      commentId:
+        type: "string"
+  postCommentOnProduct:
+    type: "object"
+    properties:
+      product_id:
+        type: "string"
+      comment:
+        type: "string"
+  deletecommentofproduct:
+    type: "object"
+    properties:
+      commentId:
+        type: "string"
+  updatecommentonflatlay:
+    type: "object"
+    properties:
+      commentId:
+        type: "string"
+      comment:
+        type: "string"
+  updatecommentonproduct:
+    type: "object"
+    properties:
+      commentId:
+        type: "string"
+      comment:
+        type: "string"
+  likeonflatlay:
+    type: "object"
+    properties:
+      flatlayId:
+        type: "string"
+  deletelikeofflatlay:
+    type: "object"
+    properties:
+      flatlay_Id:
+        type: "string"
+  likeOnProduct:
+    type: "object"
+    properties:
+      productId:
+        type: "string"
+  deleteLikeOnProduct:
+    type: "object"
+    properties:
+      productId:
+        type: "string"
+  updateCart:
+    type: "object"
+    properties:
+      cart_id:
+        type: "string"
+      status:
+        type: "string"
+  addCreditCard:
+    type: "object"
+    properties:
+      cardNumber:
+        type: "string"
+      sequrityNumber:
+        type: "string"
+      expiredDate:
+        type: "string"
+      pName:
+        type: "string"
+      main:
+        type: "integer"
+  updatecreditcard:
+    type: "object"
+    properties:
+      creditCard_id:
+        type: "string"
+      cardNumber:
+        type: "string"
+      sequrityNumber:
+        type: "string"
+      expiredDate:
+        type: "string"
+      pName:
+        type: "string"
+      main:
+        type: "integer"
+  deletecreditcard:
+    type: "object"
+    properties:
+      creditCard_id:
+        type: "string"
+  deleteflatlaypost:
+    type: "object"
+    properties:
+      flatlay_Id:
+        type: "string"
+  postTagInput:
+    type: "object"
+    properties:
+      item_id:
+        type: "string"
+      item_type:
+        type: "string"
+      item_name:
+        type: "string"
+      item_xy:
+        type: "string"
+      flatlay_id:
+        type: "string"
+  deletetag:
+    type: "object"
+    properties:
+      item_id:
+        type: "string"
+      item_type:
+        type: "string"
+      flatlay_id:
+        type: "string"
+  addCart:
+    type: "object"
+    properties:
+      attribute:
+        type: "object"
+  productArray:
+    type: "array"
+    items:
+      type: "string"
+  addAddress:
+    type: "object"
+    properties:
+      main:
+        type: "integer"
+      line1:
+        type: "string"
+      line2:
+        type: "string"
+      city:
+        type: "string"
+      state:
+        type: "string"
+      country:
+        type: "string"
+      zip:
+        type: "string"
+  updateAddress:
+    type: "object"
+    properties:
+      address_id:
+        type: "string"
+      main:
+        type: "integer"
+      line1:
+        type: "string"
+      line2:
+        type: "string"
+      city:
+        type: "string"
+      state:
+        type: "string"
+      country:
+        type: "string"
+      zip:
+        type: "string"
+  deleteAddress:
+    type: "object"
+    properties:
+      address_id:
+        type: "string"
+  userdetails:
+    type: "object"
+    properties:
+      birthday:
+        type: "string"
+      email:
+        type: "string"
+      username:
+        type: "string"
+      firstname:
+        type: "string"
+      lastname:
+        type: "string"
+      hometown:
+        type: "string"
+      location:
+        type: "string"
+      devicetype:
+        type: "string"
+      password:
+        type: "string"
+      pin:
+        type: "string"
+      facebookid:
+        type: "string"
+      twitterid:
+        type: "string"
+      phone_num:
+        type: "string"
+      status:
+        type: "string"
+      fb_friend_list:
+        type: "string"
+      twitter_friend_list:
+        type: "string"
+      profilePic:
+        type: "string"
+      current_screen:
+        type: "string"
+      background_pic:
+        type: "string"
+      comments_notification_setting:
+        type: "string"
+      followers_notification_setting:
+        type: "string"
+      favourites_notification_setting:
+        type: "string"
+      purchases_notification_setting:
+        type: "string"
+      dateadded:
+        type: "string"
+      datemodified:
+        type: "string"
+      socialregister:
+        type: "string"
+      description:
+        type: "string"
+      rewardgiven_firstpurchase:
+        type: "string"
+      rewardgiven_firstcollectionwithfiveproducts:
+        type: "string"
+      instagram:
+        type: "string"
+      facebook:
+        type: "string"
+      twitter:
+        type: "string"
+      pinterest:
+        type: "string"
+      youtube:
+        type: "string"
+      userId:
+        type: "string"
+  userupdatedetails:
+    type: "object"
+    properties:
+      birthday:
+        type: "string"
+      email:
+        type: "string"
+      username:
+        type: "string"
+      firstname:
+        type: "string"
+      lastname:
+        type: "string"
+      hometown:
+        type: "string"
+      location:
+        type: "string"
+      devicetype:
+        type: "string"
+      oldpass:
+        type: "string"
+      password:
+        type: "string"
+      pin:
+        type: "string"
+      facebookid:
+        type: "string"
+      twitterid:
+        type: "string"
+      phone_num:
+        type: "string"
+      status:
+        type: "string"
+      fb_friend_list:
+        type: "string"
+      twitter_friend_list:
+        type: "string"
+      profilePic:
+        type: "string"
+      current_screen:
+        type: "string"
+      background_pic:
+        type: "string"
+      comments_notification_setting:
+        type: "string"
+      followers_notification_setting:
+        type: "string"
+      favourites_notification_setting:
+        type: "string"
+      purchases_notification_setting:
+        type: "string"
+      description:
+        type: "string"
+      rewardgiven_firstpurchase:
+        type: "string"
+      rewardgiven_firstcollectionwithfiveproducts:
+        type: "string"
+      instagram:
+        type: "string"
+      facebook:
+        type: "string"
+      twitter:
+        type: "string"
+      pinterest:
+        type: "string"
+      youtube:
+        type: "string"
+      google:
+        type: "string"
+      twitch:
+        type: "string"
+      snapchat:
+        type: "string"
+      instagramToken:
+        type: "string"
+      facebookToken:
+        type: "string"
+      twitterToken:
+        type: "string"
+      pinterestToken:
+        type: "string"
+      youtubeToken:
+        type: "string"
+      googleToken:
+        type: "string"
+      twitchToken:
+        type: "string"
+      snapchatToken:
+        type: "string"
+
+  postcampaign:
+    type: "object"
+    properties:
+      campaignID:
+        type: "string"
+      rsvp:
+        type: "boolean"
+  editcampaign:
+    type: "object"
+    properties:
+      contentID:
+        type: "string"
+      imageURL:
+        type: "string"
+      livePostLink:
+        type: "string"
+  postpiccampaign:
+    type: "object"
+    properties:
+      campaignID:
+        type: "string"
+      imageURL:
+        type: "string"
+      livePostLink:
+        type: "string"
+  deleteCampaignContentPost:
+    type: "object"
+    properties:
+      campaignId:
+        type: "string"
+  postpiccampaignapproval:
+    type: "object"
+    properties:
+      campaigncontentid:
+        type: "string"
+      approve:
+        type: "boolean"
+  rsvpCampaignInviteCreator:
+    type: "object"
+    properties:
+      rsvp:
+        type: "boolean"
+  wishLists:
+    type: "object"
+    properties:
+      productID:
+        type: "string"
+  deletewishlist:
+    type: "object"
+    properties:
+      productID:
+        type: "string"
+  creatorApplCampaign:
+    type: "object"
+    properties:
+      campaignID:
+        type: "string"
+  responseShipping:
+    type: "object"
+    properties:
+      campaignID:
+        type: "string"
+      received:
+        type: "boolean"
+  addAgency:
+    type: "object"
+    properties:
+      name:
+        type: "string"
+  deleteAgency:
+    type: "object"
+    properties:
+      agencyID:
+        type: "string"
+  postMerchantToAgency:
+    type: "object"
+    properties:
+      agencyID:
+        type: "string"
+      merchantID:
+        type: "string"
+  deleteMerchantFromAgency:
+    type: "object"
+    properties:
+      agencyID:
+        type: "string"
+      merchantID:
+        type: "string"
+  getMerchantAgency:
+    type: "object"
+    properties:
+      agencyID:
+        type: "string"
+  submit:
+    type: "object"
+    properties:
+      buffer:
+        type: "string"
+      originalname:
+        type: "string"
+  profileimage:
+    type: "object"
+    properties:
+      buffer:
+        type: "string"
+      originalname:
+        type: "string"
+  forgot_password:
+    type: "object"
+    properties:
+      email:
+        type: "string"
+  campaign_content:
+    type: "object"
+    properties:
+      buffer:
+        type: "string"
+      originalname:
+        type: "string"
+  updateflatlaypost:
+    type: "object"
+    properties:
+      description:
+        type: "string"
+      flatlay_Id:
+        type: "string"
+      userId:
+        type: "string"
+  post_image:
+    type: "object"
+    properties:
+      description:
+        type: "string"
+      flatlay_Id:
+        type: "string"
+      userId:
+        type: "string"
