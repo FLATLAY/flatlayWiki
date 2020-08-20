@@ -2,6 +2,7 @@
 
 # Database Schema
 ## Cypher Script
+[Db Schema Script](/uploads/technical-diagrams/db-schema-script "Db Schema Script")
 
 ## Database Graph
 ![Graph](/uploads/technical-diagrams/graph.png "Graph")
