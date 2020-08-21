@@ -2,9 +2,10 @@
 
 # Database Schema
 ![Graph](/uploads/technical-diagrams/graph.png "Graph")
+[Db Schema Script](/uploads/technical-diagrams/db-schema-script.cypher "Db Schema Script")
 
 
 # Class Diagram
-![Updated Class Diagram 1](/uploads/technical-diagrams/updated-class-diagram-1.png "Updated Class Diagram 1")
+![Class Diagram](/uploads/technical-diagrams/updated-class-diagram-1.png "Updated Class Diagram 1")
 
-[Updated Class Diagram 4](/uploads/technical-diagrams/updated-class-diagram-4.drawio "Updated Class Diagram 4")
+[Class Diagram Source File](/uploads/technical-diagrams/updated-class-diagram-4.drawio "Updated Class Diagram 4")
