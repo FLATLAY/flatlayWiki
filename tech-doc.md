@@ -13,3 +13,7 @@
 
 # Swagger
 [Swagger Ref](/uploads/technical-diagrams/swagger-ref.yaml "Swagger Ref")
+
+
+# Social Analytics API Documentation
+[Api Documentation 1](/uploads/api-documentation-1.pdf "Api Documentation 1")
