@@ -16,4 +16,4 @@
 
 
 # Social Analytics API Documentation
-[Api Documentation 1](/uploads/api-documentation-1.pdf "Api Documentation 1")
+[Api Documentation](/uploads/api-documentation-1.pdf "Api Documentation 1")
