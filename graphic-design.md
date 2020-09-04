@@ -17,6 +17,8 @@ There is an also overarching Google Drive Folder, combining both old and new ass
 ## Assets page
 https://wiki.flatlay.io/graphic-design/design-documents
 
+FLATLAY Design Brief: https://docs.google.com/document/d/1WAh1AOyrWGohACef9KYaoOrkJTb1j2Yxw_xiCrireuo/edit
+
 # Processes
 ## Communicating with the team
 
