@@ -20,4 +20,4 @@
 
 
 # FB API Documentation
-[FB API Documentation](/uploads/fb-doc/FB_Doc.pdf "FB Api Documentation")
+[FB API Documentation]
