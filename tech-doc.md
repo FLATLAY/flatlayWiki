@@ -20,7 +20,7 @@
 
 
 # FB API Documentation
-[FB API Documentation][Fb Doc](/uploads/test-1/fb-doc.pdf "Fb Doc")
+[Fb Doc](/uploads/test-1/fb-doc.pdf "Fb Doc")
 
 
 # Design Assets
