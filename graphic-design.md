@@ -19,6 +19,15 @@ https://wiki.flatlay.io/graphic-design/design-documents
 
 FLATLAY Design Brief: https://docs.google.com/document/d/1WAh1AOyrWGohACef9KYaoOrkJTb1j2Yxw_xiCrireuo/edit
 
+
+NEW FLATLAY 2.0 DESIGN SHEETS & INSTRUCTIONS
+
+CTA Homepage Instructions: https://docs.google.com/spreadsheets/d/1X44RlexHrDQIXraqVMROKBiqqfZM2dV8nxxpuvy5Dm4/edit#gid=1783029483
+
+Master Figma Design File & Wireframe App: https://www.figma.com/file/jGTE5e8dVrjOQCnVPp7Oyr/1603308532028_Flatlay-Master-File?node-id=0%3A1
+
+Design Walk Through Video: https://drive.google.com/file/d/1BjtME7qYeIpfbgjBECgsBivOeex2LMja/view?usp=sharing_eip&ts=5f750c2e
+
 # Processes
 ## Communicating with the team
 
