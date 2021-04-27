@@ -8,6 +8,8 @@
 
 #### 1. Create Checkout, for creating checkout call api:
 
+
+```text
 `curl --location --request POST 'https://dev.flatlay.io/checkout' \
 --header 'authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFsaXJlemEuZXNAZ21haWwuY29tIiwidXNlcklkIjoiNjE0NzMiLCJpYXQiOjE2MTE3NTg4MDMsImV4cCI6MTYxNjk0MjgwM30.gYN218tK51xd_3y4LseMdEGFIzbOSpp78LwGrPGvKO4' \
 --header 'Content-Type: application/json' \
@@ -41,6 +43,8 @@
    ]
  }
    }}'`
+```
+
 	 
 	 
 	 In this API you should send the following items:
