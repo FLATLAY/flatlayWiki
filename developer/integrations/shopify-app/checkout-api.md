@@ -59,18 +59,15 @@ when you create the checkout the response is the same object that you have sent 
 ### 2. after creating checkout and setting the address we should set the shipping rate, base on the selected product we show a list of option that user can have
 
 
-
-
-
-
-`curl --location --request POST 'https://dev.flatlay.io/checkout/getshippingrates' \
+`
+curl --location --request POST 'https://dev.flatlay.io/checkout/getshippingrates' \
 --header 'authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFsaXJlemEuZXNAZ21haWwuY29tIiwidXNlcklkIjoiNjE0NzMiLCJpYXQiOjE2MTE3NTg4MDMsImV4cCI6MTYxNjk0MjgwM30.gYN218tK51xd_3y4LseMdEGFIzbOSpp78LwGrPGvKO4' \
 --header 'Content-Type: application/json' \
 --data-raw '{
    "shopName":"paxsun.myshopify.com",
   "checkoutId":"88ddde765ccdd29a0980fdbbb53a5abf"
-  
-}'`
+ }'
+ `
 
 
 
