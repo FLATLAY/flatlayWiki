@@ -1,4 +1,4 @@
-<!-- TITLE: Checkout Api -->
+<!-- TITLE: Shopify Product Checkout Api -->
 <!-- SUBTITLE: A quick summary of Checkout Api -->
 
 # Shopify Product Checkout
