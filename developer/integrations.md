@@ -19,6 +19,7 @@ BigCommerce
 Magneto
 Shopify
 * Developers: https://wiki.flatlay.io/developer/integrations/shopify-app
+* Checkout API : https://wiki.flatlay.io/developer/integrations/shopify-app/checkout-api
 
 # Other
 Stripe - Payments
