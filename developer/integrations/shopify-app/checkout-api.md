@@ -6,6 +6,10 @@
 
 ### Steps:
 
+
+-----
+
+
 #### 1. Create Checkout, for creating checkout call api:
 
 
@@ -54,6 +58,10 @@ In this API you should send the following items:
 
 when you create the checkout the response is the same object that you have sent with the token that has been created for this checkout, ***you should keep this token to continue this process***.
 
+
+-----
+
+
 #### 2. after creating checkout and setting the address we should set the shipping rate, base on the selected product we show a list of option that user can have
 
 
@@ -73,6 +81,10 @@ when you create the checkout the response is the same object that you have sent 
 In this API you should send the following items:
 * shop name
 * checkoutId: a token that was the response of creating checkout.
+
+
+-----
+
 
 #### 3. The next step is to set the selected shipping rate for checkout, this API is for update checkout and we can use it to set or update the shopping address
 
@@ -100,6 +112,10 @@ In this API you should send the following items:
 * shop name
 * checkoutId
 * shipping_line is the selected shipping rates
+
+
+-----
+
 
 #### 4. for the final step after setting all properties, call the "payment"  API for creating a payment, before creating the payment, the user should select a card for pay. 
 
