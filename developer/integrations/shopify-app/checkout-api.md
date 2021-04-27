@@ -47,7 +47,8 @@
 
 	 
 	 
-	 In this API you should send the following items:
+	 
+In this API you should send the following items:
 * shop name of the product which we have in product detail like "paxsun.myshopify.com"
 * inside  checkoutItem, we have checkout object, checkout object contain shipping_address, billing_address, and line_items (billing_address,shipping_address are not required to be sent in this step, they can be pass in another step too)
 
