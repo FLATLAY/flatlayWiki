@@ -4,10 +4,10 @@
 # Shopify Product Checkout
 > *This process should include one product for creating a checkout
 
-### Steps:
+## Steps:
 
 
-#### 1. Create Checkout, for creating checkout call api:
+### 1. Create Checkout, for creating checkout call api:
 
 
 
@@ -59,7 +59,7 @@ when you create the checkout the response is the same object that you have sent 
 
 
 
-#### 2. after creating checkout and setting the address we should set the shipping rate, base on the selected product we show a list of option that user can have
+### 2. after creating checkout and setting the address we should set the shipping rate, base on the selected product we show a list of option that user can have
 
 
 
@@ -84,7 +84,7 @@ In this API you should send the following items:
 
 
 
-#### 3. The next step is to set the selected shipping rate for checkout, this API is for update checkout and we can use it to set or update the shopping address
+### 3. The next step is to set the selected shipping rate for checkout, this API is for update checkout and we can use it to set or update the shopping address
 
 
 
@@ -116,7 +116,7 @@ In this API you should send the following items:
 
 
 
-#### 4. for the final step after setting all properties, call the "payment"  API for creating a payment, before creating the payment, the user should select a card for pay. 
+### 4. for the final step after setting all properties, call the "payment"  API for creating a payment, before creating the payment, the user should select a card for pay. 
 
 
 
