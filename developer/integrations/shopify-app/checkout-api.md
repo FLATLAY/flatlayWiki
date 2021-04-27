@@ -11,8 +11,6 @@
 
 
 
-
-```text
 `curl --location --request POST 'https://dev.flatlay.io/checkout' \
 --header 'authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFsaXJlemEuZXNAZ21haWwuY29tIiwidXNlcklkIjoiNjE0NzMiLCJpYXQiOjE2MTE3NTg4MDMsImV4cCI6MTYxNjk0MjgwM30.gYN218tK51xd_3y4LseMdEGFIzbOSpp78LwGrPGvKO4' \
 --header 'Content-Type: application/json' \
@@ -46,7 +44,6 @@
    ]
  }
    }}'`
-```
 
 	 
 	 
@@ -64,7 +61,6 @@ when you create the checkout the response is the same object that you have sent 
 
 
 
-```text
 `curl --location --request POST 'https://dev.flatlay.io/checkout/getshippingrates' \
 --header 'authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFsaXJlemEuZXNAZ21haWwuY29tIiwidXNlcklkIjoiNjE0NzMiLCJpYXQiOjE2MTE3NTg4MDMsImV4cCI6MTYxNjk0MjgwM30.gYN218tK51xd_3y4LseMdEGFIzbOSpp78LwGrPGvKO4' \
 --header 'Content-Type: application/json' \
@@ -72,9 +68,7 @@ when you create the checkout the response is the same object that you have sent 
    "shopName":"paxsun.myshopify.com",
   "checkoutId":"88ddde765ccdd29a0980fdbbb53a5abf"
   
-}'
-`
-```
+}'`
 
 
 In this API you should send the following items:
@@ -89,8 +83,8 @@ In this API you should send the following items:
 
 
 
-```text
-`curl --location --request POST 'https://dev.flatlay.io/checkout/update' \
+`
+curl --location --request POST 'https://dev.flatlay.io/checkout/update' \
 --header 'authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFsaXJlemEuZXNAZ21haWwuY29tIiwidXNlcklkIjoiNjE0NzMiLCJpYXQiOjE2MTE3NTg4MDMsImV4cCI6MTYxNjk0MjgwM30.gYN218tK51xd_3y4LseMdEGFIzbOSpp78LwGrPGvKO4' \
 --header 'Content-Type: application/json' \
 --data-raw '{
@@ -103,9 +97,8 @@ In this API you should send the following items:
        {
            "handle": "shopify-Free%20Shipping-0.00"
        }
-}}}'`
-```
-
+}}}'
+`
 
 
 In this API you should send the following items:
@@ -121,7 +114,6 @@ In this API you should send the following items:
 
 
 
-```text
 `curl --location --request POST 'https://dev.flatlay.io/payment' \
 --header 'authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFsaXJlemEuZXNAZ21haWwuY29tIiwidXNlcklkIjoiNjE0NzMiLCJpYXQiOjE2MTE3NTg4MDMsImV4cCI6MTYxNjk0MjgwM30.gYN218tK51xd_3y4LseMdEGFIzbOSpp78LwGrPGvKO4' \
 --header 'Accept-Language: en-US,en;q=0.9' \
@@ -131,9 +123,8 @@ In this API you should send the following items:
    "checkoutId":"5deed0197786b4676018f2baeb28703a",
    "customerId":"cus_IvToU5eNcdD15k",
    "cardId":"card_1IK62hDHP9PnFF5Dsul5mEnN"
-}'`
-```
-
+}'
+`
 
 In this API you should send the following items:
 * shop name
