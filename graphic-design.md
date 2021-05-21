@@ -28,6 +28,8 @@ Master Figma Design File & Wireframe App: https://www.figma.com/file/Rx4FUo6GsKr
 
 Mobile Design File & Wireframe App: https://www.figma.com/file/6uvTcVckBSSy7hf4EnPxT8/Flatlay-App?node-id=21%3A1698
 
+Mobile  System / Component Spec: https://www.figma.com/file/6uvTcVckBSSy7hf4EnPxT8/Flatlay-App?node-id=104%3A2
+
 Design Walk Through Video: https://drive.google.com/file/d/1BjtME7qYeIpfbgjBECgsBivOeex2LMja/view?usp=sharing_eip&ts=5f750c2e
 
 # Processes
