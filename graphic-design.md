@@ -24,7 +24,9 @@ NEW FLATLAY 2.0 DESIGN SHEETS & INSTRUCTIONS
 
 CTA Homepage Instructions: https://docs.google.com/spreadsheets/d/1X44RlexHrDQIXraqVMROKBiqqfZM2dV8nxxpuvy5Dm4/edit#gid=1783029483
 
-Master Figma Design File & Wireframe App: https://www.figma.com/file/jGTE5e8dVrjOQCnVPp7Oyr/1603308532028_Flatlay-Master-File?node-id=0%3A1
+Master Figma Design File & Wireframe App: https://www.figma.com/file/Rx4FUo6GsKrOiQr0b9qDS2/Flatlay-Master-File--Final?node-id=0%3A1
+
+Mobile Design File & Wireframe App: https://www.figma.com/file/6uvTcVckBSSy7hf4EnPxT8/Flatlay-App?node-id=21%3A1698
 
 Design Walk Through Video: https://drive.google.com/file/d/1BjtME7qYeIpfbgjBECgsBivOeex2LMja/view?usp=sharing_eip&ts=5f750c2e
 
