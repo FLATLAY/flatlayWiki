@@ -34,6 +34,13 @@ Running on serverless infrastructure, Lambda
 **Currently capable of storing:** Amazon, Shopify, Viglink 
 * Product Database/Elastic Search: (Rakuten/Linkshare), working on Shopify Sales Channel integration/approval
 
+## Android project
+**Username:** flatlay
+**Password**: flatlay
+**Master Password**: abhishek
+**Build:** https://drive.google.com/file/d/1jPcsDfeCAqBnEkp5dcwCRbu2wIWzB_G0/view?usp=sharing
+
+
 ## Instagram (Morteza’s project atm)
 **Database:** InstaNeo4J
 **MightyScout:** Influencer information website, recommendations for other influencers based on 1 sample
