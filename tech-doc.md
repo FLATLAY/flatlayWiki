@@ -24,7 +24,7 @@
 
 
 # Design Assets
-https://www.figma.com/file/jGTE5e8dVrjOQCnVPp7Oyr/1603308532028_Flatlay-Master-File?node-id=0%3A1
+https://www.figma.com/file/Rx4FUo6GsKrOiQr0b9qDS2/Flatlay-Master-File--Final
 
 
 # Brand Portal Flow Chart
