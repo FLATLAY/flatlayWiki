@@ -10,6 +10,11 @@
 
 [Class Diagram Source File](/uploads/technical-diagrams/updated-class-diagram-4.drawio "Updated Class Diagram 4")
 
+# AWS Backend Infrastructure Diagram
+![Flatlay](/uploads/technical-diagrams/flatlay.png "Flatlay")
+
+
+# AWS AppSync Diagram
 
 # Swagger
 [Swagger Ref](/uploads/technical-diagrams/swagger-ref.yaml "Swagger Ref")
