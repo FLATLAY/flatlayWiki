@@ -15,7 +15,7 @@
 
 
 # AWS AppSync Diagram
-
+![Flatlayappsyncdiagram](/uploads/technical-diagrams/flatlayappsyncdiagram.png "Flatlayappsyncdiagram")
 # Swagger
 [Swagger Ref](/uploads/technical-diagrams/swagger-ref.yaml "Swagger Ref")
 
