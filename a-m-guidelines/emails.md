@@ -43,6 +43,10 @@ We break down targeting into seed models based on the demographic you are lookin
 Integrations simple, we use the existing affiliate feed and will circle back with a login when ready for use with the company social accounts to customize the recommendations.
 
 # (future) Storage
+## Design Platform for Email Templates
+https://my.stripo.email/
+user: ali@theflatlay.com
+password : ksy6^oDnXT*m
 
 ## Public facing assets that they mostly will be used in email templates 
 https://s3.console.aws.amazon.com/s3/buckets/flatlay-public-assets/?region=us-west-2&tab=overview
